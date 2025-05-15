@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3258A01-D5A6-48BF-96F1-CB4808C4F678}|03. Rectangle Area\\03. Rectangle Area.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\03. rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3258A01-D5A6-48BF-96F1-CB4808C4F678}|03. Rectangle Area\\03. Rectangle Area.csproj|solutionrelative:03. rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BAF066-7E91-47E1-996E-4145BD6E34F5}|02. Nums 1-10\\02. Nums 1-10.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\02. nums 1-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BAF066-7E91-47E1-996E-4145BD6E34F5}|02. Nums 1-10\\02. Nums 1-10.csproj|solutionrelative:02. nums 1-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95A4647-CCD1-46F8-86AA-DFC237DCCF85}|09.YardGreening\\09.YardGreening.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A4647-CCD1-46F8-86AA-DFC237DCCF85}|09.YardGreening\\09.YardGreening.csproj|solutionrelative:09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E40A14-2618-416B-A0C5-C51152097CDE}|08.PetShop\\08.PetShop.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\08.petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E40A14-2618-416B-A0C5-C51152097CDE}|08.PetShop\\08.PetShop.csproj|solutionrelative:08.petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58A3B27-DF06-4F91-8E32-073F6198CF58}|07.ProjectsCreation\\07.ProjectsCreation.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\07.projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58A3B27-DF06-4F91-8E32-073F6198CF58}|07.ProjectsCreation\\07.ProjectsCreation.csproj|solutionrelative:07.projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B625780A-36E8-4B54-AD0C-16A948F246FB}|06. Concatenate Data\\06. Concatenate Data.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\06. concatenate data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B625780A-36E8-4B54-AD0C-16A948F246FB}|06. Concatenate Data\\06. Concatenate Data.csproj|solutionrelative:06. concatenate data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F217FB3-8B2C-43A9-9C99-3412E1142E87}|05. Greeting by Name\\05. Greeting by Name.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\05. greeting by name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F217FB3-8B2C-43A9-9C99-3412E1142E87}|05. Greeting by Name\\05. Greeting by Name.csproj|solutionrelative:05. greeting by name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7785E091-CB7A-46CA-914F-47A829F73A4B}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\04. inches to centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7785E091-CB7A-46CA-914F-47A829F73A4B}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|solutionrelative:04. inches to centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC557EA-B006-4549-B828-4FFD1194CB58}|01. Hello SoftUni\\01. Hello SoftUni.csproj|c:\\users\\umrel\\source\\repos\\01. hello softuni\\01. hello softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC557EA-B006-4549-B828-4FFD1194CB58}|01. Hello SoftUni\\01. Hello SoftUni.csproj|solutionrelative:01. hello softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\09.YardGreening\\Program.cs",
+              "RelativeDocumentMoniker": "09.YardGreening\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\09.YardGreening\\Program.cs",
+              "RelativeToolTip": "09.YardGreening\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:26:43.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\07.ProjectsCreation\\Program.cs",
+              "RelativeDocumentMoniker": "07.ProjectsCreation\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\07.ProjectsCreation\\Program.cs",
+              "RelativeToolTip": "07.ProjectsCreation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:21:49.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\06. Concatenate Data\\Program.cs",
+              "RelativeDocumentMoniker": "06. Concatenate Data\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\06. Concatenate Data\\Program.cs",
+              "RelativeToolTip": "06. Concatenate Data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:51:21.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\02. Nums 1-10\\Program.cs",
+              "RelativeDocumentMoniker": "02. Nums 1-10\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\02. Nums 1-10\\Program.cs",
+              "RelativeToolTip": "02. Nums 1-10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:14:08.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\03. Rectangle Area\\Program.cs",
+              "RelativeDocumentMoniker": "03. Rectangle Area\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\03. Rectangle Area\\Program.cs",
+              "RelativeToolTip": "03. Rectangle Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:42:58.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\08.PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "08.PetShop\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\08.PetShop\\Program.cs",
+              "RelativeToolTip": "08.PetShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:38:04.509Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\05. Greeting by Name\\Program.cs",
+              "RelativeDocumentMoniker": "05. Greeting by Name\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\05. Greeting by Name\\Program.cs",
+              "RelativeToolTip": "05. Greeting by Name\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:47:59.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\04. Inches to Centimeters\\Program.cs",
+              "RelativeDocumentMoniker": "04. Inches to Centimeters\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\04. Inches to Centimeters\\Program.cs",
+              "RelativeToolTip": "04. Inches to Centimeters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:16:11.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\01. Hello SoftUni\\Program.cs",
+              "RelativeDocumentMoniker": "01. Hello SoftUni\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01. Hello SoftUni\\01. Hello SoftUni\\Program.cs",
+              "RelativeToolTip": "01. Hello SoftUni\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:08:47.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

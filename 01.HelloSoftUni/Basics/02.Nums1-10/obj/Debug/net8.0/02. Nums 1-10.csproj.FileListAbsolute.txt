@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\02. Nums 1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\02. Nums 1-10.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\02. Nums 1-10.AssemblyInfo.cs
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\02. Nums 1-10.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\bin\Debug\net8.0\02. Nums 1-10.exe
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\bin\Debug\net8.0\02. Nums 1-10.deps.json
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\bin\Debug\net8.0\02. Nums 1-10.runtimeconfig.json
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\bin\Debug\net8.0\02. Nums 1-10.dll
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\bin\Debug\net8.0\02. Nums 1-10.pdb
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\02. Nums 1-10.dll
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\refint\02. Nums 1-10.dll
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\02. Nums 1-10.pdb
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\02. Nums 1-10.genruntimeconfig.cache
+C:\Users\umrel\source\repos\01. Hello SoftUni\02. Nums 1-10\obj\Debug\net8.0\ref\02. Nums 1-10.dll
