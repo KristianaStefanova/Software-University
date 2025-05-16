@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\05.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\05.Messages.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\05.Messages.AssemblyInfo.cs
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\05.Messages.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\net8.0\05.Messages.exe
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\net8.0\05.Messages.deps.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\net8.0\05.Messages.runtimeconfig.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\net8.0\05.Messages.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\net8.0\05.Messages.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\05.Messages.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\refint\05.Messages.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\05.Messages.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\05.Messages.genruntimeconfig.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\net8.0\ref\05.Messages.dll

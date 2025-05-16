@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC76FA2-D26B-48CC-9ACD-F249482AFB01}|10.RageExpenses\\10.RageExpenses.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\10.rageexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC76FA2-D26B-48CC-9ACD-F249482AFB01}|10.RageExpenses\\10.RageExpenses.csproj|solutionrelative:10.rageexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3187A430-F702-45E6-8A8E-EF9A0F7A1693}|2.Divison\\2.Divison.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\2.divison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3187A430-F702-45E6-8A8E-EF9A0F7A1693}|2.Divison\\2.Divison.csproj|solutionrelative:2.divison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A721CCD-8816-4002-8A15-54BA6EE4F802}|6.StrongNumber\\6.StrongNumber.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\6.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A721CCD-8816-4002-8A15-54BA6EE4F802}|6.StrongNumber\\6.StrongNumber.csproj|solutionrelative:6.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A38AF3F-BFB5-4CC0-AEF5-210714C2A448}|8.TriangleOfNumbers\\8.TriangleOfNumbers.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\8.triangleofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A38AF3F-BFB5-4CC0-AEF5-210714C2A448}|8.TriangleOfNumbers\\8.TriangleOfNumbers.csproj|solutionrelative:8.triangleofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC0AE1-206E-4888-8FC5-A94B59780FC6}|11.Orders\\11.Orders.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\11.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC0AE1-206E-4888-8FC5-A94B59780FC6}|11.Orders\\11.Orders.csproj|solutionrelative:11.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054E8A9F-3CA5-41FB-AFF1-E45E360C4D6E}|9.PadawanEquipment\\9.PadawanEquipment.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\9.padawanequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054E8A9F-3CA5-41FB-AFF1-E45E360C4D6E}|9.PadawanEquipment\\9.PadawanEquipment.csproj|solutionrelative:9.padawanequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F6C8A-EBF5-4E96-8422-94F12F2790AA}|7.VendingMachine\\7.VendingMachine.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\7.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F6C8A-EBF5-4E96-8422-94F12F2790AA}|7.VendingMachine\\7.VendingMachine.csproj|solutionrelative:7.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAD81E8-86C2-4A6C-BE57-A1E91037F9AA}|5.Login\\5.Login.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\5.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAD81E8-86C2-4A6C-BE57-A1E91037F9AA}|5.Login\\5.Login.csproj|solutionrelative:5.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EDB591-426F-4854-AC36-B181BEB289E8}|4.PrintAndSum\\4.PrintAndSum.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\4.printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EDB591-426F-4854-AC36-B181BEB289E8}|4.PrintAndSum\\4.PrintAndSum.csproj|solutionrelative:4.printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC2292C-6962-4AE8-A69D-49E5B7E793A1}|3.Vacation\\3.Vacation.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\3.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC2292C-6962-4AE8-A69D-49E5B7E793A1}|3.Vacation\\3.Vacation.csproj|solutionrelative:3.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0948D8FC-664C-4E1E-84D9-900619935770}|1.Ages\\1.Ages.csproj|c:\\users\\umrel\\source\\repos\\01.exerciseintroadbasicsyntax\\1.ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0948D8FC-664C-4E1E-84D9-900619935770}|1.Ages\\1.Ages.csproj|solutionrelative:1.ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\11.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "11.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\11.Orders\\Program.cs",
+              "RelativeToolTip": "11.Orders\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:22:19.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\10.RageExpenses\\Program.cs",
+              "RelativeDocumentMoniker": "10.RageExpenses\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\10.RageExpenses\\Program.cs",
+              "RelativeToolTip": "10.RageExpenses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:51:42.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\9.PadawanEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "9.PadawanEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\9.PadawanEquipment\\Program.cs",
+              "RelativeToolTip": "9.PadawanEquipment\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:06:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\8.TriangleOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "8.TriangleOfNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\8.TriangleOfNumbers\\Program.cs",
+              "RelativeToolTip": "8.TriangleOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:24:22.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\7.VendingMachine\\Program.cs",
+              "RelativeDocumentMoniker": "7.VendingMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\7.VendingMachine\\Program.cs",
+              "RelativeToolTip": "7.VendingMachine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:40:53.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\6.StrongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "6.StrongNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\6.StrongNumber\\Program.cs",
+              "RelativeToolTip": "6.StrongNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:08:44.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\5.Login\\Program.cs",
+              "RelativeDocumentMoniker": "5.Login\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\5.Login\\Program.cs",
+              "RelativeToolTip": "5.Login\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:26:26.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\4.PrintAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "4.PrintAndSum\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\4.PrintAndSum\\Program.cs",
+              "RelativeToolTip": "4.PrintAndSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:14:52.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\3.Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "3.Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\3.Vacation\\Program.cs",
+              "RelativeToolTip": "3.Vacation\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:46:37.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\2.Divison\\Program.cs",
+              "RelativeDocumentMoniker": "2.Divison\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\2.Divison\\Program.cs",
+              "RelativeToolTip": "2.Divison\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:38:58.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\1.Ages\\Program.cs",
+              "RelativeDocumentMoniker": "1.Ages\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.ExerciseIntroAdBasicSyntax\\1.Ages\\Program.cs",
+              "RelativeToolTip": "1.Ages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA/wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:31:11.182Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

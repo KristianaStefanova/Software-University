@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD097719-6410-4755-AFA4-90499AAEB0C6}|14\\14.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD097719-6410-4755-AFA4-90499AAEB0C6}|14\\14.csproj|solutionrelative:14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD741E4F-C2DA-4B5D-B48F-4FADDF2C6D9E}|13\\13.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD741E4F-C2DA-4B5D-B48F-4FADDF2C6D9E}|13\\13.csproj|solutionrelative:13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AE3747-3172-49FD-BDAF-8317F1D79895}|06.WeddingSeats\\06.WeddingSeats.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\06.weddingseats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AE3747-3172-49FD-BDAF-8317F1D79895}|06.WeddingSeats\\06.WeddingSeats.csproj|solutionrelative:06.weddingseats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999B7B5F-6F9A-4D24-82DF-4016FCF72F34}|02.LettersCombinations\\02.LettersCombinations.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\02.letterscombinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999B7B5F-6F9A-4D24-82DF-4016FCF72F34}|02.LettersCombinations\\02.LettersCombinations.csproj|solutionrelative:02.letterscombinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53955B9-8533-4942-B27C-E11127B62ECD}|07.SafePasswordsGenerator\\08.SecretDoor\u0027sLock.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\07.safepasswordsgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53955B9-8533-4942-B27C-E11127B62ECD}|07.SafePasswordsGenerator\\08.SecretDoor\u0027sLock.csproj|solutionrelative:07.safepasswordsgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5E493A-7A66-470C-87FA-AA189F13AD9C}|12\\12.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5E493A-7A66-470C-87FA-AA189F13AD9C}|12\\12.csproj|solutionrelative:12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E64053-A472-405F-A526-7F386599A884}|11\\11.HappyCatParking.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\11\\11.happycatparking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94E64053-A472-405F-A526-7F386599A884}|11\\11.HappyCatParking.csproj|solutionrelative:11\\11.happycatparking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD741E4F-C2DA-4B5D-B48F-4FADDF2C6D9E}|13\\13.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\13\\13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD741E4F-C2DA-4B5D-B48F-4FADDF2C6D9E}|13\\13.csproj|solutionrelative:13\\13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC56233E-BEE7-4B90-9B92-8A13EBC5E79E}|10.Profit\\10.Profit.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\10.profit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC56233E-BEE7-4B90-9B92-8A13EBC5E79E}|10.Profit\\10.Profit.csproj|solutionrelative:10.profit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B042ED-1A04-4BA0-A813-A42CD19CD988}|09.SumOfTwoNumbers\\09.SumOfTwoNumbers.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\09.sumoftwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B042ED-1A04-4BA0-A813-A42CD19CD988}|09.SumOfTwoNumbers\\09.SumOfTwoNumbers.csproj|solutionrelative:09.sumoftwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7D8297-FD9A-4D96-BF9A-843E0A0B9B4D}|01.UniquePINCodes\\01.UniquePINCodes.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\01.uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7D8297-FD9A-4D96-BF9A-843E0A0B9B4D}|01.UniquePINCodes\\01.UniquePINCodes.csproj|solutionrelative:01.uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC186347-AE67-44A7-B1ED-CD54F57AB7CB}|03.LuckyNumbers\\03.LuckyNumbers.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\03.luckynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC186347-AE67-44A7-B1ED-CD54F57AB7CB}|03.LuckyNumbers\\03.LuckyNumbers.csproj|solutionrelative:03.luckynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC2C166-2FF9-45FB-BDE7-A982F8C55568}|05.ChallengeTheWedding\\05.ChallengeTheWedding.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\05.challengethewedding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC2C166-2FF9-45FB-BDE7-A982F8C55568}|05.ChallengeTheWedding\\05.ChallengeTheWedding.csproj|solutionrelative:05.challengethewedding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1384C2B3-08E2-44C4-B6F3-825EC675EFA8}|04.CarNumber\\04.CarNumber.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\04.carnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1384C2B3-08E2-44C4-B6F3-825EC675EFA8}|04.CarNumber\\04.CarNumber.csproj|solutionrelative:04.carnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E64053-A472-405F-A526-7F386599A884}|11\\11.HappyCatParking.csproj|c:\\users\\umrel\\source\\repos\\nestedloops-moreexercises\\11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E64053-A472-405F-A526-7F386599A884}|11\\11.HappyCatParking.csproj|solutionrelative:11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\02.LettersCombinations\\Program.cs",
+              "RelativeDocumentMoniker": "02.LettersCombinations\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\02.LettersCombinations\\Program.cs",
+              "RelativeToolTip": "02.LettersCombinations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:55:05.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "13.csproj",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\13\\13.csproj",
+              "RelativeDocumentMoniker": "13\\13.csproj",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\13\\13.csproj",
+              "RelativeToolTip": "13\\13.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T17:35:12.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "11.HappyCatParking.csproj",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\11\\11.HappyCatParking.csproj",
+              "RelativeDocumentMoniker": "11\\11.HappyCatParking.csproj",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\11\\11.HappyCatParking.csproj",
+              "RelativeToolTip": "11\\11.HappyCatParking.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T17:34:38.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\14\\Program.cs",
+              "RelativeDocumentMoniker": "14\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\14\\Program.cs",
+              "RelativeToolTip": "14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:15:11.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\13\\Program.cs",
+              "RelativeDocumentMoniker": "13\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\13\\Program.cs",
+              "RelativeToolTip": "13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:18:21.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\12\\Program.cs",
+              "RelativeDocumentMoniker": "12\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\12\\Program.cs",
+              "RelativeToolTip": "12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:30:10.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\11\\Program.cs",
+              "RelativeDocumentMoniker": "11\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\11\\Program.cs",
+              "RelativeToolTip": "11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:13:40.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\10.Profit\\Program.cs",
+              "RelativeDocumentMoniker": "10.Profit\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\10.Profit\\Program.cs",
+              "RelativeToolTip": "10.Profit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:29:13.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\09.SumOfTwoNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "09.SumOfTwoNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\09.SumOfTwoNumbers\\Program.cs",
+              "RelativeToolTip": "09.SumOfTwoNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:36:38.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\07.SafePasswordsGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "07.SafePasswordsGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\07.SafePasswordsGenerator\\Program.cs",
+              "RelativeToolTip": "07.SafePasswordsGenerator\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:55:42.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\06.WeddingSeats\\Program.cs",
+              "RelativeDocumentMoniker": "06.WeddingSeats\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\06.WeddingSeats\\Program.cs",
+              "RelativeToolTip": "06.WeddingSeats\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:40:53.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\05.ChallengeTheWedding\\Program.cs",
+              "RelativeDocumentMoniker": "05.ChallengeTheWedding\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\05.ChallengeTheWedding\\Program.cs",
+              "RelativeToolTip": "05.ChallengeTheWedding\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:31:44.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\04.CarNumber\\Program.cs",
+              "RelativeDocumentMoniker": "04.CarNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\04.CarNumber\\Program.cs",
+              "RelativeToolTip": "04.CarNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:24:31.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\03.LuckyNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.LuckyNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\03.LuckyNumbers\\Program.cs",
+              "RelativeToolTip": "03.LuckyNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:29:19.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\01.UniquePINCodes\\Program.cs",
+              "RelativeDocumentMoniker": "01.UniquePINCodes\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\NestedLoops-MoreExercises\\01.UniquePINCodes\\Program.cs",
+              "RelativeToolTip": "01.UniquePINCodes\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:40:37.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

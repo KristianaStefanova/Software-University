@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D873A90A-EA03-45DB-9550-BB407777E143}|05.Messages\\05.Messages.csproj|c:\\users\\umrel\\source\\repos\\01.moreexerciseintroandbasicsyntax\\05.messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D873A90A-EA03-45DB-9550-BB407777E143}|05.Messages\\05.Messages.csproj|solutionrelative:05.messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5B801-7BDB-4EAA-B84D-0C3A1DCB0E88}|2.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj|c:\\users\\umrel\\source\\repos\\01.moreexerciseintroandbasicsyntax\\2.englishnameofthelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5B801-7BDB-4EAA-B84D-0C3A1DCB0E88}|2.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj|solutionrelative:2.englishnameofthelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B6193-9594-482F-ABC1-6EFB97C3C2EC}|4.ReverseString\\04.ReverseString.csproj|c:\\users\\umrel\\source\\repos\\01.moreexerciseintroandbasicsyntax\\4.reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5B6193-9594-482F-ABC1-6EFB97C3C2EC}|4.ReverseString\\04.ReverseString.csproj|solutionrelative:4.reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08013594-797B-4401-BF8D-0E107D8ACEFF}|3.GamingStore\\03.GamingStore.csproj|c:\\users\\umrel\\source\\repos\\01.moreexerciseintroandbasicsyntax\\3.gamingstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08013594-797B-4401-BF8D-0E107D8ACEFF}|3.GamingStore\\03.GamingStore.csproj|solutionrelative:3.gamingstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9622C02-AE73-4171-A8F5-E3D7867A99FF}|1.SortNumbers\\01.SortNumbers.csproj|c:\\users\\umrel\\source\\repos\\01.moreexerciseintroandbasicsyntax\\1.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9622C02-AE73-4171-A8F5-E3D7867A99FF}|1.SortNumbers\\01.SortNumbers.csproj|solutionrelative:1.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\05.Messages\\Program.cs",
+              "RelativeDocumentMoniker": "05.Messages\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\05.Messages\\Program.cs",
+              "RelativeToolTip": "05.Messages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:33:53.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\4.ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "4.ReverseString\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\4.ReverseString\\Program.cs",
+              "RelativeToolTip": "4.ReverseString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:56:41.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\3.GamingStore\\Program.cs",
+              "RelativeDocumentMoniker": "3.GamingStore\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\3.GamingStore\\Program.cs",
+              "RelativeToolTip": "3.GamingStore\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:30:39.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\2.EnglishNameOfTheLastDigit\\Program.cs",
+              "RelativeDocumentMoniker": "2.EnglishNameOfTheLastDigit\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\2.EnglishNameOfTheLastDigit\\Program.cs",
+              "RelativeToolTip": "2.EnglishNameOfTheLastDigit\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:25:15.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\1.SortNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "1.SortNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExerciseIntroAndBasicSyntax\\1.SortNumbers\\Program.cs",
+              "RelativeToolTip": "1.SortNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:45:32.268Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

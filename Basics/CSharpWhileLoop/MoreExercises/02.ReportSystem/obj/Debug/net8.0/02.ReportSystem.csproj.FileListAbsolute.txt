@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.exe
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.deps.json
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.runtimeconfig.json
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.pdb
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.AssemblyInfo.cs
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\refint\02.ReportSystem.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.pdb
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.genruntimeconfig.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net8.0\ref\02.ReportSystem.dll

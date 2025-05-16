@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E658563F-842D-4625-95A4-CA8969008706}|06.TournamentOfChristmas\\06.TournamentOfChristmas.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\06.tournamentofchristmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E658563F-842D-4625-95A4-CA8969008706}|06.TournamentOfChristmas\\06.TournamentOfChristmas.csproj|solutionrelative:06.tournamentofchristmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA60573C-22AE-4E71-832A-9667FA5A18C2}|05.SuitcasesLoad\\05.SuitcasesLoad.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\05.suitcasesload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA60573C-22AE-4E71-832A-9667FA5A18C2}|05.SuitcasesLoad\\05.SuitcasesLoad.csproj|solutionrelative:05.suitcasesload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1138A43F-0000-42D4-8E4B-BDAD1DB5951A}|05. CareOfPuppy\\05. CareOfPuppy.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\05. careofpuppy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1138A43F-0000-42D4-8E4B-BDAD1DB5951A}|05. CareOfPuppy\\05. CareOfPuppy.csproj|solutionrelative:05. careofpuppy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFFB333-75B6-44C6-915C-00711E31977B}|04.TrekkingMania\\04.TrekkingMania.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\04.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFFB333-75B6-44C6-915C-00711E31977B}|04.TrekkingMania\\04.TrekkingMania.csproj|solutionrelative:04.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD059B-6491-4C26-8190-A417D25395D1}|04.FoodForPets\\04.FoodForPets.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\04.foodforpets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD059B-6491-4C26-8190-A417D25395D1}|04.FoodForPets\\04.FoodForPets.csproj|solutionrelative:04.foodforpets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D884EA1-F35F-4B36-B78A-B52415BF562F}|03.FitnessCard\\03.FitnessCard.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\03.fitnesscard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D884EA1-F35F-4B36-B78A-B52415BF562F}|03.FitnessCard\\03.FitnessCard.csproj|solutionrelative:03.fitnesscard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E89E3F1-2E53-4F31-ABC4-94413D275681}|03.EnergyBooster\\03.EnergyBooster.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\03.energybooster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E89E3F1-2E53-4F31-ABC4-94413D275681}|03.EnergyBooster\\03.EnergyBooster.csproj|solutionrelative:03.energybooster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F0CD24-E5E3-4CF0-95B8-68AC4430B4E2}|02.MountainRun\\02.MountainRun.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\02.mountainrun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F0CD24-E5E3-4CF0-95B8-68AC4430B4E2}|02.MountainRun\\02.MountainRun.csproj|solutionrelative:02.mountainrun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49EC519-6369-48E3-A074-AD2C4152E052}|02.CatWalking\\02.CatWalking.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\02.catwalking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49EC519-6369-48E3-A074-AD2C4152E052}|02.CatWalking\\02.CatWalking.csproj|solutionrelative:02.catwalking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2375CFEA-B3C4-4FA2-972F-B2FA3C8DA368}|01.ChangeBureau\\01.ChangeBureau.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\01.changebureau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2375CFEA-B3C4-4FA2-972F-B2FA3C8DA368}|01.ChangeBureau\\01.ChangeBureau.csproj|solutionrelative:01.changebureau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB728449-1EBA-4F38-BB84-26538EAB69F8}|01.BirthdayParty\\01.BirthdayParty.csproj|c:\\users\\umrel\\source\\repos\\01.birthdayparty\\01.birthdayparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB728449-1EBA-4F38-BB84-26538EAB69F8}|01.BirthdayParty\\01.BirthdayParty.csproj|solutionrelative:01.birthdayparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\06.TournamentOfChristmas\\Program.cs",
+              "RelativeDocumentMoniker": "06.TournamentOfChristmas\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\06.TournamentOfChristmas\\Program.cs",
+              "RelativeToolTip": "06.TournamentOfChristmas\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:34:41.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\05.SuitcasesLoad\\Program.cs",
+              "RelativeDocumentMoniker": "05.SuitcasesLoad\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\05.SuitcasesLoad\\Program.cs",
+              "RelativeToolTip": "05.SuitcasesLoad\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:08:48.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\05. CareOfPuppy\\Program.cs",
+              "RelativeDocumentMoniker": "05. CareOfPuppy\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\05. CareOfPuppy\\Program.cs",
+              "RelativeToolTip": "05. CareOfPuppy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:55:58.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\04.TrekkingMania\\Program.cs",
+              "RelativeDocumentMoniker": "04.TrekkingMania\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\04.TrekkingMania\\Program.cs",
+              "RelativeToolTip": "04.TrekkingMania\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:17:36.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\04.FoodForPets\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoodForPets\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\04.FoodForPets\\Program.cs",
+              "RelativeToolTip": "04.FoodForPets\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:58:15.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\03.FitnessCard\\Program.cs",
+              "RelativeDocumentMoniker": "03.FitnessCard\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\03.FitnessCard\\Program.cs",
+              "RelativeToolTip": "03.FitnessCard\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAUwFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:33:02.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\03.EnergyBooster\\Program.cs",
+              "RelativeDocumentMoniker": "03.EnergyBooster\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\03.EnergyBooster\\Program.cs",
+              "RelativeToolTip": "03.EnergyBooster\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwDsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:22:38.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\02.MountainRun\\Program.cs",
+              "RelativeDocumentMoniker": "02.MountainRun\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\02.MountainRun\\Program.cs",
+              "RelativeToolTip": "02.MountainRun\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:12:03.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\02.CatWalking\\Program.cs",
+              "RelativeDocumentMoniker": "02.CatWalking\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\02.CatWalking\\Program.cs",
+              "RelativeToolTip": "02.CatWalking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:00:08.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\01.ChangeBureau\\Program.cs",
+              "RelativeDocumentMoniker": "01.ChangeBureau\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\01.ChangeBureau\\Program.cs",
+              "RelativeToolTip": "01.ChangeBureau\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:20:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\01.BirthdayParty\\Program.cs",
+              "RelativeDocumentMoniker": "01.BirthdayParty\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BirthdayParty\\01.BirthdayParty\\Program.cs",
+              "RelativeToolTip": "01.BirthdayParty\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:05:15.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C7B7E2-519E-47C7-8675-A0FC3C8EABE3}|11.OddEvenPosition\\11.OddEvenPosition.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\11.oddevenposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C7B7E2-519E-47C7-8675-A0FC3C8EABE3}|11.OddEvenPosition\\11.OddEvenPosition.csproj|solutionrelative:11.oddevenposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4073DB9E-B851-4F15-AE96-E68C4ABBE5C5}|10.Clock-part2\\10.Clock-part2.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\10.clock-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4073DB9E-B851-4F15-AE96-E68C4ABBE5C5}|10.Clock-part2\\10.Clock-part2.csproj|solutionrelative:10.clock-part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25801EBA-883E-49BE-9B26-0B53A5E418F0}|09.Clock\\09.Clock.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\09.clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25801EBA-883E-49BE-9B26-0B53A5E418F0}|09.Clock\\09.Clock.csproj|solutionrelative:09.clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B0ED9D-C2FB-4FCB-A4A8-97D437B0A42B}|08.EqualPairs\\08.EqualPairs.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\08.equalpairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B0ED9D-C2FB-4FCB-A4A8-97D437B0A42B}|08.EqualPairs\\08.EqualPairs.csproj|solutionrelative:08.equalpairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABFF296-8199-4065-A140-0971DE098042}|07.FootballLeague\\07.FootballLeague.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\07.footballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABFF296-8199-4065-A140-0971DE098042}|07.FootballLeague\\07.FootballLeague.csproj|solutionrelative:07.footballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64148B44-EF1F-45BD-9521-77118AD3B4A2}|06.Bills\\06.Bills.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\06.bills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64148B44-EF1F-45BD-9521-77118AD3B4A2}|06.Bills\\06.Bills.csproj|solutionrelative:06.bills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB9410C-D261-4051-B785-34C5BB327764}|05.GameOfIntervals\\05.GameOfIntervals.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\05.gameofintervals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB9410C-D261-4051-B785-34C5BB327764}|05.GameOfIntervals\\05.GameOfIntervals.csproj|solutionrelative:05.gameofintervals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59089421-A542-45E5-9F9C-131D313BCB1D}|04.Grades\\04.Grades.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\04.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59089421-A542-45E5-9F9C-131D313BCB1D}|04.Grades\\04.Grades.csproj|solutionrelative:04.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D45A0D8-76CF-487A-92AC-0DD48B1AEC62}|03.Logistics\\03.Logistics.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\03.logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D45A0D8-76CF-487A-92AC-0DD48B1AEC62}|03.Logistics\\03.Logistics.csproj|solutionrelative:03.logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732184B4-36B2-4631-86EF-1587D0538EB4}|02.Hospital\\02.Hospital.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\02.hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732184B4-36B2-4631-86EF-1587D0538EB4}|02.Hospital\\02.Hospital.csproj|solutionrelative:02.hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDA69F0-FBA2-47BF-BD3B-B8A58F9BB83F}|For-Loop-MoreExercises\\01.BackToThePast.csproj|c:\\users\\umrel\\desktop\\basics\\csharpforloop\\moreexercises\\for-loop-moreexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDA69F0-FBA2-47BF-BD3B-B8A58F9BB83F}|For-Loop-MoreExercises\\01.BackToThePast.csproj|solutionrelative:for-loop-moreexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\07.FootballLeague\\Program.cs",
+              "RelativeDocumentMoniker": "07.FootballLeague\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\07.FootballLeague\\Program.cs",
+              "RelativeToolTip": "07.FootballLeague\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:22:28.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\08.EqualPairs\\Program.cs",
+              "RelativeDocumentMoniker": "08.EqualPairs\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\08.EqualPairs\\Program.cs",
+              "RelativeToolTip": "08.EqualPairs\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:15:24.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\09.Clock\\Program.cs",
+              "RelativeDocumentMoniker": "09.Clock\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\09.Clock\\Program.cs",
+              "RelativeToolTip": "09.Clock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:09:10.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\10.Clock-part2\\Program.cs",
+              "RelativeDocumentMoniker": "10.Clock-part2\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\10.Clock-part2\\Program.cs",
+              "RelativeToolTip": "10.Clock-part2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:13:35.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\11.OddEvenPosition\\Program.cs",
+              "RelativeDocumentMoniker": "11.OddEvenPosition\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\11.OddEvenPosition\\Program.cs",
+              "RelativeToolTip": "11.OddEvenPosition\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:16:40.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\06.Bills\\Program.cs",
+              "RelativeDocumentMoniker": "06.Bills\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\06.Bills\\Program.cs",
+              "RelativeToolTip": "06.Bills\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:13:34.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\05.GameOfIntervals\\Program.cs",
+              "RelativeDocumentMoniker": "05.GameOfIntervals\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\05.GameOfIntervals\\Program.cs",
+              "RelativeToolTip": "05.GameOfIntervals\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:41:49.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\04.Grades\\Program.cs",
+              "RelativeDocumentMoniker": "04.Grades\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\04.Grades\\Program.cs",
+              "RelativeToolTip": "04.Grades\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:07:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\03.Logistics\\Program.cs",
+              "RelativeDocumentMoniker": "03.Logistics\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\03.Logistics\\Program.cs",
+              "RelativeToolTip": "03.Logistics\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:37:23.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\02.Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "02.Hospital\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\02.Hospital\\Program.cs",
+              "RelativeToolTip": "02.Hospital\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:26:17.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\For-Loop-MoreExercises\\Program.cs",
+              "RelativeDocumentMoniker": "For-Loop-MoreExercises\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpForLoop\\MoreExercises\\For-Loop-MoreExercises\\Program.cs",
+              "RelativeToolTip": "For-Loop-MoreExercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:27:47.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

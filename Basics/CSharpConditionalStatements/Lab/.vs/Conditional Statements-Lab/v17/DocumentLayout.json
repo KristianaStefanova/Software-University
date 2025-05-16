@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4F791-EFB2-4D0B-A28C-5C4F295EBBF5}|05.Number100.200\\05.Number100.200.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\lab\\05.number100.200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4F791-EFB2-4D0B-A28C-5C4F295EBBF5}|05.Number100.200\\05.Number100.200.csproj|solutionrelative:05.number100.200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923477DF-246B-44BB-BE06-64E88DA6957A}|04.PasswordGuess\\04.PasswordGuess.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\lab\\04.passwordguess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923477DF-246B-44BB-BE06-64E88DA6957A}|04.PasswordGuess\\04.PasswordGuess.csproj|solutionrelative:04.passwordguess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54566E1B-391D-4873-A6FE-F4F613C61BE2}|03.EvenOrOdd\\03.EvenOrOdd.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\lab\\03.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54566E1B-391D-4873-A6FE-F4F613C61BE2}|03.EvenOrOdd\\03.EvenOrOdd.csproj|solutionrelative:03.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E3740-904D-4D60-B3FC-F3C980E63E97}|02.GreaterNumber\\02.GreaterNumber.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\lab\\02.greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E3740-904D-4D60-B3FC-F3C980E63E97}|02.GreaterNumber\\02.GreaterNumber.csproj|solutionrelative:02.greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04592DC-96A4-4B8D-883E-E5F05AFDFE8C}|01.ExcellentResult\\01.ExcellentResult.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\lab\\01.excellentresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04592DC-96A4-4B8D-883E-E5F05AFDFE8C}|01.ExcellentResult\\01.ExcellentResult.csproj|solutionrelative:01.excellentresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\05.Number100.200\\Program.cs",
+              "RelativeDocumentMoniker": "05.Number100.200\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\05.Number100.200\\Program.cs",
+              "RelativeToolTip": "05.Number100.200\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:50:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\04.PasswordGuess\\Program.cs",
+              "RelativeDocumentMoniker": "04.PasswordGuess\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\04.PasswordGuess\\Program.cs",
+              "RelativeToolTip": "04.PasswordGuess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:50:43.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\03.EvenOrOdd\\Program.cs",
+              "RelativeDocumentMoniker": "03.EvenOrOdd\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\03.EvenOrOdd\\Program.cs",
+              "RelativeToolTip": "03.EvenOrOdd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:50:34.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\02.GreaterNumber\\Program.cs",
+              "RelativeDocumentMoniker": "02.GreaterNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\02.GreaterNumber\\Program.cs",
+              "RelativeToolTip": "02.GreaterNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:50:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\01.ExcellentResult\\Program.cs",
+              "RelativeDocumentMoniker": "01.ExcellentResult\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Lab\\01.ExcellentResult\\Program.cs",
+              "RelativeToolTip": "01.ExcellentResult\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:50:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

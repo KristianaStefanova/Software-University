@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B4867-C4F5-4533-A16B-C8FAC6E9BCB5}|06.BarcodeGenerator\\06.BarcodeGenerator.csproj|c:\\users\\umrel\\source\\repos\\programmingbasicsonlineexampleexam7\\06.barcodegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9B4867-C4F5-4533-A16B-C8FAC6E9BCB5}|06.BarcodeGenerator\\06.BarcodeGenerator.csproj|solutionrelative:06.barcodegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C03E665-67AE-483B-BF41-09BC1F73416C}|05.BestPlayer\\05.BestPlayer.csproj|c:\\users\\umrel\\source\\repos\\programmingbasicsonlineexampleexam7\\05.bestplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C03E665-67AE-483B-BF41-09BC1F73416C}|05.BestPlayer\\05.BestPlayer.csproj|solutionrelative:05.bestplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2490DCF5-10DD-4172-B562-F7739E069B32}|04.Balls\\04.Balls.csproj|c:\\users\\umrel\\source\\repos\\programmingbasicsonlineexampleexam7\\04.balls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2490DCF5-10DD-4172-B562-F7739E069B32}|04.Balls\\04.Balls.csproj|solutionrelative:04.balls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36663B81-70AC-403C-8417-1C4C513C1703}|03.AluminumJoinery\\03.AluminumJoinery.csproj|c:\\users\\umrel\\source\\repos\\programmingbasicsonlineexampleexam7\\03.aluminumjoinery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36663B81-70AC-403C-8417-1C4C513C1703}|03.AluminumJoinery\\03.AluminumJoinery.csproj|solutionrelative:03.aluminumjoinery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E72C11-B62A-47F7-99A7-769C7B1E05BC}|02.AddBags\\02.AddBags.csproj|c:\\users\\umrel\\source\\repos\\programmingbasicsonlineexampleexam7\\02.addbags\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E72C11-B62A-47F7-99A7-769C7B1E05BC}|02.AddBags\\02.AddBags.csproj|solutionrelative:02.addbags\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE804149-5FE2-47F2-A24E-8A5696CE6996}|01.AgencyProfit\\01.AgencyProfit.csproj|c:\\users\\umrel\\source\\repos\\programmingbasicsonlineexampleexam7\\01.agencyprofit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE804149-5FE2-47F2-A24E-8A5696CE6996}|01.AgencyProfit\\01.AgencyProfit.csproj|solutionrelative:01.agencyprofit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\06.BarcodeGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "06.BarcodeGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\06.BarcodeGenerator\\Program.cs",
+              "RelativeToolTip": "06.BarcodeGenerator\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:15:06.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\05.BestPlayer\\Program.cs",
+              "RelativeDocumentMoniker": "05.BestPlayer\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\05.BestPlayer\\Program.cs",
+              "RelativeToolTip": "05.BestPlayer\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:20:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\04.Balls\\Program.cs",
+              "RelativeDocumentMoniker": "04.Balls\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\04.Balls\\Program.cs",
+              "RelativeToolTip": "04.Balls\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwDQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:50:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\03.AluminumJoinery\\Program.cs",
+              "RelativeDocumentMoniker": "03.AluminumJoinery\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\03.AluminumJoinery\\Program.cs",
+              "RelativeToolTip": "03.AluminumJoinery\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwEYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:21:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\02.AddBags\\Program.cs",
+              "RelativeDocumentMoniker": "02.AddBags\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\02.AddBags\\Program.cs",
+              "RelativeToolTip": "02.AddBags\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvyUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:55:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\01.AgencyProfit\\Program.cs",
+              "RelativeDocumentMoniker": "01.AgencyProfit\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ProgrammingBasicsOnlineExampleExam7\\01.AgencyProfit\\Program.cs",
+              "RelativeToolTip": "01.AgencyProfit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:49:25.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

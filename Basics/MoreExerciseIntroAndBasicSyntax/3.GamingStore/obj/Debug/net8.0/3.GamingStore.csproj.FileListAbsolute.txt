@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\bin\Debug\net8.0\3.GamingStore.exe
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\bin\Debug\net8.0\3.GamingStore.deps.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\bin\Debug\net8.0\3.GamingStore.runtimeconfig.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\bin\Debug\net8.0\3.GamingStore.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\bin\Debug\net8.0\3.GamingStore.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\3.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\3.GamingStore.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\3.GamingStore.AssemblyInfo.cs
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\3.GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\3.GamingStore.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\refint\3.GamingStore.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\3.GamingStore.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\3.GamingStore.genruntimeconfig.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\3.GamingStore\obj\Debug\net8.0\ref\3.GamingStore.dll

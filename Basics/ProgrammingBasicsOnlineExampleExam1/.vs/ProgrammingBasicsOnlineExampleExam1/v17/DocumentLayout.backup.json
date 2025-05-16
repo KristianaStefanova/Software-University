@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{225EA32B-CC8D-4341-BD35-4578620FC0D2}|06.BasketballTournament\\06.BasketballTournament.csproj|c:\\users\\umrel\\source\\repos\\practice\\06.basketballtournament\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225EA32B-CC8D-4341-BD35-4578620FC0D2}|06.BasketballTournament\\06.BasketballTournament.csproj|solutionrelative:06.basketballtournament\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219E7BBC-CB99-432C-83C2-4BF84AB691BB}|06.HighJump\\06.HighJump.csproj|c:\\users\\umrel\\source\\repos\\practice\\06.highjump\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219E7BBC-CB99-432C-83C2-4BF84AB691BB}|06.HighJump\\06.HighJump.csproj|solutionrelative:06.highjump\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E907CB84-CCB7-4C41-A52C-08AF11C6C948}|05.FitnessCenter\\05.FitnessCenter.csproj|c:\\users\\umrel\\source\\repos\\practice\\05.fitnesscenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E907CB84-CCB7-4C41-A52C-08AF11C6C948}|05.FitnessCenter\\05.FitnessCenter.csproj|solutionrelative:05.fitnesscenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94340A97-C5B6-4A47-8ED4-0C46F03D0B10}|05.TennisRanklist\\05.TennisRanklist.csproj|c:\\users\\umrel\\source\\repos\\practice\\05.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94340A97-C5B6-4A47-8ED4-0C46F03D0B10}|05.TennisRanklist\\05.TennisRanklist.csproj|solutionrelative:05.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A17B3E4-5F74-4E4F-9A61-758975E7143B}|04.Darts\\04.Darts.csproj|c:\\users\\umrel\\source\\repos\\practice\\04.darts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A17B3E4-5F74-4E4F-9A61-758975E7143B}|04.Darts\\04.Darts.csproj|solutionrelative:04.darts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96569FED-F648-49CC-A9FB-FBC42F6786DA}|04.GameNumberWars\\04.GameNumberWars.csproj|c:\\users\\umrel\\source\\repos\\practice\\04.gamenumberwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96569FED-F648-49CC-A9FB-FBC42F6786DA}|04.GameNumberWars\\04.GameNumberWars.csproj|solutionrelative:04.gamenumberwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5B662B-656B-451C-82B8-F732E5FC4905}|03.WorldSnookerChampionship\\03.WorldSnookerChampionship.csproj|c:\\users\\umrel\\source\\repos\\practice\\03.worldsnookerchampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5B662B-656B-451C-82B8-F732E5FC4905}|03.WorldSnookerChampionship\\03.WorldSnookerChampionship.csproj|solutionrelative:03.worldsnookerchampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A2264E-22ED-4D21-9174-D745CF909C78}|DEMO\\DEMO.csproj|c:\\users\\umrel\\source\\repos\\practice\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A2264E-22ED-4D21-9174-D745CF909C78}|DEMO\\DEMO.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBEC12E-C835-4E72-BC0D-E1B93CD63272}|Practice\\01.TenisEquipment.csproj|c:\\users\\umrel\\source\\repos\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBEC12E-C835-4E72-BC0D-E1B93CD63272}|Practice\\01.TenisEquipment.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8373F-687C-41D0-9637-26CE3A7D6E4D}|03.Gymnastics\\03.Gymnastics.csproj|c:\\users\\umrel\\source\\repos\\practice\\03.gymnastics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8373F-687C-41D0-9637-26CE3A7D6E4D}|03.Gymnastics\\03.Gymnastics.csproj|solutionrelative:03.gymnastics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365F396B-1CD4-4C4A-BB00-A8CA5465703F}|02.Skeleton\\02.Skeleton.csproj|c:\\users\\umrel\\source\\repos\\practice\\02.skeleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365F396B-1CD4-4C4A-BB00-A8CA5465703F}|02.Skeleton\\02.Skeleton.csproj|solutionrelative:02.skeleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3E5ED-5271-4041-AA58-613B6DA6AE2C}|02.FootballResults\\02.FootballResults.csproj|c:\\users\\umrel\\source\\repos\\practice\\02.footballresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D3E5ED-5271-4041-AA58-613B6DA6AE2C}|02.FootballResults\\02.FootballResults.csproj|solutionrelative:02.footballresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5F952A-45D6-4119-814B-D6F7FFEEA30C}|01.BasketballEquipment\\01.BasketballEquipment.csproj|c:\\users\\umrel\\source\\repos\\practice\\01.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5F952A-45D6-4119-814B-D6F7FFEEA30C}|01.BasketballEquipment\\01.BasketballEquipment.csproj|solutionrelative:01.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\06.BasketballTournament\\Program.cs",
+              "RelativeDocumentMoniker": "06.BasketballTournament\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\06.BasketballTournament\\Program.cs",
+              "RelativeToolTip": "06.BasketballTournament\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:38:14.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\06.HighJump\\Program.cs",
+              "RelativeDocumentMoniker": "06.HighJump\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\06.HighJump\\Program.cs",
+              "RelativeToolTip": "06.HighJump\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:28:37.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\05.FitnessCenter\\Program.cs",
+              "RelativeDocumentMoniker": "05.FitnessCenter\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\05.FitnessCenter\\Program.cs",
+              "RelativeToolTip": "05.FitnessCenter\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:19:22.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\05.TennisRanklist\\Program.cs",
+              "RelativeDocumentMoniker": "05.TennisRanklist\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\05.TennisRanklist\\Program.cs",
+              "RelativeToolTip": "05.TennisRanklist\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:42:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\04.Darts\\Program.cs",
+              "RelativeDocumentMoniker": "04.Darts\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\04.Darts\\Program.cs",
+              "RelativeToolTip": "04.Darts\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:18:05.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\04.GameNumberWars\\Program.cs",
+              "RelativeDocumentMoniker": "04.GameNumberWars\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\04.GameNumberWars\\Program.cs",
+              "RelativeToolTip": "04.GameNumberWars\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:34:17.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\03.WorldSnookerChampionship\\Program.cs",
+              "RelativeDocumentMoniker": "03.WorldSnookerChampionship\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\03.WorldSnookerChampionship\\Program.cs",
+              "RelativeToolTip": "03.WorldSnookerChampionship\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:39:20.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\02.Skeleton\\Program.cs",
+              "RelativeDocumentMoniker": "02.Skeleton\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\02.Skeleton\\Program.cs",
+              "RelativeToolTip": "02.Skeleton\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:41:42.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\03.Gymnastics\\Program.cs",
+              "RelativeDocumentMoniker": "03.Gymnastics\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\03.Gymnastics\\Program.cs",
+              "RelativeToolTip": "03.Gymnastics\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:16:02.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\DEMO\\Program.cs",
+              "RelativeDocumentMoniker": "DEMO\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\DEMO\\Program.cs",
+              "RelativeToolTip": "DEMO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:28:03.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:03:07.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\02.FootballResults\\Program.cs",
+              "RelativeDocumentMoniker": "02.FootballResults\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\02.FootballResults\\Program.cs",
+              "RelativeToolTip": "02.FootballResults\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:19:47.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\Practice\\01.BasketballEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "01.BasketballEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\Practice\\01.BasketballEquipment\\Program.cs",
+              "RelativeToolTip": "01.BasketballEquipment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:59:58.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

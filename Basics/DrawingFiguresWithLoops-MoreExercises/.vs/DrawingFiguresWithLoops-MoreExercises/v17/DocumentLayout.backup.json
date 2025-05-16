@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C73F41-C032-4402-B9F6-B0DA1D265E5F}|0.0Demo\\0.0Demo.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\0.0demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C73F41-C032-4402-B9F6-B0DA1D265E5F}|0.0Demo\\0.0Demo.csproj|solutionrelative:0.0demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B68B022-D52D-44E4-A309-E5F2AAB5CC85}|DrawingFiguresWithLoops-MoreExercises\\01. Rectangle of 10 x 10 Stars.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\drawingfigureswithloops-moreexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B68B022-D52D-44E4-A309-E5F2AAB5CC85}|DrawingFiguresWithLoops-MoreExercises\\01. Rectangle of 10 x 10 Stars.csproj|solutionrelative:drawingfigureswithloops-moreexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57386ED1-3B69-4CB0-89AD-370B9475B781}|10.Diamond\\10.Diamond.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\10.diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57386ED1-3B69-4CB0-89AD-370B9475B781}|10.Diamond\\10.Diamond.csproj|solutionrelative:10.diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF9CCEB-2B09-4574-9C43-EBFB374E66E0}|09.House\\09.House.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\09.house\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF9CCEB-2B09-4574-9C43-EBFB374E66E0}|09.House\\09.House.csproj|solutionrelative:09.house\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4F052C-6558-4286-A6FC-180559EA8AF6}|05.SquareFrame\\05.SquareFrame.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\05.squareframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4F052C-6558-4286-A6FC-180559EA8AF6}|05.SquareFrame\\05.SquareFrame.csproj|solutionrelative:05.squareframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE300032-37D9-42D5-9382-8A04C872E674}|07.ChristmasTree\\07.ChristmasTree.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\07.christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE300032-37D9-42D5-9382-8A04C872E674}|07.ChristmasTree\\07.ChristmasTree.csproj|solutionrelative:07.christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C5499D-E389-4F6F-8BE3-661398728841}|08.Sunglasses\\08.Sunglasses.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\08.sunglasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C5499D-E389-4F6F-8BE3-661398728841}|08.Sunglasses\\08.Sunglasses.csproj|solutionrelative:08.sunglasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35B386F-88ED-4466-A328-4B7079A3FACC}|04. Triangle of Dollars\\04. Triangle of Dollars.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\04. triangle of dollars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35B386F-88ED-4466-A328-4B7079A3FACC}|04. Triangle of Dollars\\04. Triangle of Dollars.csproj|solutionrelative:04. triangle of dollars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C86ECF0-17A5-4864-9EAF-5F90E57D0324}|03. Square of Stars\\03. Square of Stars.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\03. square of stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C86ECF0-17A5-4864-9EAF-5F90E57D0324}|03. Square of Stars\\03. Square of Stars.csproj|solutionrelative:03. square of stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A53EA0-10C3-4AFC-91FA-56BDAD000B6B}|02.RectangleOfNXNStars\\02.RectangleOfNXNStars.csproj|c:\\users\\umrel\\desktop\\basics\\drawingfigureswithloops-moreexercises\\02.rectangleofnxnstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A53EA0-10C3-4AFC-91FA-56BDAD000B6B}|02.RectangleOfNXNStars\\02.RectangleOfNXNStars.csproj|solutionrelative:02.rectangleofnxnstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\10.Diamond\\Program.cs",
+              "RelativeDocumentMoniker": "10.Diamond\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\10.Diamond\\Program.cs",
+              "RelativeToolTip": "10.Diamond\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T07:52:29.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\0.0Demo\\Program.cs",
+              "RelativeDocumentMoniker": "0.0Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\0.0Demo\\Program.cs",
+              "RelativeToolTip": "0.0Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:43:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\09.House\\Program.cs",
+              "RelativeDocumentMoniker": "09.House\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\09.House\\Program.cs",
+              "RelativeToolTip": "09.House\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:29:37.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\08.Sunglasses\\Program.cs",
+              "RelativeDocumentMoniker": "08.Sunglasses\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\08.Sunglasses\\Program.cs",
+              "RelativeToolTip": "08.Sunglasses\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:41:55.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\04. Triangle of Dollars\\Program.cs",
+              "RelativeDocumentMoniker": "04. Triangle of Dollars\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\04. Triangle of Dollars\\Program.cs",
+              "RelativeToolTip": "04. Triangle of Dollars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:23:34.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\DrawingFiguresWithLoops-MoreExercises\\Program.cs",
+              "RelativeDocumentMoniker": "DrawingFiguresWithLoops-MoreExercises\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\DrawingFiguresWithLoops-MoreExercises\\Program.cs",
+              "RelativeToolTip": "DrawingFiguresWithLoops-MoreExercises\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:04:56.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\05.SquareFrame\\Program.cs",
+              "RelativeDocumentMoniker": "05.SquareFrame\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\05.SquareFrame\\Program.cs",
+              "RelativeToolTip": "05.SquareFrame\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:45:04.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\07.ChristmasTree\\Program.cs",
+              "RelativeDocumentMoniker": "07.ChristmasTree\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\07.ChristmasTree\\Program.cs",
+              "RelativeToolTip": "07.ChristmasTree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:46:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\03. Square of Stars\\Program.cs",
+              "RelativeDocumentMoniker": "03. Square of Stars\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\03. Square of Stars\\Program.cs",
+              "RelativeToolTip": "03. Square of Stars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:21:00.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\02.RectangleOfNXNStars\\Program.cs",
+              "RelativeDocumentMoniker": "02.RectangleOfNXNStars\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\DrawingFiguresWithLoops-MoreExercises\\02.RectangleOfNXNStars\\Program.cs",
+              "RelativeToolTip": "02.RectangleOfNXNStars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:14:21.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

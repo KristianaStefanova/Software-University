@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{894C4A9C-6785-43EC-A109-55D0A9385451}|09.SkiTrip\\09.SkiTrip.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\09.skitrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894C4A9C-6785-43EC-A109-55D0A9385451}|09.SkiTrip\\09.SkiTrip.csproj|solutionrelative:09.skitrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6519F5-D4E9-4ABF-B6D5-308C0A6BD7BC}|08.OnTimeForTheExam\\08.OnTimeForTheExam.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\08.ontimefortheexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6519F5-D4E9-4ABF-B6D5-308C0A6BD7BC}|08.OnTimeForTheExam\\08.OnTimeForTheExam.csproj|solutionrelative:08.ontimefortheexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B47EA-160E-4857-8BFB-14F0D3E8CCC1}|07.HotelRoom\\07.HotelRoom.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\07.hotelroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B47EA-160E-4857-8BFB-14F0D3E8CCC1}|07.HotelRoom\\07.HotelRoom.csproj|solutionrelative:07.hotelroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D578F53E-D165-40D5-B5D7-3426F07B7730}|06.OperationsBetweenNumbers\\06.OperationsBetweenNumbers.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\06.operationsbetweennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D578F53E-D165-40D5-B5D7-3426F07B7730}|06.OperationsBetweenNumbers\\06.OperationsBetweenNumbers.csproj|solutionrelative:06.operationsbetweennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF7988F-D8CE-45D5-BCEE-2BCF0CCE029D}|05.Journey\\05.Journey.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\05.journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF7988F-D8CE-45D5-BCEE-2BCF0CCE029D}|05.Journey\\05.Journey.csproj|solutionrelative:05.journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27965C92-7B8D-4115-BE76-4C4F707F528D}|04.FishingBoat\\04.FishingBoat.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\04.fishingboat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27965C92-7B8D-4115-BE76-4C4F707F528D}|04.FishingBoat\\04.FishingBoat.csproj|solutionrelative:04.fishingboat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054F4929-073B-40B8-98E9-7DB39E242F8E}|03.NewHouse\\03.NewHouse.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\03.newhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054F4929-073B-40B8-98E9-7DB39E242F8E}|03.NewHouse\\03.NewHouse.csproj|solutionrelative:03.newhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AAADA1-3DE9-41D1-B9DB-4CCA0AAF800E}|02.SummerOutfit\\02.SummerOutfit.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\02.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AAADA1-3DE9-41D1-B9DB-4CCA0AAF800E}|02.SummerOutfit\\02.SummerOutfit.csproj|solutionrelative:02.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DA883C-18D6-4360-A216-F0098B94AFBD}|01.Cinema\\01.Cinema.csproj|c:\\users\\umrel\\desktop\\basics\\csharpnestedconditionalstatements\\exercises\\01.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DA883C-18D6-4360-A216-F0098B94AFBD}|01.Cinema\\01.Cinema.csproj|solutionrelative:01.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\09.SkiTrip\\Program.cs",
+              "RelativeDocumentMoniker": "09.SkiTrip\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\09.SkiTrip\\Program.cs",
+              "RelativeToolTip": "09.SkiTrip\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:20:23.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\08.OnTimeForTheExam\\Program.cs",
+              "RelativeDocumentMoniker": "08.OnTimeForTheExam\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\08.OnTimeForTheExam\\Program.cs",
+              "RelativeToolTip": "08.OnTimeForTheExam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:19:58.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\07.HotelRoom\\Program.cs",
+              "RelativeDocumentMoniker": "07.HotelRoom\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\07.HotelRoom\\Program.cs",
+              "RelativeToolTip": "07.HotelRoom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:19:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\06.OperationsBetweenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "06.OperationsBetweenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\06.OperationsBetweenNumbers\\Program.cs",
+              "RelativeToolTip": "06.OperationsBetweenNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:18:58.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\05.Journey\\Program.cs",
+              "RelativeDocumentMoniker": "05.Journey\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\05.Journey\\Program.cs",
+              "RelativeToolTip": "05.Journey\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:18:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\04.FishingBoat\\Program.cs",
+              "RelativeDocumentMoniker": "04.FishingBoat\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\04.FishingBoat\\Program.cs",
+              "RelativeToolTip": "04.FishingBoat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:18:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\03.NewHouse\\Program.cs",
+              "RelativeDocumentMoniker": "03.NewHouse\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\03.NewHouse\\Program.cs",
+              "RelativeToolTip": "03.NewHouse\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:17:37.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\02.SummerOutfit\\Program.cs",
+              "RelativeDocumentMoniker": "02.SummerOutfit\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\02.SummerOutfit\\Program.cs",
+              "RelativeToolTip": "02.SummerOutfit\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:17:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\01.Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "01.Cinema\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpNestedConditionalStatements\\Exercises\\01.Cinema\\Program.cs",
+              "RelativeToolTip": "01.Cinema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:16:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

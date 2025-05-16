@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.exe
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.deps.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.runtimeconfig.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\bin\Debug\net8.0\02.EnglishNameOfTheLastDigit.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.AssemblyInfo.cs
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\refint\02.EnglishNameOfTheLastDigit.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\02.EnglishNameOfTheLastDigit.genruntimeconfig.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\2.EnglishNameOfTheLastDigit\obj\Debug\net8.0\ref\02.EnglishNameOfTheLastDigit.dll

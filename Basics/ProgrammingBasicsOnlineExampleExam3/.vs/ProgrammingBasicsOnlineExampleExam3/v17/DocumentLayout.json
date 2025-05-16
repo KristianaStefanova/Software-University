@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B2FFB1-C877-4198-B3EE-016B4A805B90}|06.EasterDecoration\\06.EasterDecoration.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\06.easterdecoration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B2FFB1-C877-4198-B3EE-016B4A805B90}|06.EasterDecoration\\06.EasterDecoration.csproj|solutionrelative:06.easterdecoration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D55A6C-20A1-4705-A6AA-7784A0249D32}|06.Demo\\06.EasterCompetition.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\06.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D55A6C-20A1-4705-A6AA-7784A0249D32}|06.Demo\\06.EasterCompetition.csproj|solutionrelative:06.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7306EBCB-AE3D-4F0B-BA3F-001D509C72FC}|05.EasterEggs\\05.EasterEggs.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\05.eastereggs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7306EBCB-AE3D-4F0B-BA3F-001D509C72FC}|05.EasterEggs\\05.EasterEggs.csproj|solutionrelative:05.eastereggs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C20C44-1F56-4C9F-AA27-03A7BB164040}|05.EasterBake\\05.EasterBake.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\05.easterbake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C20C44-1F56-4C9F-AA27-03A7BB164040}|05.EasterBake\\05.EasterBake.csproj|solutionrelative:05.easterbake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18339963-DFE5-45C7-9F64-72A2DC03158A}|04.EasterShop\\04.EasterShop.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\04.eastershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18339963-DFE5-45C7-9F64-72A2DC03158A}|04.EasterShop\\04.EasterShop.csproj|solutionrelative:04.eastershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D513BC-947C-4813-9833-394D96EF7D8A}|04.EasterEggsBattle\\04.EasterEggsBattle.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\04.eastereggsbattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D513BC-947C-4813-9833-394D96EF7D8A}|04.EasterEggsBattle\\04.EasterEggsBattle.csproj|solutionrelative:04.eastereggsbattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D8B979-5D53-4516-892F-45C358AAFC59}|03.PaintingEggs\\03.PaintingEggs.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\03.paintingeggs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D8B979-5D53-4516-892F-45C358AAFC59}|03.PaintingEggs\\03.PaintingEggs.csproj|solutionrelative:03.paintingeggs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D17623E-472B-4FC6-BEB0-0743F25D829A}|03.EasterTrip\\03.EasterTrip.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\03.eastertrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D17623E-472B-4FC6-BEB0-0743F25D829A}|03.EasterTrip\\03.EasterTrip.csproj|solutionrelative:03.eastertrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D871548-9F3B-4920-A9C6-660325353130}|02.EasterParty\\02.EasterParty.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\02.easterparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D871548-9F3B-4920-A9C6-660325353130}|02.EasterParty\\02.EasterParty.csproj|solutionrelative:02.easterparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD79EA9-3A93-45CA-A792-57E6E286969F}|02.EasterGuests\\02.EasterGuests.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\02.easterguests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD79EA9-3A93-45CA-A792-57E6E286969F}|02.EasterGuests\\02.EasterGuests.csproj|solutionrelative:02.easterguests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38FC20A-4F59-45DA-A042-664437FD765A}|01.EasterLunch\\01.EasterLunch.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\01.easterlunch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38FC20A-4F59-45DA-A042-664437FD765A}|01.EasterLunch\\01.EasterLunch.csproj|solutionrelative:01.easterlunch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2533E8FE-6AEA-4074-8FED-CC41C072952A}|01.EasterBakery\\01.EasterBakery.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam3\\01.easterbakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2533E8FE-6AEA-4074-8FED-CC41C072952A}|01.EasterBakery\\01.EasterBakery.csproj|solutionrelative:01.easterbakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\04.EasterShop\\Program.cs",
+              "RelativeDocumentMoniker": "04.EasterShop\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\04.EasterShop\\Program.cs",
+              "RelativeToolTip": "04.EasterShop\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:18:08.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\05.EasterBake\\Program.cs",
+              "RelativeDocumentMoniker": "05.EasterBake\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\05.EasterBake\\Program.cs",
+              "RelativeToolTip": "05.EasterBake\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:54:39.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\05.EasterEggs\\Program.cs",
+              "RelativeDocumentMoniker": "05.EasterEggs\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\05.EasterEggs\\Program.cs",
+              "RelativeToolTip": "05.EasterEggs\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:44:11.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\06.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "06.Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\06.Demo\\Program.cs",
+              "RelativeToolTip": "06.Demo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:27:07.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\06.EasterDecoration\\Program.cs",
+              "RelativeDocumentMoniker": "06.EasterDecoration\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\06.EasterDecoration\\Program.cs",
+              "RelativeToolTip": "06.EasterDecoration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:31:33.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\04.EasterEggsBattle\\Program.cs",
+              "RelativeDocumentMoniker": "04.EasterEggsBattle\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\04.EasterEggsBattle\\Program.cs",
+              "RelativeToolTip": "04.EasterEggsBattle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:18:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\03.PaintingEggs\\Program.cs",
+              "RelativeDocumentMoniker": "03.PaintingEggs\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\03.PaintingEggs\\Program.cs",
+              "RelativeToolTip": "03.PaintingEggs\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:49:51.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\03.EasterTrip\\Program.cs",
+              "RelativeDocumentMoniker": "03.EasterTrip\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\03.EasterTrip\\Program.cs",
+              "RelativeToolTip": "03.EasterTrip\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:53:22.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\02.EasterParty\\Program.cs",
+              "RelativeDocumentMoniker": "02.EasterParty\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\02.EasterParty\\Program.cs",
+              "RelativeToolTip": "02.EasterParty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:50:45.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\02.EasterGuests\\Program.cs",
+              "RelativeDocumentMoniker": "02.EasterGuests\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\02.EasterGuests\\Program.cs",
+              "RelativeToolTip": "02.EasterGuests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:20:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\01.EasterLunch\\Program.cs",
+              "RelativeDocumentMoniker": "01.EasterLunch\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\01.EasterLunch\\Program.cs",
+              "RelativeToolTip": "01.EasterLunch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:58:56.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\01.EasterBakery\\Program.cs",
+              "RelativeDocumentMoniker": "01.EasterBakery\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam3\\01.EasterBakery\\Program.cs",
+              "RelativeToolTip": "01.EasterBakery\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:24:08.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

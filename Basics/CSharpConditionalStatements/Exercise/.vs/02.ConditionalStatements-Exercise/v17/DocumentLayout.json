@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4D44E9-1042-47B5-BC47-F3FE7E1ED529}|08.LunchBreak\\08.LunchBreak.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\exercise\\08.lunchbreak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4D44E9-1042-47B5-BC47-F3FE7E1ED529}|08.LunchBreak\\08.LunchBreak.csproj|solutionrelative:08.lunchbreak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0DCD4D-58D1-42E0-A71A-4BF8EAEFDAF9}|07.Shopping\\07.Shopping.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\exercise\\07.shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0DCD4D-58D1-42E0-A71A-4BF8EAEFDAF9}|07.Shopping\\07.Shopping.csproj|solutionrelative:07.shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E05AB-59D0-4EEB-967F-154A596E95DA}|06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\exercise\\06.worldswimmingrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E05AB-59D0-4EEB-967F-154A596E95DA}|06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj|solutionrelative:06.worldswimmingrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474C09EB-B62A-4057-9826-8B41E2D09EAE}|05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\exercise\\05.godzillavs.kong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474C09EB-B62A-4057-9826-8B41E2D09EAE}|05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj|solutionrelative:05.godzillavs.kong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C54D802-4644-4CF5-9DB2-9DEC2DE0B999}|04.ToyShop\\04.ToyShop.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\exercise\\04.toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C54D802-4644-4CF5-9DB2-9DEC2DE0B999}|04.ToyShop\\04.ToyShop.csproj|solutionrelative:04.toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E86840-B5BB-46BF-BC75-C206C67EEBA6}|03.Time\u002B15Minutes\\03.Time\u002B15Minutes.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\exercise\\03.time\u002B15minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E86840-B5BB-46BF-BC75-C206C67EEBA6}|03.Time\u002B15Minutes\\03.Time\u002B15Minutes.csproj|solutionrelative:03.time\u002B15minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB58300-3FD8-4763-A7A2-A114A4B166CE}|02.BonusScore\\02.BonusScore.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\exercise\\02.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB58300-3FD8-4763-A7A2-A114A4B166CE}|02.BonusScore\\02.BonusScore.csproj|solutionrelative:02.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B12A9C-FC8E-406F-BFBC-0844CF77C3A2}|01.SumSeconds\\01.SumSeconds.csproj|c:\\users\\umrel\\desktop\\basics\\csharpconditionalstatements\\exercise\\01.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B12A9C-FC8E-406F-BFBC-0844CF77C3A2}|01.SumSeconds\\01.SumSeconds.csproj|solutionrelative:01.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\08.LunchBreak\\Program.cs",
+              "RelativeDocumentMoniker": "08.LunchBreak\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\08.LunchBreak\\Program.cs",
+              "RelativeToolTip": "08.LunchBreak\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:48:48.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\07.Shopping\\Program.cs",
+              "RelativeDocumentMoniker": "07.Shopping\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\07.Shopping\\Program.cs",
+              "RelativeToolTip": "07.Shopping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:48:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\06.WorldSwimmingRecord\\Program.cs",
+              "RelativeDocumentMoniker": "06.WorldSwimmingRecord\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\06.WorldSwimmingRecord\\Program.cs",
+              "RelativeToolTip": "06.WorldSwimmingRecord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:48:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\05.GodzillaVs.Kong\\Program.cs",
+              "RelativeDocumentMoniker": "05.GodzillaVs.Kong\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\05.GodzillaVs.Kong\\Program.cs",
+              "RelativeToolTip": "05.GodzillaVs.Kong\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:47:36.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\04.ToyShop\\Program.cs",
+              "RelativeDocumentMoniker": "04.ToyShop\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\04.ToyShop\\Program.cs",
+              "RelativeToolTip": "04.ToyShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:47:26.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\03.Time\u002B15Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "03.Time\u002B15Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\03.Time\u002B15Minutes\\Program.cs",
+              "RelativeToolTip": "03.Time\u002B15Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:47:18.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\02.BonusScore\\Program.cs",
+              "RelativeDocumentMoniker": "02.BonusScore\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\02.BonusScore\\Program.cs",
+              "RelativeToolTip": "02.BonusScore\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:46:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\01.SumSeconds\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumSeconds\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpConditionalStatements\\Exercise\\01.SumSeconds\\Program.cs",
+              "RelativeToolTip": "01.SumSeconds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:46:27.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41742F73-3FD1-4CCF-A306-E364ABF470A2}|02.ReportSystem\\02.ReportSystem.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\moreexercises\\02.reportsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41742F73-3FD1-4CCF-A306-E364ABF470A2}|02.ReportSystem\\02.ReportSystem.csproj|solutionrelative:02.reportsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACBE95-2F44-4974-A492-FB03C5108394}|05.AverageNumber\\05.AverageNumber.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\moreexercises\\05.averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACBE95-2F44-4974-A492-FB03C5108394}|05.AverageNumber\\05.AverageNumber.csproj|solutionrelative:05.averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A527-427D-45A5-8207-BD3CABD3DEFD}|04.Numbers\\04.Numbers.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\moreexercises\\04.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C5A527-427D-45A5-8207-BD3CABD3DEFD}|04.Numbers\\04.Numbers.csproj|solutionrelative:04.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\umrel\\source\\repos\\While-Loop-MoreExercises\\While-Loop-MoreExercises\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\MoreExercises\\05.AverageNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.AverageNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\MoreExercises\\05.AverageNumber\\Program.cs",
+              "RelativeToolTip": "05.AverageNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:10:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\MoreExercises\\04.Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "04.Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\MoreExercises\\04.Numbers\\Program.cs",
+              "RelativeToolTip": "04.Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:55:25.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\MoreExercises\\02.ReportSystem\\Program.cs",
+              "RelativeDocumentMoniker": "02.ReportSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\MoreExercises\\02.ReportSystem\\Program.cs",
+              "RelativeToolTip": "02.ReportSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:23:00.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\While-Loop-MoreExercises\\While-Loop-MoreExercises\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\While-Loop-MoreExercises\\While-Loop-MoreExercises\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\While-Loop-MoreExercises\\While-Loop-MoreExercises\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\While-Loop-MoreExercises\\While-Loop-MoreExercises\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:15:57.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

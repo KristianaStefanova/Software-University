@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68060121-0057-4E08-9CEC-A984DD11C92C}|08.Graduation\\08.Graduation.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\lab\\08.graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68060121-0057-4E08-9CEC-A984DD11C92C}|08.Graduation\\08.Graduation.csproj|solutionrelative:08.graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBA114C-BEA4-428A-B270-0D54AA68A7E9}|07.MinNumber\\07.MinNumber.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\lab\\07.minnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBA114C-BEA4-428A-B270-0D54AA68A7E9}|07.MinNumber\\07.MinNumber.csproj|solutionrelative:07.minnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E4D8E1-6AC1-44B9-B1AD-84F063EF62E9}|06.MaxNumber\\06.MaxNumber.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\lab\\06.maxnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E4D8E1-6AC1-44B9-B1AD-84F063EF62E9}|06.MaxNumber\\06.MaxNumber.csproj|solutionrelative:06.maxnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64B753-DF05-4704-A3DB-B17FA2C51949}|05.AccountBalance\\05.AccountBalance.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\lab\\05.accountbalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64B753-DF05-4704-A3DB-B17FA2C51949}|05.AccountBalance\\05.AccountBalance.csproj|solutionrelative:05.accountbalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11E474-C838-4B2E-A49F-1B386ED68D6B}|04.Sequence2k\u002B1\\04.Sequence2k\u002B1.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\lab\\04.sequence2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A11E474-C838-4B2E-A49F-1B386ED68D6B}|04.Sequence2k\u002B1\\04.Sequence2k\u002B1.csproj|solutionrelative:04.sequence2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3EDF41-0035-4003-949F-1E672D3131E7}|03.SumNumbers\\03.SumNumbers.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\lab\\03.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3EDF41-0035-4003-949F-1E672D3131E7}|03.SumNumbers\\03.SumNumbers.csproj|solutionrelative:03.sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D070F5F0-F59D-4F2C-BCE8-3F8390AD6A72}|01.ReadText\\01.ReadText.csproj|c:\\users\\umrel\\desktop\\basics\\csharpwhileloop\\lab\\01.readtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D070F5F0-F59D-4F2C-BCE8-3F8390AD6A72}|01.ReadText\\01.ReadText.csproj|solutionrelative:01.readtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\08.Graduation\\Program.cs",
+              "RelativeDocumentMoniker": "08.Graduation\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\08.Graduation\\Program.cs",
+              "RelativeToolTip": "08.Graduation\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:23:26.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\07.MinNumber\\Program.cs",
+              "RelativeDocumentMoniker": "07.MinNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\07.MinNumber\\Program.cs",
+              "RelativeToolTip": "07.MinNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:23:21.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\06.MaxNumber\\Program.cs",
+              "RelativeDocumentMoniker": "06.MaxNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\06.MaxNumber\\Program.cs",
+              "RelativeToolTip": "06.MaxNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:23:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\05.AccountBalance\\Program.cs",
+              "RelativeDocumentMoniker": "05.AccountBalance\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\05.AccountBalance\\Program.cs",
+              "RelativeToolTip": "05.AccountBalance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:22:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\04.Sequence2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04.Sequence2k\u002B1\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\04.Sequence2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04.Sequence2k\u002B1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:22:43.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\03.SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.SumNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\03.SumNumbers\\Program.cs",
+              "RelativeToolTip": "03.SumNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:22:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\01.ReadText\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReadText\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\CSharpWhileLoop\\Lab\\01.ReadText\\Program.cs",
+              "RelativeToolTip": "01.ReadText\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:22:26.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB806E7F-5674-410E-B70C-897E995E7E1A}|9.SumOfOddNumbers\\9.SumOfOddNumbers.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\9.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB806E7F-5674-410E-B70C-897E995E7E1A}|9.SumOfOddNumbers\\9.SumOfOddNumbers.csproj|solutionrelative:9.sumofoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD21A0C-F120-47CD-B659-40D274688E07}|8.DivisibleBy3\\8.DivisibleBy3.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\8.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD21A0C-F120-47CD-B659-40D274688E07}|8.DivisibleBy3\\8.DivisibleBy3.csproj|solutionrelative:8.divisibleby3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE67512-0F32-4543-97DB-16A6A73CF02C}|7.TheatrePromotions\\7.TheatrePromotions.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\7.theatrepromotions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE67512-0F32-4543-97DB-16A6A73CF02C}|7.TheatrePromotions\\7.TheatrePromotions.csproj|solutionrelative:7.theatrepromotions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE67512-0F32-4543-97DB-16A6A73CF02C}|7.TheatrePromotions\\7.TheatrePromotions.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\7.theatrepromotions\\7.theatrepromotions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BE67512-0F32-4543-97DB-16A6A73CF02C}|7.TheatrePromotions\\7.TheatrePromotions.csproj|solutionrelative:7.theatrepromotions\\7.theatrepromotions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59C8B5D-D2E2-4704-AE97-CE5CE00170F8}|5.MonthPrinter\\5.MonthPrinter.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\5.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59C8B5D-D2E2-4704-AE97-CE5CE00170F8}|5.MonthPrinter\\5.MonthPrinter.csproj|solutionrelative:5.monthprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000ECD5F-DB97-4D76-9992-717AB8E938EC}|4.BackIn30Minutes\\4.BackIn30Minutes.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\4.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000ECD5F-DB97-4D76-9992-717AB8E938EC}|4.BackIn30Minutes\\4.BackIn30Minutes.csproj|solutionrelative:4.backin30minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239A8AEA-01AC-4CFE-8340-73180583F27A}|3.PassedOrFailed\\3.PassedOrFailed.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\3.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239A8AEA-01AC-4CFE-8340-73180583F27A}|3.PassedOrFailed\\3.PassedOrFailed.csproj|solutionrelative:3.passedorfailed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337CEE13-01C0-49E4-A759-190B69424FAC}|2.Passed\\2.Passed.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\2.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337CEE13-01C0-49E4-A759-190B69424FAC}|2.Passed\\2.Passed.csproj|solutionrelative:2.passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04112A02-FC16-4675-B006-8413C77F6CAC}|13.DebugTheCodeHolidaysBetweenTwoDates\\13.DebugTheCodeHolidaysBetweenTwoDates.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\13.debugthecodeholidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04112A02-FC16-4675-B006-8413C77F6CAC}|13.DebugTheCodeHolidaysBetweenTwoDates\\13.DebugTheCodeHolidaysBetweenTwoDates.csproj|solutionrelative:13.debugthecodeholidaysbetweentwodates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E5266-C61A-46C6-A92C-96759562C1A5}|12.EvenNumber\\12.EvenNumber.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E5266-C61A-46C6-A92C-96759562C1A5}|12.EvenNumber\\12.EvenNumber.csproj|solutionrelative:12.evennumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB98C49-0CE9-4AA2-BA7E-530BA7532EC8}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB98C49-0CE9-4AA2-BA7E-530BA7532EC8}|11.MultiplicationTable2.0\\11.MultiplicationTable2.0.csproj|solutionrelative:11.multiplicationtable2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AC764B-0A1F-408A-8A6D-8D71D06CF0A2}|10. MultiplicationTable\\10.MultiplicationTable.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\10. multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AC764B-0A1F-408A-8A6D-8D71D06CF0A2}|10. MultiplicationTable\\10.MultiplicationTable.csproj|solutionrelative:10. multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5240957-1867-4AC4-8A6C-EF88A57D2A54}|ConsoleApp1\\1.StudentInformation.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5240957-1867-4AC4-8A6C-EF88A57D2A54}|ConsoleApp1\\1.StudentInformation.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE3DD14-9C1F-4487-8E03-9C70AE2D15FD}|6.ForeignLanguages\\6.ForeignLanguages.csproj|c:\\users\\umrel\\source\\repos\\01.basicsyntaxconditionalstatementsandloops\\6.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE3DD14-9C1F-4487-8E03-9C70AE2D15FD}|6.ForeignLanguages\\6.ForeignLanguages.csproj|solutionrelative:6.foreignlanguages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\4.BackIn30Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "4.BackIn30Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\4.BackIn30Minutes\\Program.cs",
+              "RelativeToolTip": "4.BackIn30Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:45:18.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\7.TheatrePromotions\\Program.cs",
+              "RelativeDocumentMoniker": "7.TheatrePromotions\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\7.TheatrePromotions\\Program.cs",
+              "RelativeToolTip": "7.TheatrePromotions\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwEIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:29:02.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\8.DivisibleBy3\\Program.cs",
+              "RelativeDocumentMoniker": "8.DivisibleBy3\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\8.DivisibleBy3\\Program.cs",
+              "RelativeToolTip": "8.DivisibleBy3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:42:43.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\9.SumOfOddNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "9.SumOfOddNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\9.SumOfOddNumbers\\Program.cs",
+              "RelativeToolTip": "9.SumOfOddNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:32:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "7.TheatrePromotions.csproj",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\7.TheatrePromotions\\7.TheatrePromotions.csproj",
+              "RelativeDocumentMoniker": "7.TheatrePromotions\\7.TheatrePromotions.csproj",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\7.TheatrePromotions\\7.TheatrePromotions.csproj",
+              "RelativeToolTip": "7.TheatrePromotions\\7.TheatrePromotions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T18:31:50.759Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\3.PassedOrFailed\\Program.cs",
+              "RelativeDocumentMoniker": "3.PassedOrFailed\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\3.PassedOrFailed\\Program.cs",
+              "RelativeToolTip": "3.PassedOrFailed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:43:14.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\2.Passed\\Program.cs",
+              "RelativeDocumentMoniker": "2.Passed\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\2.Passed\\Program.cs",
+              "RelativeToolTip": "2.Passed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:39:57.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\13.DebugTheCodeHolidaysBetweenTwoDates\\Program.cs",
+              "RelativeDocumentMoniker": "13.DebugTheCodeHolidaysBetweenTwoDates\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\13.DebugTheCodeHolidaysBetweenTwoDates\\Program.cs",
+              "RelativeToolTip": "13.DebugTheCodeHolidaysBetweenTwoDates\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:03:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\5.MonthPrinter\\Program.cs",
+              "RelativeDocumentMoniker": "5.MonthPrinter\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\5.MonthPrinter\\Program.cs",
+              "RelativeToolTip": "5.MonthPrinter\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:06:57.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\12.EvenNumber\\Program.cs",
+              "RelativeDocumentMoniker": "12.EvenNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\12.EvenNumber\\Program.cs",
+              "RelativeToolTip": "12.EvenNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:35:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeDocumentMoniker": "11.MultiplicationTable2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\11.MultiplicationTable2.0\\Program.cs",
+              "RelativeToolTip": "11.MultiplicationTable2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:10:18.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\10. MultiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "10. MultiplicationTable\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\10. MultiplicationTable\\Program.cs",
+              "RelativeToolTip": "10. MultiplicationTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:06:06.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:57:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\6.ForeignLanguages\\Program.cs",
+              "RelativeDocumentMoniker": "6.ForeignLanguages\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.BasicSyntaxConditionalStatementsAndLoops\\6.ForeignLanguages\\Program.cs",
+              "RelativeToolTip": "6.ForeignLanguages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:16:55.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.exe
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.deps.json
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.runtimeconfig.json
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.pdb
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.AssemblyInfo.cs
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\refint\05.AverageNumber.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.pdb
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.genruntimeconfig.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net8.0\ref\05.AverageNumber.dll

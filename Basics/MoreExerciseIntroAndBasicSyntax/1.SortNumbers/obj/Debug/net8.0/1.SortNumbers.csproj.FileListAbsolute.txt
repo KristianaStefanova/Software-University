@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\bin\Debug\net8.0\1.SortNumbers.exe
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\bin\Debug\net8.0\1.SortNumbers.deps.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\bin\Debug\net8.0\1.SortNumbers.runtimeconfig.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\bin\Debug\net8.0\1.SortNumbers.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\bin\Debug\net8.0\1.SortNumbers.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\1.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\1.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\1.SortNumbers.AssemblyInfo.cs
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\1.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\1.SortNumbers.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\refint\1.SortNumbers.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\1.SortNumbers.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\1.SortNumbers.genruntimeconfig.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\1.SortNumbers\obj\Debug\net8.0\ref\1.SortNumbers.dll

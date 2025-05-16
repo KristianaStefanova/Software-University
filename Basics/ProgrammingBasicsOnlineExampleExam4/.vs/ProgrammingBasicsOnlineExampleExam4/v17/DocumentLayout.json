@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B35093C3-FF2B-4E0C-898C-E2A541B80C92}|Demo\\Demo.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35093C3-FF2B-4E0C-898C-E2A541B80C92}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEE187F-9060-4ED2-BE48-495874DEA049}|06.MovieTickets\\06.MovieTickets.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\06.movietickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEE187F-9060-4ED2-BE48-495874DEA049}|06.MovieTickets\\06.MovieTickets.csproj|solutionrelative:06.movietickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB55BF8-68AA-4740-95D6-93B19BFABE78}|06.FavoriteMovie\\06.FavoriteMovie.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\06.favoritemovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB55BF8-68AA-4740-95D6-93B19BFABE78}|06.FavoriteMovie\\06.FavoriteMovie.csproj|solutionrelative:06.favoritemovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1CF21C-B2DD-4AC7-8F16-FA45B237E856}|05.Series\\05.Series.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\05.series\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1CF21C-B2DD-4AC7-8F16-FA45B237E856}|05.Series\\05.Series.csproj|solutionrelative:05.series\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4347B79B-8701-4108-92C4-8AAAB52B1D92}|05.Oscars\\05.Oscars.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\05.oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4347B79B-8701-4108-92C4-8AAAB52B1D92}|05.Oscars\\05.Oscars.csproj|solutionrelative:05.oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5699010-4D7A-4DAA-B035-0AA1B28192F6}|04.MovieStars\\04.MovieStars.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\04.moviestars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5699010-4D7A-4DAA-B035-0AA1B28192F6}|04.MovieStars\\04.MovieStars.csproj|solutionrelative:04.moviestars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAFC838-6422-4320-B690-9149FDEE8AED}|04.Cinema\\04.Cinema.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\04.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAFC838-6422-4320-B690-9149FDEE8AED}|04.Cinema\\04.Cinema.csproj|solutionrelative:04.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02F232A-B56E-4AEE-AD85-6487FE8B53EF}|03.MovieDestination\\03.MovieDestination.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\03.moviedestination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02F232A-B56E-4AEE-AD85-6487FE8B53EF}|03.MovieDestination\\03.MovieDestination.csproj|solutionrelative:03.moviedestination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876077A3-E6C6-4CCA-9FF2-4F840B5BBB0F}|03.FilmPremiere\\03.FilmPremiere.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\03.filmpremiere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876077A3-E6C6-4CCA-9FF2-4F840B5BBB0F}|03.FilmPremiere\\03.FilmPremiere.csproj|solutionrelative:03.filmpremiere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DF64F5-12DB-4E8E-9A3F-165919EB6A1F}|02.MovieDay\\02.MovieDay.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\02.movieday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DF64F5-12DB-4E8E-9A3F-165919EB6A1F}|02.MovieDay\\02.MovieDay.csproj|solutionrelative:02.movieday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17511D6-9AC7-4E52-A888-E9227392B6AA}|01.SeriesCalculator\\01.SeriesCalculator.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\01.seriescalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17511D6-9AC7-4E52-A888-E9227392B6AA}|01.SeriesCalculator\\01.SeriesCalculator.csproj|solutionrelative:01.seriescalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FE5E0-B62D-4A2D-AAC7-10199032F71F}|01.MovieProfit\\01.MovieProfit.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam4\\01.movieprofit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FE5E0-B62D-4A2D-AAC7-10199032F71F}|01.MovieProfit\\01.MovieProfit.csproj|solutionrelative:01.movieprofit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\05.Oscars\\Program.cs",
+              "RelativeDocumentMoniker": "05.Oscars\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\05.Oscars\\Program.cs",
+              "RelativeToolTip": "05.Oscars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:14:53.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\05.Series\\Program.cs",
+              "RelativeDocumentMoniker": "05.Series\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\05.Series\\Program.cs",
+              "RelativeToolTip": "05.Series\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:11:21.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\06.FavoriteMovie\\Program.cs",
+              "RelativeDocumentMoniker": "06.FavoriteMovie\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\06.FavoriteMovie\\Program.cs",
+              "RelativeToolTip": "06.FavoriteMovie\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:11:52.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\06.MovieTickets\\Program.cs",
+              "RelativeDocumentMoniker": "06.MovieTickets\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\06.MovieTickets\\Program.cs",
+              "RelativeToolTip": "06.MovieTickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:51:24.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:35:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\04.MovieStars\\Program.cs",
+              "RelativeDocumentMoniker": "04.MovieStars\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\04.MovieStars\\Program.cs",
+              "RelativeToolTip": "04.MovieStars\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:34.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\04.Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "04.Cinema\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\04.Cinema\\Program.cs",
+              "RelativeToolTip": "04.Cinema\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:08:37.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\03.MovieDestination\\Program.cs",
+              "RelativeDocumentMoniker": "03.MovieDestination\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\03.MovieDestination\\Program.cs",
+              "RelativeToolTip": "03.MovieDestination\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:40:16.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\03.FilmPremiere\\Program.cs",
+              "RelativeDocumentMoniker": "03.FilmPremiere\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\03.FilmPremiere\\Program.cs",
+              "RelativeToolTip": "03.FilmPremiere\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:15:49.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\02.MovieDay\\Program.cs",
+              "RelativeDocumentMoniker": "02.MovieDay\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\02.MovieDay\\Program.cs",
+              "RelativeToolTip": "02.MovieDay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:55:23.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\01.SeriesCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "01.SeriesCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\01.SeriesCalculator\\Program.cs",
+              "RelativeToolTip": "01.SeriesCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:47:46.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\01.MovieProfit\\Program.cs",
+              "RelativeDocumentMoniker": "01.MovieProfit\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam4\\01.MovieProfit\\Program.cs",
+              "RelativeToolTip": "01.MovieProfit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:05:03.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

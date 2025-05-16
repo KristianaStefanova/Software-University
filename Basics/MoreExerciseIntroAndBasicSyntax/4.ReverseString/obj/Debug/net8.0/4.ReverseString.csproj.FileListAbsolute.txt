@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\bin\Debug\net8.0\4.ReverseString.exe
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\bin\Debug\net8.0\4.ReverseString.deps.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\bin\Debug\net8.0\4.ReverseString.runtimeconfig.json
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\bin\Debug\net8.0\4.ReverseString.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\bin\Debug\net8.0\4.ReverseString.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\4.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\4.ReverseString.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\4.ReverseString.AssemblyInfo.cs
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\4.ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\4.ReverseString.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\refint\4.ReverseString.dll
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\4.ReverseString.pdb
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\4.ReverseString.genruntimeconfig.cache
+C:\Users\umrel\source\repos\01.MoreExerciseIntroAndBasicSyntax\4.ReverseString\obj\Debug\net8.0\ref\4.ReverseString.dll

@@ -1,0 +1,792 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD576CE-8DB4-4101-B47E-3E8A7E1CAF64}|demo\\09.TomCat.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD576CE-8DB4-4101-B47E-3E8A7E1CAF64}|demo\\09.TomCat.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956BC870-1B53-4AD9-991B-413B895DB23D}|8.1.Triangle\\8.1.Triangle.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\8.1.triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956BC870-1B53-4AD9-991B-413B895DB23D}|8.1.Triangle\\8.1.Triangle.csproj|solutionrelative:8.1.triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7722130A-A8B9-4479-BE92-C8B7E40B7246}|7.6.Numbers\\7.6.Numbers.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\7.6.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7722130A-A8B9-4479-BE92-C8B7E40B7246}|7.6.Numbers\\7.6.Numbers.csproj|solutionrelative:7.6.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB3237E-E915-47A5-94D4-7E22D2610C9E}|7.5.SpecialNumbers\\7.5.SpecialNumbers.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\7.5.specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB3237E-E915-47A5-94D4-7E22D2610C9E}|7.5.SpecialNumbers\\7.5.SpecialNumbers.csproj|solutionrelative:7.5.specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC32FED-20EC-4A77-81BF-B36141C55AD6}|7.4.StopNumber\\7.4.StopNumber.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\7.4.stopnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC32FED-20EC-4A77-81BF-B36141C55AD6}|7.4.StopNumber\\7.4.StopNumber.csproj|solutionrelative:7.4.stopnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B71AB-5E01-40B7-AD9D-5FC8C17EBD79}|07.3.MagicNumber\\7.3.MagicNumber.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\07.3.magicnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B71AB-5E01-40B7-AD9D-5FC8C17EBD79}|07.3.MagicNumber\\7.3.MagicNumber.csproj|solutionrelative:07.3.magicnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A85AD3F-8859-4ACF-BA3D-0A7E81405C88}|7.2.GeneratorPasswords\\7.2.GeneratorPasswords.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\7.2.generatorpasswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A85AD3F-8859-4ACF-BA3D-0A7E81405C88}|7.2.GeneratorPasswords\\7.2.GeneratorPasswords.csproj|solutionrelative:7.2.generatorpasswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52E7EA1-F66B-450A-852B-8D66F778B0DC}|4.7.NumberTable\\4.7.NumberTable.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\4.7.numbertable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52E7EA1-F66B-450A-852B-8D66F778B0DC}|4.7.NumberTable\\4.7.NumberTable.csproj|solutionrelative:4.7.numbertable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AA4DF0-D495-448E-915D-DBAF30378500}|4.6.PiramidOfMun\\4.6.PiramidOfMun.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\4.6.piramidofmun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AA4DF0-D495-448E-915D-DBAF30378500}|4.6.PiramidOfMun\\4.6.PiramidOfMun.csproj|solutionrelative:4.6.piramidofmun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3021C6-B92C-4454-A3DE-69BE30137682}|4.5.Fibonachi\\4.5.Fibonachi.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\4.5.fibonachi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3021C6-B92C-4454-A3DE-69BE30137682}|4.5.Fibonachi\\4.5.Fibonachi.csproj|solutionrelative:4.5.fibonachi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419DC991-4303-494B-A14E-E870EA97697C}|4.4.CheckPrime\\4.4.CheckPrime.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\4.4.checkprime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419DC991-4303-494B-A14E-E870EA97697C}|4.4.CheckPrime\\4.4.CheckPrime.csproj|solutionrelative:4.4.checkprime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789A21FE-AF53-42B5-B7A3-8AC2B2E4CB9E}|4.3.SumDigits\\4.3.SumDigits.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\4.3.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789A21FE-AF53-42B5-B7A3-8AC2B2E4CB9E}|4.3.SumDigits\\4.3.SumDigits.csproj|solutionrelative:4.3.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18E4A80-908B-41B8-B3C9-F61FE8854D64}|4.2.Factoriel\\4.2.Factoriel.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\4.2.factoriel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18E4A80-908B-41B8-B3C9-F61FE8854D64}|4.2.Factoriel\\4.2.Factoriel.csproj|solutionrelative:4.2.factoriel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3F668A-FD85-4D67-8A30-C56DE75FF9FF}|3.9.Square Frame\\3.9.Square Frame.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.9.square frame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3F668A-FD85-4D67-8A30-C56DE75FF9FF}|3.9.Square Frame\\3.9.Square Frame.csproj|solutionrelative:3.9.square frame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A158F7A-CDDB-4C40-99BD-21B87C6DD6E1}|3.8.Figure\\3.8.Figure.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.8.figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A158F7A-CDDB-4C40-99BD-21B87C6DD6E1}|3.8.Figure\\3.8.Figure.csproj|solutionrelative:3.8.figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056205B-0F3F-456A-96A8-9B06FECD8227}|3.7.Triangle\\3.7.Triangle.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.7.triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5056205B-0F3F-456A-96A8-9B06FECD8227}|3.7.Triangle\\3.7.Triangle.csproj|solutionrelative:3.7.triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155632B0-79A9-4E05-AC9E-54B3F7EA2004}|3.6.Logistic\\3.6.Logistic.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.6.logistic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155632B0-79A9-4E05-AC9E-54B3F7EA2004}|3.6.Logistic\\3.6.Logistic.csproj|solutionrelative:3.6.logistic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4130471B-4AF6-4B3B-B25B-8382E1DD080C}|3.6.FIgure\\3.6.FIgure.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.6.figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4130471B-4AF6-4B3B-B25B-8382E1DD080C}|3.6.FIgure\\3.6.FIgure.csproj|solutionrelative:3.6.figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF9F0DB-2A27-486C-837E-6AF3DF5F0A3E}|3.5.Split\\3.5.Split.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.5.split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF9F0DB-2A27-486C-837E-6AF3DF5F0A3E}|3.5.Split\\3.5.Split.csproj|solutionrelative:3.5.split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C654189-06D8-4D2D-AB5E-BFB80F98D4BA}|3.4.Hopital\\3.4.Hopital.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.4.hopital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C654189-06D8-4D2D-AB5E-BFB80F98D4BA}|3.4.Hopital\\3.4.Hopital.csproj|solutionrelative:3.4.hopital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7AD1D7-0B0E-4678-8AEE-84E8E6B81A29}|3.3.TimeMachine\\3.3.TimeMachine.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.3.timemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7AD1D7-0B0E-4678-8AEE-84E8E6B81A29}|3.3.TimeMachine\\3.3.TimeMachine.csproj|solutionrelative:3.3.timemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7928DF6-D880-427C-835F-13A10EFE86F6}|3.2.SmartLily\\3.2.SmartLily.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.2.smartlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7928DF6-D880-427C-835F-13A10EFE86F6}|3.2.SmartLily\\3.2.SmartLily.csproj|solutionrelative:3.2.smartlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0842E2F8-79AA-4898-9E9C-B93C42779195}|3.1Histograma\\3.1Histograma.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.1histograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0842E2F8-79AA-4898-9E9C-B93C42779195}|3.1Histograma\\3.1Histograma.csproj|solutionrelative:3.1histograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44274CF8-3AD2-4190-9798-AD16326F3C6E}|3.11.Sunglasses\\3.11.Sunglasses.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.11.sunglasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44274CF8-3AD2-4190-9798-AD16326F3C6E}|3.11.Sunglasses\\3.11.Sunglasses.csproj|solutionrelative:3.11.sunglasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270A34CE-D245-4B41-B2BF-D26BB56A264D}|3.10.ChristmasTree\\3.10.ChristmasTree.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\3.10.christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270A34CE-D245-4B41-B2BF-D26BB56A264D}|3.10.ChristmasTree\\3.10.ChristmasTree.csproj|solutionrelative:3.10.christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA83001-6AFE-4DC9-A311-37E0CE7D583B}|2.6.Couples\\2.6.Couples.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\2.6.couples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA83001-6AFE-4DC9-A311-37E0CE7D583B}|2.6.Couples\\2.6.Couples.csproj|solutionrelative:2.6.couples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D017778-6DD3-4C8E-80EC-46950F7B2140}|2.05.EvenOrOdd\\2.05.EvenOrOdd.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\2.05.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D017778-6DD3-4C8E-80EC-46950F7B2140}|2.05.EvenOrOdd\\2.05.EvenOrOdd.csproj|solutionrelative:2.05.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F218FCEC-5E42-448F-8AA3-70DDE0614AAE}|2.03.Text\\2.03.Text.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\2.03.text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F218FCEC-5E42-448F-8AA3-70DDE0614AAE}|2.03.Text\\2.03.Text.csproj|solutionrelative:2.03.text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98B47E6-AFB3-40FC-99BF-185108E95592}|2.03.SumNum\\2.03.SumNum.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\2.03.sumnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98B47E6-AFB3-40FC-99BF-185108E95592}|2.03.SumNum\\2.03.SumNum.csproj|solutionrelative:2.03.sumnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F7F56A-5EAA-4770-A5AF-CF6B6D942269}|2.02Difference\\2.02Difference.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\2.02difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F7F56A-5EAA-4770-A5AF-CF6B6D942269}|2.02Difference\\2.02Difference.csproj|solutionrelative:2.02difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B775809-3DA0-4A92-A092-9013E638FEE2}|02.01Loop-Num\\2.01Loop-Num.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\02.01loop-num\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B775809-3DA0-4A92-A092-9013E638FEE2}|02.01Loop-Num\\2.01Loop-Num.csproj|solutionrelative:02.01loop-num\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7553B8C7-0DC0-46BE-A6A8-A6A600818AA7}|17.HotelRoom\\17.HotelRoom.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\17.hotelroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7553B8C7-0DC0-46BE-A6A8-A6A600818AA7}|17.HotelRoom\\17.HotelRoom.csproj|solutionrelative:17.hotelroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B029E250-D927-4456-9772-4025FBD58B02}|16.Tickets\\16.Tickets.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\16.tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B029E250-D927-4456-9772-4025FBD58B02}|16.Tickets\\16.Tickets.csproj|solutionrelative:16.tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3644216B-0655-44B2-A333-8E8B4AE20B2A}|16.OperationBetweenNum\\16.Oper.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\16.operationbetweennum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3644216B-0655-44B2-A333-8E8B4AE20B2A}|16.OperationBetweenNum\\16.Oper.csproj|solutionrelative:16.operationbetweennum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77454EC-32CB-481B-894E-2953221C73EB}|15.Vacation\\15.Vacation.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\15.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77454EC-32CB-481B-894E-2953221C73EB}|15.Vacation\\15.Vacation.csproj|solutionrelative:15.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE878063-F027-426C-B2DF-008BFF94C121}|14.Cinema\\14.Cinema.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\14.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE878063-F027-426C-B2DF-008BFF94C121}|14.Cinema\\14.Cinema.csproj|solutionrelative:14.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC28A8E-E7C3-45A5-8D5A-FCFD0C6325E4}|13.PointRectangle\\13.PointRectangle.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\13.pointrectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC28A8E-E7C3-45A5-8D5A-FCFD0C6325E4}|13.PointRectangle\\13.PointRectangle.csproj|solutionrelative:13.pointrectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821A233-B535-4ECA-BE70-B16B5931EFF2}|11.WorkDay\\11.WorkDay.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\11.workday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821A233-B535-4ECA-BE70-B16B5931EFF2}|11.WorkDay\\11.WorkDay.csproj|solutionrelative:11.workday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFBC6F2-CD52-4999-A432-593D041900C0}|10.Vine\\10.Wine.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\10.vine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFBC6F2-CD52-4999-A432-593D041900C0}|10.Vine\\10.Wine.csproj|solutionrelative:10.vine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EE34AE-850D-4C5E-B537-40CAA8AC8520}|08.SwimmingPool\\08.SwimmingPool.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\08.swimmingpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EE34AE-850D-4C5E-B537-40CAA8AC8520}|08.SwimmingPool\\08.SwimmingPool.csproj|solutionrelative:08.swimmingpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B389A-9E5A-4746-9EC6-232DECAC37B6}|07.SumSeconds\\07.SumSeconds.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\07.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B389A-9E5A-4746-9EC6-232DECAC37B6}|07.SumSeconds\\07.SumSeconds.csproj|solutionrelative:07.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0F10F4-5B50-4E01-934D-01CBC2AFDE75}|05.DailyEarnings\\05.DailyEarnings.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\05.dailyearnings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0F10F4-5B50-4E01-934D-01CBC2AFDE75}|05.DailyEarnings\\05.DailyEarnings.csproj|solutionrelative:05.dailyearnings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D4B4EE-0B7C-4988-9BC7-153F11CC406A}|04.Money\\04.Money.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\04.money\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D4B4EE-0B7C-4988-9BC7-153F11CC406A}|04.Money\\04.Money.csproj|solutionrelative:04.money\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E38501-8505-4104-A1C9-4129407D7FB6}|03.ChangeTiles\\03.ChangeTiles.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\03.changetiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E38501-8505-4104-A1C9-4129407D7FB6}|03.ChangeTiles\\03.ChangeTiles.csproj|solutionrelative:03.changetiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1362D116-397C-438E-B3C8-E6591DACEC29}|02.VegetableMarket\\02.VegetableMarket.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\02.vegetablemarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1362D116-397C-438E-B3C8-E6591DACEC29}|02.VegetableMarket\\02.VegetableMarket.csproj|solutionrelative:02.vegetablemarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1784EC9-05B3-4076-8F41-7B47E8CA6442}|2.2.SimpleCalculations-ExamProblems\\01.TrainingLab.csproj|c:\\users\\umrel\\desktop\\basics\\simplecalculationsexamproblems\\2.2.simplecalculations-examproblems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1784EC9-05B3-4076-8F41-7B47E8CA6442}|2.2.SimpleCalculations-ExamProblems\\01.TrainingLab.csproj|solutionrelative:2.2.simplecalculations-examproblems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\umrel\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\0.0.demo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\umrel\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\15.Point\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\7.4.StopNumber\\Program.cs",
+              "RelativeDocumentMoniker": "7.4.StopNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\7.4.StopNumber\\Program.cs",
+              "RelativeToolTip": "7.4.StopNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:17:06.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\7.5.SpecialNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "7.5.SpecialNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\7.5.SpecialNumbers\\Program.cs",
+              "RelativeToolTip": "7.5.SpecialNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:28:52.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\7.6.Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "7.6.Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\7.6.Numbers\\Program.cs",
+              "RelativeToolTip": "7.6.Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:35:44.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\8.1.Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "8.1.Triangle\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\8.1.Triangle\\Program.cs",
+              "RelativeToolTip": "8.1.Triangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:33:05.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:12:38.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\07.3.MagicNumber\\Program.cs",
+              "RelativeDocumentMoniker": "07.3.MagicNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\07.3.MagicNumber\\Program.cs",
+              "RelativeToolTip": "07.3.MagicNumber\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:45:31.42Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\7.2.GeneratorPasswords\\Program.cs",
+              "RelativeDocumentMoniker": "7.2.GeneratorPasswords\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\7.2.GeneratorPasswords\\Program.cs",
+              "RelativeToolTip": "7.2.GeneratorPasswords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:47:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.7.NumberTable\\Program.cs",
+              "RelativeDocumentMoniker": "4.7.NumberTable\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.7.NumberTable\\Program.cs",
+              "RelativeToolTip": "4.7.NumberTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:17:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.6.PiramidOfMun\\Program.cs",
+              "RelativeDocumentMoniker": "4.6.PiramidOfMun\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.6.PiramidOfMun\\Program.cs",
+              "RelativeToolTip": "4.6.PiramidOfMun\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:13:30.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.5.Fibonachi\\Program.cs",
+              "RelativeDocumentMoniker": "4.5.Fibonachi\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.5.Fibonachi\\Program.cs",
+              "RelativeToolTip": "4.5.Fibonachi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:49:10.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.4.CheckPrime\\Program.cs",
+              "RelativeDocumentMoniker": "4.4.CheckPrime\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.4.CheckPrime\\Program.cs",
+              "RelativeToolTip": "4.4.CheckPrime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:35:58.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.3.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "4.3.SumDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.3.SumDigits\\Program.cs",
+              "RelativeToolTip": "4.3.SumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:02:21.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.2.Factoriel\\Program.cs",
+              "RelativeDocumentMoniker": "4.2.Factoriel\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\4.2.Factoriel\\Program.cs",
+              "RelativeToolTip": "4.2.Factoriel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:49:36.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.9.Square Frame\\Program.cs",
+              "RelativeDocumentMoniker": "3.9.Square Frame\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.9.Square Frame\\Program.cs",
+              "RelativeToolTip": "3.9.Square Frame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:08:30.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.8.Figure\\Program.cs",
+              "RelativeDocumentMoniker": "3.8.Figure\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.8.Figure\\Program.cs",
+              "RelativeToolTip": "3.8.Figure\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:44:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.7.Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "3.7.Triangle\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.7.Triangle\\Program.cs",
+              "RelativeToolTip": "3.7.Triangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:27:14.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.6.Logistic\\Program.cs",
+              "RelativeDocumentMoniker": "3.6.Logistic\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.6.Logistic\\Program.cs",
+              "RelativeToolTip": "3.6.Logistic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:26:27.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.6.FIgure\\Program.cs",
+              "RelativeDocumentMoniker": "3.6.FIgure\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.6.FIgure\\Program.cs",
+              "RelativeToolTip": "3.6.FIgure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:41:51.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.5.Split\\Program.cs",
+              "RelativeDocumentMoniker": "3.5.Split\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.5.Split\\Program.cs",
+              "RelativeToolTip": "3.5.Split\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:16:02.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.4.Hopital\\Program.cs",
+              "RelativeDocumentMoniker": "3.4.Hopital\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.4.Hopital\\Program.cs",
+              "RelativeToolTip": "3.4.Hopital\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:50:47.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.3.TimeMachine\\Program.cs",
+              "RelativeDocumentMoniker": "3.3.TimeMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.3.TimeMachine\\Program.cs",
+              "RelativeToolTip": "3.3.TimeMachine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:32:20.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.2.SmartLily\\Program.cs",
+              "RelativeDocumentMoniker": "3.2.SmartLily\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.2.SmartLily\\Program.cs",
+              "RelativeToolTip": "3.2.SmartLily\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:56:42.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.1Histograma\\Program.cs",
+              "RelativeDocumentMoniker": "3.1Histograma\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.1Histograma\\Program.cs",
+              "RelativeToolTip": "3.1Histograma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:53:32.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.11.Sunglasses\\Program.cs",
+              "RelativeDocumentMoniker": "3.11.Sunglasses\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.11.Sunglasses\\Program.cs",
+              "RelativeToolTip": "3.11.Sunglasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:58:29.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.10.ChristmasTree\\Program.cs",
+              "RelativeDocumentMoniker": "3.10.ChristmasTree\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\3.10.ChristmasTree\\Program.cs",
+              "RelativeToolTip": "3.10.ChristmasTree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:24:24.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.6.Couples\\Program.cs",
+              "RelativeDocumentMoniker": "2.6.Couples\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.6.Couples\\Program.cs",
+              "RelativeToolTip": "2.6.Couples\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:28:09.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.05.EvenOrOdd\\Program.cs",
+              "RelativeDocumentMoniker": "2.05.EvenOrOdd\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.05.EvenOrOdd\\Program.cs",
+              "RelativeToolTip": "2.05.EvenOrOdd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:23:56.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.03.Text\\Program.cs",
+              "RelativeDocumentMoniker": "2.03.Text\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.03.Text\\Program.cs",
+              "RelativeToolTip": "2.03.Text\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:22:17.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.03.SumNum\\Program.cs",
+              "RelativeDocumentMoniker": "2.03.SumNum\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.03.SumNum\\Program.cs",
+              "RelativeToolTip": "2.03.SumNum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:58:10.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.02Difference\\Program.cs",
+              "RelativeDocumentMoniker": "2.02Difference\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.02Difference\\Program.cs",
+              "RelativeToolTip": "2.02Difference\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:50:20.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\02.01Loop-Num\\Program.cs",
+              "RelativeDocumentMoniker": "02.01Loop-Num\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\02.01Loop-Num\\Program.cs",
+              "RelativeToolTip": "02.01Loop-Num\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:48:25.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\17.HotelRoom\\Program.cs",
+              "RelativeDocumentMoniker": "17.HotelRoom\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\17.HotelRoom\\Program.cs",
+              "RelativeToolTip": "17.HotelRoom\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:01:53.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\16.Tickets\\Program.cs",
+              "RelativeDocumentMoniker": "16.Tickets\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\16.Tickets\\Program.cs",
+              "RelativeToolTip": "16.Tickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:39:31.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\16.OperationBetweenNum\\Program.cs",
+              "RelativeDocumentMoniker": "16.OperationBetweenNum\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\16.OperationBetweenNum\\Program.cs",
+              "RelativeToolTip": "16.OperationBetweenNum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:30:49.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\15.Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "15.Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\15.Vacation\\Program.cs",
+              "RelativeToolTip": "15.Vacation\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:09:09.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\14.Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "14.Cinema\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\14.Cinema\\Program.cs",
+              "RelativeToolTip": "14.Cinema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:19:06.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\13.PointRectangle\\Program.cs",
+              "RelativeDocumentMoniker": "13.PointRectangle\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\13.PointRectangle\\Program.cs",
+              "RelativeToolTip": "13.PointRectangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:45:09.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\11.WorkDay\\Program.cs",
+              "RelativeDocumentMoniker": "11.WorkDay\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\11.WorkDay\\Program.cs",
+              "RelativeToolTip": "11.WorkDay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:41:18.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\10.Vine\\Program.cs",
+              "RelativeDocumentMoniker": "10.Vine\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\10.Vine\\Program.cs",
+              "RelativeToolTip": "10.Vine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:16:49.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\08.SwimmingPool\\Program.cs",
+              "RelativeDocumentMoniker": "08.SwimmingPool\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\08.SwimmingPool\\Program.cs",
+              "RelativeToolTip": "08.SwimmingPool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:11:24.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\07.SumSeconds\\Program.cs",
+              "RelativeDocumentMoniker": "07.SumSeconds\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\07.SumSeconds\\Program.cs",
+              "RelativeToolTip": "07.SumSeconds\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:38:18.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\05.DailyEarnings\\Program.cs",
+              "RelativeDocumentMoniker": "05.DailyEarnings\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\05.DailyEarnings\\Program.cs",
+              "RelativeToolTip": "05.DailyEarnings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:14:40.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\04.Money\\Program.cs",
+              "RelativeDocumentMoniker": "04.Money\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\04.Money\\Program.cs",
+              "RelativeToolTip": "04.Money\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:45:32.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\03.ChangeTiles\\Program.cs",
+              "RelativeDocumentMoniker": "03.ChangeTiles\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\03.ChangeTiles\\Program.cs",
+              "RelativeToolTip": "03.ChangeTiles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:06:23.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\02.VegetableMarket\\Program.cs",
+              "RelativeDocumentMoniker": "02.VegetableMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\02.VegetableMarket\\Program.cs",
+              "RelativeToolTip": "02.VegetableMarket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:38:03.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.2.SimpleCalculations-ExamProblems\\Program.cs",
+              "RelativeDocumentMoniker": "2.2.SimpleCalculations-ExamProblems\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\SimpleCalculationsExamProblems\\2.2.SimpleCalculations-ExamProblems\\Program.cs",
+              "RelativeToolTip": "2.2.SimpleCalculations-ExamProblems\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:56:01.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\0.0.demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\0.0.demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\0.0.demo\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\0.0.demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:36:10.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\15.Point\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\15.Point\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\15.Point\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\2.2.SimpleCalculations-ExamProblems\\15.Point\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:34:47.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\bin\Debug\net8.0\04.Numbers.exe
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\bin\Debug\net8.0\04.Numbers.deps.json
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\bin\Debug\net8.0\04.Numbers.runtimeconfig.json
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\bin\Debug\net8.0\04.Numbers.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\bin\Debug\net8.0\04.Numbers.pdb
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\04.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\04.Numbers.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\04.Numbers.AssemblyInfo.cs
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\04.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\04.Numbers.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\refint\04.Numbers.dll
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\04.Numbers.pdb
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\04.Numbers.genruntimeconfig.cache
+C:\Users\umrel\source\repos\While-Loop-MoreExercises\04.Numbers\obj\Debug\net8.0\ref\04.Numbers.dll

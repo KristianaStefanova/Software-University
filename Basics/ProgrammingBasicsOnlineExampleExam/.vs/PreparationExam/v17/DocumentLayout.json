@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07CFCE51-16F4-44A0-84B1-E762159692CB}|06.VetParking\\06.VetParking.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam\\06.vetparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CFCE51-16F4-44A0-84B1-E762159692CB}|06.VetParking\\06.VetParking.csproj|solutionrelative:06.vetparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6826E959-BD37-4947-9CCD-27854EB93CDD}|05.TouristShop\\05.TouristShop.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam\\05.touristshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6826E959-BD37-4947-9CCD-27854EB93CDD}|05.TouristShop\\05.TouristShop.csproj|solutionrelative:05.touristshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79789648-23AB-417F-BE9D-5F907B1CBDFA}|05.MovieRatings\\04.MovieRatings.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam\\05.movieratings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79789648-23AB-417F-BE9D-5F907B1CBDFA}|05.MovieRatings\\04.MovieRatings.csproj|solutionrelative:05.movieratings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D237A56-AC8F-4FED-8EAB-2ED62B599B61}|03.Gimnastics\\03.Gimnastics.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam\\03.gimnastics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D237A56-AC8F-4FED-8EAB-2ED62B599B61}|03.Gimnastics\\03.Gimnastics.csproj|solutionrelative:03.gimnastics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE78577-CA55-4A28-A10A-D78F13884216}|02.FamilyTrip\\02.FamilyTrip.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam\\02.familytrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE78577-CA55-4A28-A10A-D78F13884216}|02.FamilyTrip\\02.FamilyTrip.csproj|solutionrelative:02.familytrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D026EE89-1433-4610-881E-7ED02FAA0E2F}|01.MovieProfit\\01.MovieProfit.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam\\01.movieprofit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D026EE89-1433-4610-881E-7ED02FAA0E2F}|01.MovieProfit\\01.MovieProfit.csproj|solutionrelative:01.movieprofit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C30E9DA-8A69-4FC0-AA2B-E60A2F996633}|0.0.Demo\\0.0.Demo.csproj|c:\\users\\umrel\\desktop\\basics\\programmingbasicsonlineexampleexam\\0.0.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C30E9DA-8A69-4FC0-AA2B-E60A2F996633}|0.0.Demo\\0.0.Demo.csproj|solutionrelative:0.0.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\02.FamilyTrip\\Program.cs",
+              "RelativeDocumentMoniker": "02.FamilyTrip\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\02.FamilyTrip\\Program.cs",
+              "RelativeToolTip": "02.FamilyTrip\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:29:45.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\03.Gimnastics\\Program.cs",
+              "RelativeDocumentMoniker": "03.Gimnastics\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\03.Gimnastics\\Program.cs",
+              "RelativeToolTip": "03.Gimnastics\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:13:38.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\05.MovieRatings\\Program.cs",
+              "RelativeDocumentMoniker": "05.MovieRatings\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\05.MovieRatings\\Program.cs",
+              "RelativeToolTip": "05.MovieRatings\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:23:59.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\05.TouristShop\\Program.cs",
+              "RelativeDocumentMoniker": "05.TouristShop\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\05.TouristShop\\Program.cs",
+              "RelativeToolTip": "05.TouristShop\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:01:35.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\06.VetParking\\Program.cs",
+              "RelativeDocumentMoniker": "06.VetParking\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\06.VetParking\\Program.cs",
+              "RelativeToolTip": "06.VetParking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:49:19.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\01.MovieProfit\\Program.cs",
+              "RelativeDocumentMoniker": "01.MovieProfit\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\01.MovieProfit\\Program.cs",
+              "RelativeToolTip": "01.MovieProfit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:56:13.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\0.0.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "0.0.Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Basics\\ProgrammingBasicsOnlineExampleExam\\0.0.Demo\\Program.cs",
+              "RelativeToolTip": "0.0.Demo\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:07:17.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
