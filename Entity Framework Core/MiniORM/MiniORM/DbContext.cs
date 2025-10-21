@@ -1,5 +1,4 @@
-﻿using Azure.Identity;
-using Microsoft.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 using System.Collections;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -81,7 +80,7 @@ namespace MiniORM
                 {
                     MethodInfo persistMethod = typeof(DbContext)
                         .GetMethod(nameof(Persist), BindingFlags.NonPublic | BindingFlags.Instance)
-                        .MakeGenericMethod(dbSet.GetType());
+                        .MakeGenericMethod(dbSet.GetType().GenericTypeArguments[0]);
 
                     try
                     {
