@@ -108,25 +108,27 @@ namespace P02_FootballBetting.Data
                     .OnDelete(DeleteBehavior.Restrict);
             });
 
-            //// Configurar relación Town -> Country
-            //builder.Entity<Town>(e =>
-            //{
-            //    e
-            //        .HasOne(t => t.Country)
-            //        .WithMany(c => c.Towns)
-            //        .HasForeignKey(t => t.CountryId)
-            //        .OnDelete(DeleteBehavior.Restrict);
-            //});
+            /* Configure relation Town -> Country
+               builder.Entity<Town>(e =>
+               {
+                e
+                    .HasOne(t => t.Country)
+                    .WithMany(c => c.Towns)
+                    .HasForeignKey(t => t.CountryId)
+                    .OnDelete(DeleteBehavior.Restrict);
+               }); 
+            */
 
-            //// Configurar relación Team -> Town
-            //builder.Entity<Team>(e =>
-            //{
-            //    e
-            //        .HasOne(t => t.Town)
-            //        .WithMany(town => town.Teams)
-            //        .HasForeignKey(t => t.TownId)
-            //        .OnDelete(DeleteBehavior.Restrict);
-            //});
+            /* Configure relation Team -> Town
+               builder.Entity<Team>(e =>
+               {
+                   e
+                       .HasOne(t => t.Town)
+                       .WithMany(town => town.Teams)
+                       .HasForeignKey(t => t.TownId)
+                       .OnDelete(DeleteBehavior.Restrict);
+               });
+            */
 
             base.OnModelCreating(builder);
         }
