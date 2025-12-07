@@ -34,8 +34,9 @@ namespace MiniCinemaApp.Controllers
         [HttpPost]
         public async Task<IActionResult> ImportJson()
         {
+            const string jsonDataSetFileName = "moviesJSONFile.json";
             int importedCount = await this.importService
-                .ImportFromJsonAsync("moviesJSONFile.json");
+                .ImportFromJsonAsync(jsonDataSetFileName);
             
             TempData["JsonImportedCount"] = importedCount;
 
@@ -45,8 +46,9 @@ namespace MiniCinemaApp.Controllers
         [HttpPost]
         public async Task<IActionResult> ImportXml()
         {
+            const string xmlDataSetFileName = "MoviesXMLFile.xml";
              int importedCount = await this.importService
-                .ImportFromXmlAsync("MoviesXMLFile.xml");
+                .ImportFromXmlAsync(xmlDataSetFileName);
             
             TempData["XmlImportedCount"] = importedCount;
 

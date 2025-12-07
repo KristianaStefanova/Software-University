@@ -68,7 +68,6 @@ namespace MoviesApp.Services
 
             }
 
-            isImported = true;
             return moviesToImport.Count;
         }
 

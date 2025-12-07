@@ -21,22 +21,10 @@ namespace MoviesApp.Controllers
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            IEnumerable<Movie> movies = await this.watchlistService
-                 .GetAllAsync();
-            IEnumerable<AllMoviesIndexViewModel> viewModel = movies
-                .Select(m => new AllMoviesIndexViewModel
-                {
-                    Id = m.Id,
-                    Title = m.Title,
-                    Genre = m.Genre,
-                    Director = m.Director,
-                    ReleaseDate = m.ReleaseDate.ToString(CultureInfo.CurrentCulture),
-                    Duration = m.Duration,
-                    Description = m.Description,
-                    ImageUrl = m.ImageUrl,
-                });
+            IEnumerable<AllMoviesIndexViewModel> moviesInWatchlist = await this.watchlistService
+                .GetAllMoviesinWatchlistAsync();
 
-            return View(viewModel);
+            return View(moviesInWatchlist);
         }
 
         [HttpPost]
@@ -48,12 +36,13 @@ namespace MoviesApp.Controllers
                 return NotFound();
             }
 
+            bool movieAddedToWatclist = await this.watchlistService
+                .AddMovieToWatchlistAsync(id);
+
             bool movieInWatchlistExists = await this.watchlistService
                 .MovieExistsInWatchlistAsync(id);
-            if (!movieInWatchlistExists)
+            if (movieAddedToWatclist)
             {
-                await this.watchlistService.AddAsync(id);
-
                 return RedirectToAction("Index", "Watchlist");
             }
 
@@ -67,31 +56,5 @@ namespace MoviesApp.Controllers
             
             return RedirectToAction(nameof(Index));
         }
-
-        [HttpGet]
-        public async Task<IActionResult> Details(int id)
-        {
-            Movie? movie = await this.moviesService.GetByIdAsync(id);
-
-            if (movie == null)
-            {
-                return NotFound();
-            }
-
-            MovieDetailsViewModel viewModel = new MovieDetailsViewModel
-            {
-                Id = movie.Id,
-                Title = movie.Title,
-                Genre = movie.Genre,
-                Director = movie.Director,
-                Duration = movie.Duration,
-                ReleaseDate = movie.ReleaseDate.ToDateTime(TimeOnly.MinValue),
-                Description = movie.Description,
-                ImageUrl = movie.ImageUrl
-            };
-
-            return View(viewModel);
-        }
-
     }
 }

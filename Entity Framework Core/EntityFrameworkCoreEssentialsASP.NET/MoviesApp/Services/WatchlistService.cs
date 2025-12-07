@@ -2,6 +2,8 @@
 using MiniCinemaApp.Data.Models;
 using MoviesApp.Data;
 using MoviesApp.Services.Interfaces;
+using MoviesApp.ViewModels.Movies;
+using System.Globalization;
 
 namespace MoviesApp.Services
 {
@@ -24,14 +26,55 @@ namespace MoviesApp.Services
             await this.context.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<Movie>> GetAllAsync()
+        public async Task<bool> AddMovieToWatchlistAsync(int movieId)
         {
-            IEnumerable<Movie> allMoviesInWatchlist = await this.context
+            bool movieExists = await this.context
+                .Movies
+                .AnyAsync(m => m.Id == movieId);
+            if (!movieExists)
+            {
+                return false;
+            }
+
+            bool movieInWatchlistExists = await this.context
                 .Watchlists
-                .AsNoTracking()
-                .Include(w => w.Movie)
-                .Select(w => w.Movie)
-                .ToArrayAsync();
+                .AnyAsync(w => w.MovieId == movieId);
+            if (movieInWatchlistExists)
+            {
+                return false;
+            }
+
+            Watchlist newWatchlist = new Watchlist
+            {
+                MovieId = movieId
+            };
+
+            await this.context.Watchlists.AddAsync(newWatchlist);
+            await this.context.SaveChangesAsync();
+
+            return true;
+        }
+
+        public async Task<IEnumerable<AllMoviesIndexViewModel>> GetAllMoviesinWatchlistAsync()
+        {
+            IEnumerable<AllMoviesIndexViewModel> allMoviesInWatchlist = await this.context
+            .Watchlists
+            .AsNoTracking()
+            .Include(w => w.Movie)
+            .Select(w => w.Movie)
+            .Select(m => new AllMoviesIndexViewModel
+            {
+                Id = m.Id,
+                Title = m.Title,
+                Genre = m.Genre,
+                Director = m.Director,
+                ReleaseDate = m.ReleaseDate
+                    .ToString(CultureInfo.InvariantCulture),
+                Duration = m.Duration,
+                Description = m.Description,
+                ImageUrl = m.ImageUrl,
+            })
+            .ToArrayAsync();
 
             return allMoviesInWatchlist;
         }
