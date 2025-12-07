@@ -7,7 +7,6 @@ using Newtonsoft.Json;
 using ProductShop.Utilities;
 using System.ComponentModel.DataAnnotations;
 using System.Globalization;
-using System.Text.Json;
 using static MoviesApp.Common.EntityValidation.Movie;
 
 namespace MoviesApp.Services
@@ -15,17 +14,13 @@ namespace MoviesApp.Services
     public class ImportService : IImportService
     {
         private readonly MoviesAppDbContext dbContext;
-        private static bool isImported = false;
         public ImportService(MoviesAppDbContext context)
         {
             this.dbContext = context;
         }
         public async Task<int> ImportFromJsonAsync(string fileName)
         {
-            if (isImported)
-            {
-                return 0;
-            }
+           
             string jsonFileContent = this.ReadDatasetFileContents(fileName);
 
             ICollection<Movie> moviesToImport = new List<Movie>();
@@ -45,6 +40,11 @@ namespace MoviesApp.Services
                           CultureInfo.InvariantCulture, DateTimeStyles.None,
                           out DateOnly releaseDate);
                     if (!isReleaseDateParsed)
+                    {
+                        continue;
+                    }
+
+                    if(this.dbContext.Movies.Any(m => m.Title == movieDto.Title))
                     {
                         continue;
                     }
