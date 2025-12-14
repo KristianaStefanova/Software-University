@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Users>
+  <User Friendships="6">
+    <Username>alex_smith</Username>
+    <Posts />
+  </User>
+  <User Friendships="3">
+    <Username>david_jackson</Username>
+    <Posts />
+  </User>
+  <User Friendships="3">
+    <Username>emily_white</Username>
+    <Posts />
+  </User>
+  <User Friendships="6">
+    <Username>jane_doe</Username>
+    <Posts />
+  </User>
+  <User Friendships="5">
+    <Username>john_doe</Username>
+    <Posts />
+  </User>
+  <User Friendships="4">
+    <Username>michael_brown</Username>
+    <Posts />
+  </User>
+  <User Friendships="5">
+    <Username>olivia_taylor</Username>
+    <Posts />
+  </User>
+  <User Friendships="4">
+    <Username>sara_miller</Username>
+    <Posts />
+  </User>
+  <User Friendships="4">
+    <Username>william_clark</Username>
+    <Posts />
+  </User>
+</Users>
