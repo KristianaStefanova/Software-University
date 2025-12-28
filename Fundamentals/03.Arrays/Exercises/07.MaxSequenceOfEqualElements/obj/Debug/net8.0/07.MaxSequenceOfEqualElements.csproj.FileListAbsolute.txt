@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.exe
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.deps.json
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\bin\Debug\net8.0\07.MaxSequenceOfEqualElements.pdb
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\refint\07.MaxSequenceOfEqualElements.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.pdb
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\07.MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\07.MaxSequenceOfEqualElements\obj\Debug\net8.0\ref\07.MaxSequenceOfEqualElements.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D59258C5-259E-4018-B859-318DCE82D7BE}|04.WordFilter\\04.WordFilter.csproj|c:\\users\\umrel\\source\\repos\\10.labassociativearrays\\04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59258C5-259E-4018-B859-318DCE82D7BE}|04.WordFilter\\04.WordFilter.csproj|solutionrelative:04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A179A11A-B313-4254-9C77-5F917D160A97}|03.WordSynonyms\\03.WordSynonyms.csproj|c:\\users\\umrel\\source\\repos\\10.labassociativearrays\\03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A179A11A-B313-4254-9C77-5F917D160A97}|03.WordSynonyms\\03.WordSynonyms.csproj|solutionrelative:03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC71D2B6-A6A3-43E7-9ADF-C60A9875D792}|02.OddOccurrences\\02.OddOccurrences.csproj|c:\\users\\umrel\\source\\repos\\10.labassociativearrays\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC71D2B6-A6A3-43E7-9ADF-C60A9875D792}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5D5498-3643-4FB4-A5E4-A275E99EF42A}|01.CountRealNumbers\\01.CountRealNumbers.csproj|c:\\users\\umrel\\source\\repos\\10.labassociativearrays\\01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5D5498-3643-4FB4-A5E4-A275E99EF42A}|01.CountRealNumbers\\01.CountRealNumbers.csproj|solutionrelative:01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\04.WordFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.WordFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\04.WordFilter\\Program.cs",
+              "RelativeToolTip": "04.WordFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:58:03.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\03.WordSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordSynonyms\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\03.WordSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordSynonyms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:57:25.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\02.OddOccurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\02.OddOccurrences\\Program.cs",
+              "RelativeToolTip": "02.OddOccurrences\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:56:50.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\01.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\01.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:55:40.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

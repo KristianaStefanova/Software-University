@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\MidExam1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C465CBF6-8B5B-466C-941A-EDFA2F81970C}|demo\\demo.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C465CBF6-8B5B-466C-941A-EDFA2F81970C}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F1484-31E8-4B92-83FF-44D5D5F20734}|01.QuestinTheWoods\\01.QuestinTheWoods.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\01.questinthewoods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F1484-31E8-4B92-83FF-44D5D5F20734}|01.QuestinTheWoods\\01.QuestinTheWoods.csproj|solutionrelative:01.questinthewoods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC9F507-4E9F-49FD-85EC-A480EF3E6C48}|03.Inventory\\03.Inventory.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC9F507-4E9F-49FD-85EC-A480EF3E6C48}|03.Inventory\\03.Inventory.csproj|solutionrelative:03.inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D40FBF-C033-4349-B61C-60165D1EF4A0}|01.BonusScoringSystem\\01.BonusScoringSystem.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\01.bonusscoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D40FBF-C033-4349-B61C-60165D1EF4A0}|01.BonusScoringSystem\\01.BonusScoringSystem.csproj|solutionrelative:01.bonusscoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC17297-1EB0-49D4-A1C2-5814E07D0003}|03.Kasskata\\03.Kasskata.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.kasskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC17297-1EB0-49D4-A1C2-5814E07D0003}|03.Kasskata\\03.Kasskata.csproj|solutionrelative:03.kasskata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1FD2ED-815D-4410-A358-12550C311E6C}|01.JourneyToTheLegendaryArtifact\\01.JourneyToTheLegendaryArtifact.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\01.journeytothelegendaryartifact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1FD2ED-815D-4410-A358-12550C311E6C}|01.JourneyToTheLegendaryArtifact\\01.JourneyToTheLegendaryArtifact.csproj|solutionrelative:01.journeytothelegendaryartifact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84B4ACF-FA7B-4083-A18C-D9A0ED21BA10}|01.ExperienceGaining\\01.ExperienceGaining.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\01.experiencegaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84B4ACF-FA7B-4083-A18C-D9A0ED21BA10}|01.ExperienceGaining\\01.ExperienceGaining.csproj|solutionrelative:01.experiencegaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D76684-4128-47A8-BBE1-DF7A1676DEEE}|01.CookingMasterclass\\01.CookingMasterclass.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\01.cookingmasterclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D76684-4128-47A8-BBE1-DF7A1676DEEE}|01.CookingMasterclass\\01.CookingMasterclass.csproj|solutionrelative:01.cookingmasterclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3E6356-18DE-41E1-8408-F22DC13773F5}|02.TaxCalculator\\02.TaxCalculator.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\02.taxcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3E6356-18DE-41E1-8408-F22DC13773F5}|02.TaxCalculator\\02.TaxCalculator.csproj|solutionrelative:02.taxcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431DB0B1-C878-4F19-99AD-90616076395A}|02.SpaceTravel\\02.SpaceTravel.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\02.spacetravel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431DB0B1-C878-4F19-99AD-90616076395A}|02.SpaceTravel\\02.SpaceTravel.csproj|solutionrelative:02.spacetravel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44840E02-8B96-48B7-9E1E-69EBE7865353}|02.Robot\u0027sAdventure\\02.Robot\u0027sAdventure.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\02.robot\u0027sadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44840E02-8B96-48B7-9E1E-69EBE7865353}|02.Robot\u0027sAdventure\\02.Robot\u0027sAdventure.csproj|solutionrelative:02.robot\u0027sadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B753648-EC6B-434C-8E0B-0F121A95C5F4}|02.Numbers\\02.Numbers.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\02.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B753648-EC6B-434C-8E0B-0F121A95C5F4}|02.Numbers\\02.Numbers.csproj|solutionrelative:02.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C125AD91-7EEB-49EC-978C-457E4223CCC3}|03.MusicPlaylist\\03.MusicPlaylist.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.musicplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C125AD91-7EEB-49EC-978C-457E4223CCC3}|03.MusicPlaylist\\03.MusicPlaylist.csproj|solutionrelative:03.musicplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577FAD23-D572-4F7F-BC44-5B891AB3BD03}|03.PhoneShop\\03.PhoneShop.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.phoneshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577FAD23-D572-4F7F-BC44-5B891AB3BD03}|03.PhoneShop\\03.PhoneShop.csproj|solutionrelative:03.phoneshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABDECE-21AC-4990-B97C-A63D47B17C54}|03.SchoolLibrary\\03.SchoolLibrary.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.schoollibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABDECE-21AC-4990-B97C-A63D47B17C54}|03.SchoolLibrary\\03.SchoolLibrary.csproj|solutionrelative:03.schoollibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A0CAAC-B1DA-452D-ADA9-1BD9DBE072D3}|03.TheAngryCat\\03.TheAngryCat.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.theangrycat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A0CAAC-B1DA-452D-ADA9-1BD9DBE072D3}|03.TheAngryCat\\03.TheAngryCat.csproj|solutionrelative:03.theangrycat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E7AC6-7ABA-4653-B9C3-EA3BF239D08F}|02.FriendListMaintenance\\02.FriendListMaintenance.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\02.friendlistmaintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51E7AC6-7ABA-4653-B9C3-EA3BF239D08F}|02.FriendListMaintenance\\02.FriendListMaintenance.csproj|solutionrelative:02.friendlistmaintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE9EBBC-8A98-43FC-8482-A8A677D8E87D}|03.DeckOfCards\\03.DeckOfCards.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.deckofcards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE9EBBC-8A98-43FC-8482-A8A677D8E87D}|03.DeckOfCards\\03.DeckOfCards.csproj|solutionrelative:03.deckofcards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA04C00A-1D07-435A-82CC-662148A616DF}|03.Greenhouse\\03.Greenhouse.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.greenhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA04C00A-1D07-435A-82CC-662148A616DF}|03.Greenhouse\\03.Greenhouse.csproj|solutionrelative:03.greenhouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F0941-B55A-40BC-B108-3781E7F9A9F6}|03.ChatLogger\\03.ChatLogger.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\03.chatlogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F0941-B55A-40BC-B108-3781E7F9A9F6}|03.ChatLogger\\03.ChatLogger.csproj|solutionrelative:03.chatlogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF5D6DB-CBA6-49D3-A893-6C1EA47EE10F}|02.CoffeeLover\\02.CoffeeLover.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\02.coffeelover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF5D6DB-CBA6-49D3-A893-6C1EA47EE10F}|02.CoffeeLover\\02.CoffeeLover.csproj|solutionrelative:02.coffeelover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F70FD2-B64F-4234-9511-AA2FE62A8B2E}|01.BurgerBus\\01.BurgerBus.csproj|c:\\users\\umrel\\source\\repos\\midexam1\\01.burgerbus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F70FD2-B64F-4234-9511-AA2FE62A8B2E}|01.BurgerBus\\01.BurgerBus.csproj|solutionrelative:01.burgerbus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:15:47.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.Inventory\\Program.cs",
+              "RelativeDocumentMoniker": "03.Inventory\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.Inventory\\Program.cs",
+              "RelativeToolTip": "03.Inventory\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:57:20.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.BonusScoringSystem\\Program.cs",
+              "RelativeDocumentMoniker": "01.BonusScoringSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.BonusScoringSystem\\Program.cs",
+              "RelativeToolTip": "01.BonusScoringSystem\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA0wCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:31:38.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.Kasskata\\Program.cs",
+              "RelativeDocumentMoniker": "03.Kasskata\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.Kasskata\\Program.cs",
+              "RelativeToolTip": "03.Kasskata\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:49:37.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.QuestinTheWoods\\Program.cs",
+              "RelativeDocumentMoniker": "01.QuestinTheWoods\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.QuestinTheWoods\\Program.cs",
+              "RelativeToolTip": "01.QuestinTheWoods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:54:59.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.JourneyToTheLegendaryArtifact\\Program.cs",
+              "RelativeDocumentMoniker": "01.JourneyToTheLegendaryArtifact\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.JourneyToTheLegendaryArtifact\\Program.cs",
+              "RelativeToolTip": "01.JourneyToTheLegendaryArtifact\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:23:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.ExperienceGaining\\Program.cs",
+              "RelativeDocumentMoniker": "01.ExperienceGaining\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.ExperienceGaining\\Program.cs",
+              "RelativeToolTip": "01.ExperienceGaining\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:22:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.CookingMasterclass\\Program.cs",
+              "RelativeDocumentMoniker": "01.CookingMasterclass\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.CookingMasterclass\\Program.cs",
+              "RelativeToolTip": "01.CookingMasterclass\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:09:38.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.TaxCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "02.TaxCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.TaxCalculator\\Program.cs",
+              "RelativeToolTip": "02.TaxCalculator\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:32:25.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.SpaceTravel\\Program.cs",
+              "RelativeDocumentMoniker": "02.SpaceTravel\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.SpaceTravel\\Program.cs",
+              "RelativeToolTip": "02.SpaceTravel\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAASwD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:44:43.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.PhoneShop\\Program.cs",
+              "RelativeDocumentMoniker": "03.PhoneShop\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.PhoneShop\\Program.cs",
+              "RelativeToolTip": "03.PhoneShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:37:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.MusicPlaylist\\Program.cs",
+              "RelativeDocumentMoniker": "03.MusicPlaylist\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.MusicPlaylist\\Program.cs",
+              "RelativeToolTip": "03.MusicPlaylist\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:28:03.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.Robot\u0027sAdventure\\Program.cs",
+              "RelativeDocumentMoniker": "02.Robot\u0027sAdventure\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.Robot\u0027sAdventure\\Program.cs",
+              "RelativeToolTip": "02.Robot\u0027sAdventure\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:03:10.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.Numbers\\Program.cs",
+              "RelativeToolTip": "02.Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:26:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.SchoolLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "03.SchoolLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.SchoolLibrary\\Program.cs",
+              "RelativeToolTip": "03.SchoolLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:24:46.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.TheAngryCat\\Program.cs",
+              "RelativeDocumentMoniker": "03.TheAngryCat\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.TheAngryCat\\Program.cs",
+              "RelativeToolTip": "03.TheAngryCat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:17:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.FriendListMaintenance\\Program.cs",
+              "RelativeDocumentMoniker": "02.FriendListMaintenance\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.FriendListMaintenance\\Program.cs",
+              "RelativeToolTip": "02.FriendListMaintenance\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:21:55.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.Greenhouse\\Program.cs",
+              "RelativeDocumentMoniker": "03.Greenhouse\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.Greenhouse\\Program.cs",
+              "RelativeToolTip": "03.Greenhouse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:58:55.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.DeckOfCards\\Program.cs",
+              "RelativeDocumentMoniker": "03.DeckOfCards\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.DeckOfCards\\Program.cs",
+              "RelativeToolTip": "03.DeckOfCards\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:06:43.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.ChatLogger\\Program.cs",
+              "RelativeDocumentMoniker": "03.ChatLogger\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\03.ChatLogger\\Program.cs",
+              "RelativeToolTip": "03.ChatLogger\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:06:25.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.CoffeeLover\\Program.cs",
+              "RelativeDocumentMoniker": "02.CoffeeLover\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\02.CoffeeLover\\Program.cs",
+              "RelativeToolTip": "02.CoffeeLover\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:11:29.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.BurgerBus\\Program.cs",
+              "RelativeDocumentMoniker": "01.BurgerBus\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\MidExam1\\01.BurgerBus\\Program.cs",
+              "RelativeToolTip": "01.BurgerBus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:23:57.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

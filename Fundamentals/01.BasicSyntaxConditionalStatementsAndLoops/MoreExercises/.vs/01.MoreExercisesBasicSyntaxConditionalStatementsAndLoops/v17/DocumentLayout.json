@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C917E6C-379F-4A14-B90C-BADCA12BB1B2}|05.Messages\\05.Messages.csproj|c:\\users\\umrel\\source\\repos\\01.moreexercisesbasicsyntaxconditionalstatementsandloops\\05.messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C917E6C-379F-4A14-B90C-BADCA12BB1B2}|05.Messages\\05.Messages.csproj|solutionrelative:05.messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F0A1E1-6083-474B-99F2-26927A6D6CD4}|04.ReverseString\\04.ReverseString.csproj|c:\\users\\umrel\\source\\repos\\01.moreexercisesbasicsyntaxconditionalstatementsandloops\\04.reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F0A1E1-6083-474B-99F2-26927A6D6CD4}|04.ReverseString\\04.ReverseString.csproj|solutionrelative:04.reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FFE0C6-77EE-4F64-8801-4E99D3B85670}|03.GamingStore\\03.GamingStore.csproj|c:\\users\\umrel\\source\\repos\\01.moreexercisesbasicsyntaxconditionalstatementsandloops\\03.gamingstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FFE0C6-77EE-4F64-8801-4E99D3B85670}|03.GamingStore\\03.GamingStore.csproj|solutionrelative:03.gamingstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24F75C4-8937-42AB-8335-CE965B62C40D}|02.LastDigit\u0027name\\02.LastDigit\u0027name.csproj|c:\\users\\umrel\\source\\repos\\01.moreexercisesbasicsyntaxconditionalstatementsandloops\\02.lastdigit\u0027name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24F75C4-8937-42AB-8335-CE965B62C40D}|02.LastDigit\u0027name\\02.LastDigit\u0027name.csproj|solutionrelative:02.lastdigit\u0027name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69B977B-5C4F-4914-B1F0-BE564A27BD27}|01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops.csproj|c:\\users\\umrel\\source\\repos\\01.moreexercisesbasicsyntaxconditionalstatementsandloops\\01.moreexercisesbasicsyntaxconditionalstatementsandloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69B977B-5C4F-4914-B1F0-BE564A27BD27}|01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops.csproj|solutionrelative:01.moreexercisesbasicsyntaxconditionalstatementsandloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\05.Messages\\Program.cs",
+              "RelativeDocumentMoniker": "05.Messages\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\05.Messages\\Program.cs",
+              "RelativeToolTip": "05.Messages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:53:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\04.ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "04.ReverseString\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\04.ReverseString\\Program.cs",
+              "RelativeToolTip": "04.ReverseString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:52:31.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\03.GamingStore\\Program.cs",
+              "RelativeDocumentMoniker": "03.GamingStore\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\03.GamingStore\\Program.cs",
+              "RelativeToolTip": "03.GamingStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:50:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\02.LastDigit\u0027name\\Program.cs",
+              "RelativeDocumentMoniker": "02.LastDigit\u0027name\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\02.LastDigit\u0027name\\Program.cs",
+              "RelativeToolTip": "02.LastDigit\u0027name\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:48:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\Program.cs",
+              "RelativeDocumentMoniker": "01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\Program.cs",
+              "RelativeToolTip": "01.MoreExercisesBasicSyntaxConditionalStatementsAndLoops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:46:52.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

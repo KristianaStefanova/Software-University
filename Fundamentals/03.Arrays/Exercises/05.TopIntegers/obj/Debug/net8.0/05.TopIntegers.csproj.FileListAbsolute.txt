@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.exe
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.deps.json
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.runtimeconfig.json
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.pdb
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.AssemblyInfo.cs
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\refint\05.TopIntegers.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.pdb
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.genruntimeconfig.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\05.TopIntegers\obj\Debug\net8.0\ref\05.TopIntegers.dll

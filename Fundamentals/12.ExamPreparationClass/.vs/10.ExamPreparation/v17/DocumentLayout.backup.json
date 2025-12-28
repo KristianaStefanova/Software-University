@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04929768-95BE-4904-9A57-AF72F06A2F3D}|04.PiratesWithClass\\04.PiratesWithClass.csproj|c:\\users\\umrel\\desktop\\fundamentals\\10.exampreparation\\04.pirateswithclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04929768-95BE-4904-9A57-AF72F06A2F3D}|04.PiratesWithClass\\04.PiratesWithClass.csproj|solutionrelative:04.pirateswithclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718518DB-B751-49CC-8452-CF4833DDDC2C}|03.P!rates\\03.P!rates.csproj|c:\\users\\umrel\\desktop\\fundamentals\\10.exampreparation\\03.p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718518DB-B751-49CC-8452-CF4833DDDC2C}|03.P!rates\\03.P!rates.csproj|solutionrelative:03.p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9494463-FEAB-4B90-8CF0-4698FF6088E0}|02.FancyBarcodes\\02.FancyBarcodes.csproj|c:\\users\\umrel\\desktop\\fundamentals\\10.exampreparation\\02.fancybarcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9494463-FEAB-4B90-8CF0-4698FF6088E0}|02.FancyBarcodes\\02.FancyBarcodes.csproj|solutionrelative:02.fancybarcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F573D2F-E376-46DB-8EAC-B4A53D47E6EB}|01.ActivationKeys\\01.SecretChat.csproj|c:\\users\\umrel\\desktop\\fundamentals\\10.exampreparation\\01.activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F573D2F-E376-46DB-8EAC-B4A53D47E6EB}|01.ActivationKeys\\01.SecretChat.csproj|solutionrelative:01.activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\04.PiratesWithClass\\Program.cs",
+              "RelativeDocumentMoniker": "04.PiratesWithClass\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\04.PiratesWithClass\\Program.cs",
+              "RelativeToolTip": "04.PiratesWithClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:20:01.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\03.P!rates\\Program.cs",
+              "RelativeDocumentMoniker": "03.P!rates\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\03.P!rates\\Program.cs",
+              "RelativeToolTip": "03.P!rates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:20:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\02.FancyBarcodes\\Program.cs",
+              "RelativeDocumentMoniker": "02.FancyBarcodes\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\02.FancyBarcodes\\Program.cs",
+              "RelativeToolTip": "02.FancyBarcodes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:42:57.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\01.ActivationKeys\\Program.cs",
+              "RelativeDocumentMoniker": "01.ActivationKeys\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\10.ExamPreparation\\01.ActivationKeys\\Program.cs",
+              "RelativeToolTip": "01.ActivationKeys\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:30:33.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

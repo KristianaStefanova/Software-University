@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\bin\Debug\net8.0\04.ListOperations.exe
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\bin\Debug\net8.0\04.ListOperations.deps.json
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\bin\Debug\net8.0\04.ListOperations.runtimeconfig.json
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\bin\Debug\net8.0\04.ListOperations.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\bin\Debug\net8.0\04.ListOperations.pdb
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\04.ListOperations.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\04.ListOperations.AssemblyInfo.cs
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\04.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\04.ListOperations.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\refint\04.ListOperations.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\04.ListOperations.pdb
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\04.ListOperations.genruntimeconfig.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\04.ListOperations\obj\Debug\net8.0\ref\04.ListOperations.dll

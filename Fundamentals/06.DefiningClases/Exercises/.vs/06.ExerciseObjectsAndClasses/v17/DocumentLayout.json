@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8357CB93-66C0-49F0-85ED-C90B2CED1948}|07.OrderByAge\\07.OrderByAge.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.exerciseobjectsandclasses\\07.orderbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8357CB93-66C0-49F0-85ED-C90B2CED1948}|07.OrderByAge\\07.OrderByAge.csproj|solutionrelative:07.orderbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110F6F87-1413-4232-B78F-BE6EBA6D30B4}|06.VehicleCatalogue\\06.VehicleCatalogue.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.exerciseobjectsandclasses\\06.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110F6F87-1413-4232-B78F-BE6EBA6D30B4}|06.VehicleCatalogue\\06.VehicleCatalogue.csproj|solutionrelative:06.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EAE01D-D967-4644-BF6B-B9E97B7C5C1D}|05.TeamworkProjects\\05.TeamworkProjects.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.exerciseobjectsandclasses\\05.teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EAE01D-D967-4644-BF6B-B9E97B7C5C1D}|05.TeamworkProjects\\05.TeamworkProjects.csproj|solutionrelative:05.teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B320E73E-E145-4209-B215-A3930DF9E890}|04.Students\\04.Students.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.exerciseobjectsandclasses\\04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B320E73E-E145-4209-B215-A3930DF9E890}|04.Students\\04.Students.csproj|solutionrelative:04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6D3AA4-7445-490C-A949-0D62FED5153E}|03.Articles2.0\\03.Articles2.0.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.exerciseobjectsandclasses\\03.articles2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6D3AA4-7445-490C-A949-0D62FED5153E}|03.Articles2.0\\03.Articles2.0.csproj|solutionrelative:03.articles2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FE4DF6-892A-4244-85C9-539114CEAD34}|02.Articles\\02.Articles.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.exerciseobjectsandclasses\\02.articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FE4DF6-892A-4244-85C9-539114CEAD34}|02.Articles\\02.Articles.csproj|solutionrelative:02.articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CCBE8A-17BE-4A37-8950-82C3DA5CDD12}|01.AdvertisementMessage\\01.AdvertisementMessage.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.exerciseobjectsandclasses\\01.advertisementmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CCBE8A-17BE-4A37-8950-82C3DA5CDD12}|01.AdvertisementMessage\\01.AdvertisementMessage.csproj|solutionrelative:01.advertisementmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\umrel\\source\\repos\\06.ExerciseObjectsAndClasses\\demo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\05.TeamworkProjects\\Program.cs",
+              "RelativeDocumentMoniker": "05.TeamworkProjects\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\05.TeamworkProjects\\Program.cs",
+              "RelativeToolTip": "05.TeamworkProjects\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:16:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\04.Students\\Program.cs",
+              "RelativeDocumentMoniker": "04.Students\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\04.Students\\Program.cs",
+              "RelativeToolTip": "04.Students\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:53:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\03.Articles2.0\\Program.cs",
+              "RelativeDocumentMoniker": "03.Articles2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\03.Articles2.0\\Program.cs",
+              "RelativeToolTip": "03.Articles2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:26:45.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\06.VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "06.VehicleCatalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\06.VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "06.VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:00:45.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\07.OrderByAge\\Program.cs",
+              "RelativeDocumentMoniker": "07.OrderByAge\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\07.OrderByAge\\Program.cs",
+              "RelativeToolTip": "07.OrderByAge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:52:25.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\01.AdvertisementMessage\\Program.cs",
+              "RelativeDocumentMoniker": "01.AdvertisementMessage\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\01.AdvertisementMessage\\Program.cs",
+              "RelativeToolTip": "01.AdvertisementMessage\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:31:03.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\06.ExerciseObjectsAndClasses\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\06.ExerciseObjectsAndClasses\\demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\06.ExerciseObjectsAndClasses\\demo\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\06.ExerciseObjectsAndClasses\\demo\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:06:33.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\02.Articles\\Program.cs",
+              "RelativeDocumentMoniker": "02.Articles\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.ExerciseObjectsAndClasses\\02.Articles\\Program.cs",
+              "RelativeToolTip": "02.Articles\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwvyAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:43:45.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

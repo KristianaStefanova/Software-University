@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5D5498-3643-4FB4-A5E4-A275E99EF42A}|01.CountRealNumbers\\01.CountRealNumbers.csproj|c:\\users\\umrel\\source\\repos\\10.labassociativearrays\\01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5D5498-3643-4FB4-A5E4-A275E99EF42A}|01.CountRealNumbers\\01.CountRealNumbers.csproj|solutionrelative:01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\01.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\10.LabAssociativeArrays\\01.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:55:40.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

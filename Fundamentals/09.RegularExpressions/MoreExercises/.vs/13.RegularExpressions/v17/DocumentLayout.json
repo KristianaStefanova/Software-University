@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D0C577-370E-4377-9C71-112E051BB843}|04.Santa\u0027sSecretHelper\\04.Santa\u0027sSecretHelper.csproj|c:\\users\\umrel\\source\\repos\\13.regularexpressions\\04.santa\u0027ssecrethelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D0C577-370E-4377-9C71-112E051BB843}|04.Santa\u0027sSecretHelper\\04.Santa\u0027sSecretHelper.csproj|solutionrelative:04.santa\u0027ssecrethelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6143CA49-C5E3-4B95-B6DA-161ECBC23E98}|03.PostOffice\\03.PostOffice.csproj|c:\\users\\umrel\\source\\repos\\13.regularexpressions\\03.postoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6143CA49-C5E3-4B95-B6DA-161ECBC23E98}|03.PostOffice\\03.PostOffice.csproj|solutionrelative:03.postoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4367305A-024A-488C-A71E-1EE399093B9A}|02.RageQuit\\02.RageQuit.csproj|c:\\users\\umrel\\source\\repos\\13.regularexpressions\\02.ragequit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4367305A-024A-488C-A71E-1EE399093B9A}|02.RageQuit\\02.RageQuit.csproj|solutionrelative:02.ragequit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3B74F0-2B77-4946-B59C-B59AD1B4A2B8}|01.WinningTicket\\01.WinningTicket.csproj|c:\\users\\umrel\\source\\repos\\13.regularexpressions\\01.winningticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3B74F0-2B77-4946-B59C-B59AD1B4A2B8}|01.WinningTicket\\01.WinningTicket.csproj|solutionrelative:01.winningticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\04.Santa\u0027sSecretHelper\\Program.cs",
+              "RelativeDocumentMoniker": "04.Santa\u0027sSecretHelper\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\04.Santa\u0027sSecretHelper\\Program.cs",
+              "RelativeToolTip": "04.Santa\u0027sSecretHelper\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:28:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\03.PostOffice\\Program.cs",
+              "RelativeDocumentMoniker": "03.PostOffice\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\03.PostOffice\\Program.cs",
+              "RelativeToolTip": "03.PostOffice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:27:34.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\02.RageQuit\\Program.cs",
+              "RelativeDocumentMoniker": "02.RageQuit\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\02.RageQuit\\Program.cs",
+              "RelativeToolTip": "02.RageQuit\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:26:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\01.WinningTicket\\Program.cs",
+              "RelativeDocumentMoniker": "01.WinningTicket\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\13.RegularExpressions\\01.WinningTicket\\Program.cs",
+              "RelativeToolTip": "01.WinningTicket\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:25:28.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

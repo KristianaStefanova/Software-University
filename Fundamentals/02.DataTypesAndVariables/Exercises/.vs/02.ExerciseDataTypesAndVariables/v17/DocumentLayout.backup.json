@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA0FD78-D599-467A-B0E0-08BBBFADEFAF}|11.Snowballs\\11.Snowballs.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\11.snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA0FD78-D599-467A-B0E0-08BBBFADEFAF}|11.Snowballs\\11.Snowballs.csproj|solutionrelative:11.snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34D9C15-7A71-45BD-BB00-7145CD6E45A0}|9.SpiceMustFlow\\09.SpiceMustFlow.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\9.spicemustflow\\09.spicemustflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B34D9C15-7A71-45BD-BB00-7145CD6E45A0}|9.SpiceMustFlow\\09.SpiceMustFlow.csproj|solutionrelative:9.spicemustflow\\09.spicemustflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D460CA-95E6-4719-92E2-196079FBFEC2}|7.WaterOverflow\\07.WaterOverflow.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\7.wateroverflow\\07.wateroverflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69D460CA-95E6-4719-92E2-196079FBFEC2}|7.WaterOverflow\\07.WaterOverflow.csproj|solutionrelative:7.wateroverflow\\07.wateroverflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38183ED4-AADB-4BC6-9759-E65766B4F0CB}|2.SumDigits\\02.SumDigits.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\2.sumdigits\\02.sumdigits.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38183ED4-AADB-4BC6-9759-E65766B4F0CB}|2.SumDigits\\02.SumDigits.csproj|solutionrelative:2.sumdigits\\02.sumdigits.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C83FE5A-0770-4F82-9E19-6370706BFADE}|10.Pokemon\\10.Pokemon.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\10.pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C83FE5A-0770-4F82-9E19-6370706BFADE}|10.Pokemon\\10.Pokemon.csproj|solutionrelative:10.pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB412188-155D-492E-8BCA-05C27C47AFD0}|ExerciseDataTypesAndVariables\\01.IntegerOperations.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\exercisedatatypesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB412188-155D-492E-8BCA-05C27C47AFD0}|ExerciseDataTypesAndVariables\\01.IntegerOperations.csproj|solutionrelative:exercisedatatypesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34D9C15-7A71-45BD-BB00-7145CD6E45A0}|9.SpiceMustFlow\\09.SpiceMustFlow.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\9.spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34D9C15-7A71-45BD-BB00-7145CD6E45A0}|9.SpiceMustFlow\\09.SpiceMustFlow.csproj|solutionrelative:9.spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81E5A3-5150-4BAB-8C2A-7AA2D38D0AA6}|8.BeerKegs\\08.BeerKegs.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\8.beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF81E5A3-5150-4BAB-8C2A-7AA2D38D0AA6}|8.BeerKegs\\08.BeerKegs.csproj|solutionrelative:8.beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D460CA-95E6-4719-92E2-196079FBFEC2}|7.WaterOverflow\\07.WaterOverflow.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\7.wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D460CA-95E6-4719-92E2-196079FBFEC2}|7.WaterOverflow\\07.WaterOverflow.csproj|solutionrelative:7.wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD7C58-4BD0-41BB-88CC-B97CA8145004}|3.Elevator\\03.Elevator.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\3.elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD7C58-4BD0-41BB-88CC-B97CA8145004}|3.Elevator\\03.Elevator.csproj|solutionrelative:3.elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EE6C88-F737-4DC9-9895-661C9ACB45C4}|6.TriplesOfLatinLetters\\06.TriplesOfLatinLetters.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\6.triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EE6C88-F737-4DC9-9895-661C9ACB45C4}|6.TriplesOfLatinLetters\\06.TriplesOfLatinLetters.csproj|solutionrelative:6.triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B263842D-E6CD-4E1C-8624-B8BADD4C4966}|5.PrintPartOfTheASCIITable\\05.PrintPartOfTheASCIITable.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\5.printpartoftheasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B263842D-E6CD-4E1C-8624-B8BADD4C4966}|5.PrintPartOfTheASCIITable\\05.PrintPartOfTheASCIITable.csproj|solutionrelative:5.printpartoftheasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58795E6-C865-4538-984F-E174CDADD751}|4.SumOfChars\\04.SumOfChars.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\4.sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58795E6-C865-4538-984F-E174CDADD751}|4.SumOfChars\\04.SumOfChars.csproj|solutionrelative:4.sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38183ED4-AADB-4BC6-9759-E65766B4F0CB}|2.SumDigits\\02.SumDigits.csproj|c:\\users\\umrel\\source\\repos\\exercisedatatypesandvariables\\2.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38183ED4-AADB-4BC6-9759-E65766B4F0CB}|2.SumDigits\\02.SumDigits.csproj|solutionrelative:2.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\11.Snowballs\\Program.cs",
+              "RelativeDocumentMoniker": "11.Snowballs\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\11.Snowballs\\Program.cs",
+              "RelativeToolTip": "11.Snowballs\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:05:35.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "09.SpiceMustFlow.csproj",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\9.SpiceMustFlow\\09.SpiceMustFlow.csproj",
+              "RelativeDocumentMoniker": "9.SpiceMustFlow\\09.SpiceMustFlow.csproj",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\9.SpiceMustFlow\\09.SpiceMustFlow.csproj",
+              "RelativeToolTip": "9.SpiceMustFlow\\09.SpiceMustFlow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T11:05:01.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "07.WaterOverflow.csproj",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\7.WaterOverflow\\07.WaterOverflow.csproj",
+              "RelativeDocumentMoniker": "7.WaterOverflow\\07.WaterOverflow.csproj",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\7.WaterOverflow\\07.WaterOverflow.csproj",
+              "RelativeToolTip": "7.WaterOverflow\\07.WaterOverflow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T11:04:52.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02.SumDigits.csproj",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\2.SumDigits\\02.SumDigits.csproj",
+              "RelativeDocumentMoniker": "2.SumDigits\\02.SumDigits.csproj",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\2.SumDigits\\02.SumDigits.csproj",
+              "RelativeToolTip": "2.SumDigits\\02.SumDigits.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T11:04:18.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\10.Pokemon\\Program.cs",
+              "RelativeDocumentMoniker": "10.Pokemon\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\10.Pokemon\\Program.cs",
+              "RelativeToolTip": "10.Pokemon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:22:24.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\9.SpiceMustFlow\\Program.cs",
+              "RelativeDocumentMoniker": "9.SpiceMustFlow\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\9.SpiceMustFlow\\Program.cs",
+              "RelativeToolTip": "9.SpiceMustFlow\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:56:12.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\8.BeerKegs\\Program.cs",
+              "RelativeDocumentMoniker": "8.BeerKegs\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\8.BeerKegs\\Program.cs",
+              "RelativeToolTip": "8.BeerKegs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:42:14.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\7.WaterOverflow\\Program.cs",
+              "RelativeDocumentMoniker": "7.WaterOverflow\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\7.WaterOverflow\\Program.cs",
+              "RelativeToolTip": "7.WaterOverflow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:14:33.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\3.Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "3.Elevator\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\3.Elevator\\Program.cs",
+              "RelativeToolTip": "3.Elevator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:21:37.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\6.TriplesOfLatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "6.TriplesOfLatinLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\6.TriplesOfLatinLetters\\Program.cs",
+              "RelativeToolTip": "6.TriplesOfLatinLetters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:51:40.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\5.PrintPartOfTheASCIITable\\Program.cs",
+              "RelativeDocumentMoniker": "5.PrintPartOfTheASCIITable\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\5.PrintPartOfTheASCIITable\\Program.cs",
+              "RelativeToolTip": "5.PrintPartOfTheASCIITable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:35:29.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\4.SumOfChars\\Program.cs",
+              "RelativeDocumentMoniker": "4.SumOfChars\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\4.SumOfChars\\Program.cs",
+              "RelativeToolTip": "4.SumOfChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:26:21.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\2.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "2.SumDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\2.SumDigits\\Program.cs",
+              "RelativeToolTip": "2.SumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:14:49.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\ExerciseDataTypesAndVariables\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciseDataTypesAndVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\ExerciseDataTypesAndVariables\\ExerciseDataTypesAndVariables\\Program.cs",
+              "RelativeToolTip": "ExerciseDataTypesAndVariables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:08:59.304Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

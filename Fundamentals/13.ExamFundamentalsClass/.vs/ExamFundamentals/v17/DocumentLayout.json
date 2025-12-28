@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397FE6E6-C6CD-4B86-B7B6-FFA6964B78BA}|ExamFundamentals\\01.Disneyland.csproj|c:\\users\\umrel\\desktop\\fundamentals\\examfundamentals\\examfundamentals\\01.disneyland.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{397FE6E6-C6CD-4B86-B7B6-FFA6964B78BA}|ExamFundamentals\\01.Disneyland.csproj|solutionrelative:examfundamentals\\01.disneyland.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397FE6E6-C6CD-4B86-B7B6-FFA6964B78BA}|ExamFundamentals\\ExamFundamentals.csproj|c:\\users\\umrel\\desktop\\fundamentals\\examfundamentals\\examfundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397FE6E6-C6CD-4B86-B7B6-FFA6964B78BA}|ExamFundamentals\\ExamFundamentals.csproj|solutionrelative:examfundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C54652C-1F85-4284-A235-8006BA9463C3}|03.MagicCards\\03.MagicCards.csproj|c:\\users\\umrel\\desktop\\fundamentals\\examfundamentals\\03.magiccards\\03.magiccards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C54652C-1F85-4284-A235-8006BA9463C3}|03.MagicCards\\03.MagicCards.csproj|solutionrelative:03.magiccards\\03.magiccards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFED17B-BF58-46C7-B4D0-2EBF55F3C11C}|02.GeneratingNumbers\\02.GeneratingNumbers.csproj|c:\\users\\umrel\\desktop\\fundamentals\\examfundamentals\\02.generatingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFED17B-BF58-46C7-B4D0-2EBF55F3C11C}|02.GeneratingNumbers\\02.GeneratingNumbers.csproj|solutionrelative:02.generatingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C54652C-1F85-4284-A235-8006BA9463C3}|03.MagicCards\\03.MagicCards.csproj|c:\\users\\umrel\\desktop\\fundamentals\\examfundamentals\\03.magiccards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C54652C-1F85-4284-A235-8006BA9463C3}|03.MagicCards\\03.MagicCards.csproj|solutionrelative:03.magiccards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03.MagicCards",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\03.MagicCards\\03.MagicCards.csproj",
+              "RelativeDocumentMoniker": "03.MagicCards\\03.MagicCards.csproj",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\03.MagicCards\\03.MagicCards.csproj",
+              "RelativeToolTip": "03.MagicCards\\03.MagicCards.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T09:22:11.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01.Disneyland.csproj",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\ExamFundamentals\\01.Disneyland.csproj",
+              "RelativeDocumentMoniker": "ExamFundamentals\\01.Disneyland.csproj",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\ExamFundamentals\\01.Disneyland.csproj",
+              "RelativeToolTip": "ExamFundamentals\\01.Disneyland.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T09:21:35.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\03.MagicCards\\Program.cs",
+              "RelativeDocumentMoniker": "03.MagicCards\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\03.MagicCards\\Program.cs",
+              "RelativeToolTip": "03.MagicCards\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:01:22.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\02.GeneratingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.GeneratingNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\02.GeneratingNumbers\\Program.cs",
+              "RelativeToolTip": "02.GeneratingNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:44:44.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\ExamFundamentals\\Program.cs",
+              "RelativeDocumentMoniker": "ExamFundamentals\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\ExamFundamentals\\ExamFundamentals\\Program.cs",
+              "RelativeToolTip": "ExamFundamentals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:17:12.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

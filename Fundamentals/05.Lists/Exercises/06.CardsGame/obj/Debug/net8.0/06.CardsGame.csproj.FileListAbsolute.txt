@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\bin\Debug\net8.0\06.CardsGame.exe
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\bin\Debug\net8.0\06.CardsGame.deps.json
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\bin\Debug\net8.0\06.CardsGame.runtimeconfig.json
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\bin\Debug\net8.0\06.CardsGame.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\bin\Debug\net8.0\06.CardsGame.pdb
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\06.CardsGame.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\06.CardsGame.AssemblyInfo.cs
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\06.CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\06.CardsGame.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\refint\06.CardsGame.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\06.CardsGame.pdb
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\06.CardsGame.genruntimeconfig.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\06.CardsGame\obj\Debug\net8.0\ref\06.CardsGame.dll

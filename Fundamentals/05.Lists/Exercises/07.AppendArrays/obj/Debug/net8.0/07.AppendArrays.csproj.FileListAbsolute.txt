@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\bin\Debug\net8.0\07.AppendArrays.exe
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\bin\Debug\net8.0\07.AppendArrays.deps.json
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\bin\Debug\net8.0\07.AppendArrays.runtimeconfig.json
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\bin\Debug\net8.0\07.AppendArrays.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\bin\Debug\net8.0\07.AppendArrays.pdb
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\07.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\07.AppendArrays.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\07.AppendArrays.AssemblyInfo.cs
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\07.AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\07.AppendArrays.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\refint\07.AppendArrays.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\07.AppendArrays.pdb
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\07.AppendArrays.genruntimeconfig.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\07.AppendArrays\obj\Debug\net8.0\ref\07.AppendArrays.dll

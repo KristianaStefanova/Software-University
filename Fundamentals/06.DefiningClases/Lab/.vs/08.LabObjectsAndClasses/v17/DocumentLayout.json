@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0E60CE-3166-4474-AE2A-BFFE40F8BEEF}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|c:\\users\\umrel\\source\\repos\\08.labobjectsandclasses\\07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0E60CE-3166-4474-AE2A-BFFE40F8BEEF}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|solutionrelative:07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F8CC55-4484-42DF-9F11-58707115B4D3}|06.StoreBoxes\\06.StoreBoxes.csproj|c:\\users\\umrel\\source\\repos\\08.labobjectsandclasses\\06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F8CC55-4484-42DF-9F11-58707115B4D3}|06.StoreBoxes\\06.StoreBoxes.csproj|solutionrelative:06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1663EFBA-7BA2-499C-98C6-1E0503424F69}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\umrel\\source\\repos\\08.labobjectsandclasses\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1663EFBA-7BA2-499C-98C6-1E0503424F69}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2EFE79-1F90-452A-8143-9F6F3C0A94ED}|04.Students\\04.Students.csproj|c:\\users\\umrel\\source\\repos\\08.labobjectsandclasses\\04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2EFE79-1F90-452A-8143-9F6F3C0A94ED}|04.Students\\04.Students.csproj|solutionrelative:04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC3023-C40D-4D1F-9895-FB0BA5AF4C8E}|03.Songs\\03.Songs.csproj|c:\\users\\umrel\\source\\repos\\08.labobjectsandclasses\\03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC3023-C40D-4D1F-9895-FB0BA5AF4C8E}|03.Songs\\03.Songs.csproj|solutionrelative:03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809B390B-2621-4484-A60F-B60EB7FB4607}|02.BigFactorial\\02.BigFactorial.csproj|c:\\users\\umrel\\source\\repos\\08.labobjectsandclasses\\02.bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809B390B-2621-4484-A60F-B60EB7FB4607}|02.BigFactorial\\02.BigFactorial.csproj|solutionrelative:02.bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050DD5C9-80B2-4852-85C3-275E554023F4}|01.RandomizeWords\\01.RandomizeWords.csproj|c:\\users\\umrel\\source\\repos\\08.labobjectsandclasses\\01.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050DD5C9-80B2-4852-85C3-275E554023F4}|01.RandomizeWords\\01.RandomizeWords.csproj|solutionrelative:01.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\07.VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "07.VehicleCatalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\07.VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "07.VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:17:48.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\06.StoreBoxes\\Program.cs",
+              "RelativeDocumentMoniker": "06.StoreBoxes\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\06.StoreBoxes\\Program.cs",
+              "RelativeToolTip": "06.StoreBoxes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:16:57.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:16:08.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\04.Students\\Program.cs",
+              "RelativeDocumentMoniker": "04.Students\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\04.Students\\Program.cs",
+              "RelativeToolTip": "04.Students\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:15:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\03.Songs\\Program.cs",
+              "RelativeDocumentMoniker": "03.Songs\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\03.Songs\\Program.cs",
+              "RelativeToolTip": "03.Songs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:13:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\02.BigFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "02.BigFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\02.BigFactorial\\Program.cs",
+              "RelativeToolTip": "02.BigFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:13:10.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\01.RandomizeWords\\Program.cs",
+              "RelativeDocumentMoniker": "01.RandomizeWords\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\08.LabObjectsAndClasses\\01.RandomizeWords\\Program.cs",
+              "RelativeToolTip": "01.RandomizeWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:12:06.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

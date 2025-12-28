@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F51354D-D924-4741-9002-6373BEA10591}|03.ThePianist\\03.ThePianist.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\03.thepianist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F51354D-D924-4741-9002-6373BEA10591}|03.ThePianist\\03.ThePianist.csproj|solutionrelative:03.thepianist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB08E13A-99ED-47B7-86E0-DF2AAB222EAE}|03.PlantDiscovery\\03.PlantDiscovery.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\03.plantdiscovery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB08E13A-99ED-47B7-86E0-DF2AAB222EAE}|03.PlantDiscovery\\03.PlantDiscovery.csproj|solutionrelative:03.plantdiscovery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8978ABE2-0ABB-4FCB-A9A3-0E64F05D2F27}|03.NeedForSpeedIII\\03.NeedForSpeedIII.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\03.needforspeediii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8978ABE2-0ABB-4FCB-A9A3-0E64F05D2F27}|03.NeedForSpeedIII\\03.NeedForSpeedIII.csproj|solutionrelative:03.needforspeediii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A70A64-9337-4BC0-A183-DA14EBE35982}|03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\03.heroesofcodeandlogicvii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A70A64-9337-4BC0-A183-DA14EBE35982}|03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj|solutionrelative:03.heroesofcodeandlogicvii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D678DF1D-1C0E-44EF-A06E-2D9B21D40D36}|03.BakeryShop\\03.BakeryShop.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\03.bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D678DF1D-1C0E-44EF-A06E-2D9B21D40D36}|03.BakeryShop\\03.BakeryShop.csproj|solutionrelative:03.bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EE507E-EBFD-403D-9F1F-05F86C0BDA05}|02.MirrorWords\\02.MirrorWords.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\02.mirrorwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EE507E-EBFD-403D-9F1F-05F86C0BDA05}|02.MirrorWords\\02.MirrorWords.csproj|solutionrelative:02.mirrorwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED3638-1DEA-4B1A-8E3D-61F2A3117002}|02.EmojiDetector\\02.EmojiDetector.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\02.emojidetector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED3638-1DEA-4B1A-8E3D-61F2A3117002}|02.EmojiDetector\\02.EmojiDetector.csproj|solutionrelative:02.emojidetector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15B1A02-646F-4D42-82CF-58BAD6C08690}|02.DestinationMapper\\02.DestinationMapper.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\02.destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15B1A02-646F-4D42-82CF-58BAD6C08690}|02.DestinationMapper\\02.DestinationMapper.csproj|solutionrelative:02.destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455680ED-1502-4F97-A9D2-FA549550136F}|02.AdAstra\\02.AdAstra.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\02.adastra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455680ED-1502-4F97-A9D2-FA549550136F}|02.AdAstra\\02.AdAstra.csproj|solutionrelative:02.adastra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11892DC-FA13-430F-8495-716937E8DDA2}|01.WorldTour\\01.WorldTour.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\01.worldtour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11892DC-FA13-430F-8495-716937E8DDA2}|01.WorldTour\\01.WorldTour.csproj|solutionrelative:01.worldtour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE0FAC4-11B7-4CC7-B802-80601D39CBAE}|01.TheImitationGame\\01.TheImitationGame.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\01.theimitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE0FAC4-11B7-4CC7-B802-80601D39CBAE}|01.TheImitationGame\\01.TheImitationGame.csproj|solutionrelative:01.theimitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EA60F9-4330-4EDD-BC5C-305F1D741193}|01.Registration\\01.Registration.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\01.registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EA60F9-4330-4EDD-BC5C-305F1D741193}|01.Registration\\01.Registration.csproj|solutionrelative:01.registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9381061B-9FC8-4B19-8261-F5C36C3C430F}|01.PasswordReset\\01.PasswordReset.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\01.passwordreset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9381061B-9FC8-4B19-8261-F5C36C3C430F}|01.PasswordReset\\01.PasswordReset.csproj|solutionrelative:01.passwordreset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A32D1B-B9C5-4ECC-90B2-74D9DA6C7848}|01.ActivationKeys\\01.ActivationKeys.csproj|c:\\users\\umrel\\desktop\\fundamentals\\13.exampreparation\\01.activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A32D1B-B9C5-4ECC-90B2-74D9DA6C7848}|01.ActivationKeys\\01.ActivationKeys.csproj|solutionrelative:01.activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.BakeryShop\\Program.cs",
+              "RelativeDocumentMoniker": "03.BakeryShop\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.BakeryShop\\Program.cs",
+              "RelativeToolTip": "03.BakeryShop\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:00:56.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "RelativeDocumentMoniker": "03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "RelativeToolTip": "03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:03:33.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.NeedForSpeedIII\\Program.cs",
+              "RelativeDocumentMoniker": "03.NeedForSpeedIII\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.NeedForSpeedIII\\Program.cs",
+              "RelativeToolTip": "03.NeedForSpeedIII\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:24:44.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.PlantDiscovery\\Program.cs",
+              "RelativeDocumentMoniker": "03.PlantDiscovery\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.PlantDiscovery\\Program.cs",
+              "RelativeToolTip": "03.PlantDiscovery\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:07:22.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.ThePianist\\Program.cs",
+              "RelativeDocumentMoniker": "03.ThePianist\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\03.ThePianist\\Program.cs",
+              "RelativeToolTip": "03.ThePianist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:15:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\02.MirrorWords\\Program.cs",
+              "RelativeDocumentMoniker": "02.MirrorWords\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\02.MirrorWords\\Program.cs",
+              "RelativeToolTip": "02.MirrorWords\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:52:07.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\02.EmojiDetector\\Program.cs",
+              "RelativeDocumentMoniker": "02.EmojiDetector\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\02.EmojiDetector\\Program.cs",
+              "RelativeToolTip": "02.EmojiDetector\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:52:42.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\02.DestinationMapper\\Program.cs",
+              "RelativeDocumentMoniker": "02.DestinationMapper\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\02.DestinationMapper\\Program.cs",
+              "RelativeToolTip": "02.DestinationMapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:42:12.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\02.AdAstra\\Program.cs",
+              "RelativeDocumentMoniker": "02.AdAstra\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\02.AdAstra\\Program.cs",
+              "RelativeToolTip": "02.AdAstra\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:38:52.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.WorldTour\\Program.cs",
+              "RelativeDocumentMoniker": "01.WorldTour\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.WorldTour\\Program.cs",
+              "RelativeToolTip": "01.WorldTour\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:52:40.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.TheImitationGame\\Program.cs",
+              "RelativeDocumentMoniker": "01.TheImitationGame\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.TheImitationGame\\Program.cs",
+              "RelativeToolTip": "01.TheImitationGame\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:06:14.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.Registration\\Program.cs",
+              "RelativeDocumentMoniker": "01.Registration\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.Registration\\Program.cs",
+              "RelativeToolTip": "01.Registration\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:51:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.PasswordReset\\Program.cs",
+              "RelativeDocumentMoniker": "01.PasswordReset\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.PasswordReset\\Program.cs",
+              "RelativeToolTip": "01.PasswordReset\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:40:32.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.ActivationKeys\\Program.cs",
+              "RelativeDocumentMoniker": "01.ActivationKeys\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\13.ExamPreparation\\01.ActivationKeys\\Program.cs",
+              "RelativeToolTip": "01.ActivationKeys\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:11:29.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

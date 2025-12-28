@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.exe
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.deps.json
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.runtimeconfig.json
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.pdb
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.AssemblyInfo.cs
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\refint\05.BombNumbers.dll
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.pdb
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.genruntimeconfig.cache
+C:\Users\umrel\source\repos\05.ExerciseLists\05.BombNumbers\obj\Debug\net8.0\ref\05.BombNumbers.dll

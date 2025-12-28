@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F48423D-3193-4114-8A88-00F52D7D232A}|06.ExtractEmails\\06.ExtractEmails.csproj|c:\\users\\umrel\\desktop\\fundamentals\\09.regularexpressions\\09.exerciseregularexpressions\\06.extractemails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F48423D-3193-4114-8A88-00F52D7D232A}|06.ExtractEmails\\06.ExtractEmails.csproj|solutionrelative:06.extractemails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C116D235-A400-4221-8C72-4548D8E1AD7D}|05.NetherRealms\\05.NetherRealms.csproj|c:\\users\\umrel\\desktop\\fundamentals\\09.regularexpressions\\09.exerciseregularexpressions\\05.netherrealms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C116D235-A400-4221-8C72-4548D8E1AD7D}|05.NetherRealms\\05.NetherRealms.csproj|solutionrelative:05.netherrealms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0831E53-1E3B-4A8E-A56D-9D7F30BCFE32}|04.StarEnigma\\04.StarEnigma.csproj|c:\\users\\umrel\\desktop\\fundamentals\\09.regularexpressions\\09.exerciseregularexpressions\\04.starenigma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0831E53-1E3B-4A8E-A56D-9D7F30BCFE32}|04.StarEnigma\\04.StarEnigma.csproj|solutionrelative:04.starenigma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B669F8A6-89F4-497F-AF45-07D0A949CA78}|03.SoftUniBarIncome\\03.SoftUniBarIncome.csproj|c:\\users\\umrel\\desktop\\fundamentals\\09.regularexpressions\\09.exerciseregularexpressions\\03.softunibarincome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B669F8A6-89F4-497F-AF45-07D0A949CA78}|03.SoftUniBarIncome\\03.SoftUniBarIncome.csproj|solutionrelative:03.softunibarincome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52F77EB-2902-48F2-AED9-7E981F625E5C}|02.Race\\02.Race.csproj|c:\\users\\umrel\\desktop\\fundamentals\\09.regularexpressions\\09.exerciseregularexpressions\\02.race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52F77EB-2902-48F2-AED9-7E981F625E5C}|02.Race\\02.Race.csproj|solutionrelative:02.race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4819780-A5C3-4F86-B2CD-4E98436B74C6}|01.Furniture\\01.Furniture.csproj|c:\\users\\umrel\\desktop\\fundamentals\\09.regularexpressions\\09.exerciseregularexpressions\\01.furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4819780-A5C3-4F86-B2CD-4E98436B74C6}|01.Furniture\\01.Furniture.csproj|solutionrelative:01.furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\06.ExtractEmails\\Program.cs",
+              "RelativeDocumentMoniker": "06.ExtractEmails\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\06.ExtractEmails\\Program.cs",
+              "RelativeToolTip": "06.ExtractEmails\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:22:57.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\05.NetherRealms\\Program.cs",
+              "RelativeDocumentMoniker": "05.NetherRealms\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\05.NetherRealms\\Program.cs",
+              "RelativeToolTip": "05.NetherRealms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:21:41.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\04.StarEnigma\\Program.cs",
+              "RelativeDocumentMoniker": "04.StarEnigma\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\04.StarEnigma\\Program.cs",
+              "RelativeToolTip": "04.StarEnigma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:45:37.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\03.SoftUniBarIncome\\Program.cs",
+              "RelativeDocumentMoniker": "03.SoftUniBarIncome\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\03.SoftUniBarIncome\\Program.cs",
+              "RelativeToolTip": "03.SoftUniBarIncome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:36:32.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\02.Race\\Program.cs",
+              "RelativeDocumentMoniker": "02.Race\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\02.Race\\Program.cs",
+              "RelativeToolTip": "02.Race\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:03:20.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\01.Furniture\\Program.cs",
+              "RelativeDocumentMoniker": "01.Furniture\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\09.RegularExpressions\\09.ExerciseRegularExpressions\\01.Furniture\\Program.cs",
+              "RelativeToolTip": "01.Furniture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:40:05.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

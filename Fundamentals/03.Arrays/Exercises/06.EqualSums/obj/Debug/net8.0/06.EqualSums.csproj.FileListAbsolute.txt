@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\bin\Debug\net8.0\06.EqualSums.exe
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\bin\Debug\net8.0\06.EqualSums.deps.json
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\bin\Debug\net8.0\06.EqualSums.runtimeconfig.json
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\bin\Debug\net8.0\06.EqualSums.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\bin\Debug\net8.0\06.EqualSums.pdb
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\06.EqualSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\06.EqualSums.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\06.EqualSums.AssemblyInfo.cs
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\06.EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\06.EqualSums.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\refint\06.EqualSums.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\06.EqualSums.pdb
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\06.EqualSums.genruntimeconfig.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\06.EqualSums\obj\Debug\net8.0\ref\06.EqualSums.dll

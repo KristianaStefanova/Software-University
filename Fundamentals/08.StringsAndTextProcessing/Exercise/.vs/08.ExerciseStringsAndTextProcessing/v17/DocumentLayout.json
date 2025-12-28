@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{671F7518-8A73-463D-AC29-D805AF0614A5}|demo\\demo.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671F7518-8A73-463D-AC29-D805AF0614A5}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F1AFCA-C512-408B-9B79-EF3C1729040C}|03.ExtractFile\\03.ExtractFile.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\03.extractfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F1AFCA-C512-408B-9B79-EF3C1729040C}|03.ExtractFile\\03.ExtractFile.csproj|solutionrelative:03.extractfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0939D0-A237-4B8D-9DC5-45D11A16EF65}|08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\08.letterschangenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0939D0-A237-4B8D-9DC5-45D11A16EF65}|08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj|solutionrelative:08.letterschangenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1454F-4F80-4773-8910-F38226B86D6B}|07.StringExplosion\\07.StringExplosion.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\07.stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1454F-4F80-4773-8910-F38226B86D6B}|07.StringExplosion\\07.StringExplosion.csproj|solutionrelative:07.stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A678BF83-2D12-449E-96F9-6B10E41A5F0F}|06.ReplaceRepeatingChars\\06.ReplaceRepeatingChars.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\06.replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A678BF83-2D12-449E-96F9-6B10E41A5F0F}|06.ReplaceRepeatingChars\\06.ReplaceRepeatingChars.csproj|solutionrelative:06.replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE79387B-70E7-43C5-9CFA-B1F73C6F3256}|05.MultiplyBigNumber\\05.MultiplyBigNumber.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\05.multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE79387B-70E7-43C5-9CFA-B1F73C6F3256}|05.MultiplyBigNumber\\05.MultiplyBigNumber.csproj|solutionrelative:05.multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC3EC4B-F941-47F9-B9D7-B1E4DB28E4E6}|04.CaesarCipher\\04.CaesarCipher.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\04.caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC3EC4B-F941-47F9-B9D7-B1E4DB28E4E6}|04.CaesarCipher\\04.CaesarCipher.csproj|solutionrelative:04.caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8945E5-BECF-4079-9391-59D5250CBAFB}|02.CharacterMultiplier\\02.CharacterMultiplier.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\02.charactermultiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8945E5-BECF-4079-9391-59D5250CBAFB}|02.CharacterMultiplier\\02.CharacterMultiplier.csproj|solutionrelative:02.charactermultiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B9367D-A75D-42A3-9662-75BEEE8C8112}|08.ExerciseStringsAndTextProcessing\\01.ValidUsernames.csproj|c:\\users\\umrel\\desktop\\fundamentals\\08.exercisestringsandtextprocessing\\08.exercisestringsandtextprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B9367D-A75D-42A3-9662-75BEEE8C8112}|08.ExerciseStringsAndTextProcessing\\01.ValidUsernames.csproj|solutionrelative:08.exercisestringsandtextprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvysAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:43:43.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\08.LettersChangeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.LettersChangeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\08.LettersChangeNumbers\\Program.cs",
+              "RelativeToolTip": "08.LettersChangeNumbers\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:43:50.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\07.StringExplosion\\Program.cs",
+              "RelativeDocumentMoniker": "07.StringExplosion\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\07.StringExplosion\\Program.cs",
+              "RelativeToolTip": "07.StringExplosion\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:42:43.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\06.ReplaceRepeatingChars\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReplaceRepeatingChars\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\06.ReplaceRepeatingChars\\Program.cs",
+              "RelativeToolTip": "06.ReplaceRepeatingChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:17:13.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\05.MultiplyBigNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.MultiplyBigNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\05.MultiplyBigNumber\\Program.cs",
+              "RelativeToolTip": "05.MultiplyBigNumber\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:24:32.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\04.CaesarCipher\\Program.cs",
+              "RelativeDocumentMoniker": "04.CaesarCipher\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\04.CaesarCipher\\Program.cs",
+              "RelativeToolTip": "04.CaesarCipher\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:59:59.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\03.ExtractFile\\Program.cs",
+              "RelativeDocumentMoniker": "03.ExtractFile\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\03.ExtractFile\\Program.cs",
+              "RelativeToolTip": "03.ExtractFile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:54:09.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\02.CharacterMultiplier\\Program.cs",
+              "RelativeDocumentMoniker": "02.CharacterMultiplier\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\02.CharacterMultiplier\\Program.cs",
+              "RelativeToolTip": "02.CharacterMultiplier\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:22:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\08.ExerciseStringsAndTextProcessing\\Program.cs",
+              "RelativeDocumentMoniker": "08.ExerciseStringsAndTextProcessing\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\08.ExerciseStringsAndTextProcessing\\08.ExerciseStringsAndTextProcessing\\Program.cs",
+              "RelativeToolTip": "08.ExerciseStringsAndTextProcessing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:03:23.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

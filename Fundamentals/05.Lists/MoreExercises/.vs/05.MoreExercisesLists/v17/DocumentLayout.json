@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5CD672-A7F4-490A-A76A-60253A628225}|05.DrumSet\\05.DrumSet.csproj|c:\\users\\umrel\\source\\repos\\05.moreexerciseslists\\05.drumset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5CD672-A7F4-490A-A76A-60253A628225}|05.DrumSet\\05.DrumSet.csproj|solutionrelative:05.drumset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5302DB9E-D474-44DB-B0EF-D6E90C2E8D88}|04.MixedUpLists\\04.MixedUpLists.csproj|c:\\users\\umrel\\source\\repos\\05.moreexerciseslists\\04.mixeduplists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5302DB9E-D474-44DB-B0EF-D6E90C2E8D88}|04.MixedUpLists\\04.MixedUpLists.csproj|solutionrelative:04.mixeduplists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD0148-96D5-4A72-AF33-7BC1FC7BF2CA}|03.TakeOrSkipRope\\03.TakeOrSkipRope.csproj|c:\\users\\umrel\\source\\repos\\05.moreexerciseslists\\03.takeorskiprope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD0148-96D5-4A72-AF33-7BC1FC7BF2CA}|03.TakeOrSkipRope\\03.TakeOrSkipRope.csproj|solutionrelative:03.takeorskiprope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291A9787-08B3-438A-9CC9-CFCAD7EC0034}|02.CarRace\\02.CarRace.csproj|c:\\users\\umrel\\source\\repos\\05.moreexerciseslists\\02.carrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291A9787-08B3-438A-9CC9-CFCAD7EC0034}|02.CarRace\\02.CarRace.csproj|solutionrelative:02.carrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FB26FB-E125-41D9-B020-DB79E72BF2BE}|1. Messaging\\1. Messaging.csproj|c:\\users\\umrel\\source\\repos\\05.moreexerciseslists\\1. messaging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FB26FB-E125-41D9-B020-DB79E72BF2BE}|1. Messaging\\1. Messaging.csproj|solutionrelative:1. messaging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\05.DrumSet\\Program.cs",
+              "RelativeDocumentMoniker": "05.DrumSet\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\05.DrumSet\\Program.cs",
+              "RelativeToolTip": "05.DrumSet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:06:49.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\04.MixedUpLists\\Program.cs",
+              "RelativeDocumentMoniker": "04.MixedUpLists\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\04.MixedUpLists\\Program.cs",
+              "RelativeToolTip": "04.MixedUpLists\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:06:06.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\03.TakeOrSkipRope\\Program.cs",
+              "RelativeDocumentMoniker": "03.TakeOrSkipRope\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\03.TakeOrSkipRope\\Program.cs",
+              "RelativeToolTip": "03.TakeOrSkipRope\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwEgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:05:20.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\02.CarRace\\Program.cs",
+              "RelativeDocumentMoniker": "02.CarRace\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\02.CarRace\\Program.cs",
+              "RelativeToolTip": "02.CarRace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:04:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\1. Messaging\\Program.cs",
+              "RelativeDocumentMoniker": "1. Messaging\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\source\\repos\\05.MoreExercisesLists\\1. Messaging\\Program.cs",
+              "RelativeToolTip": "1. Messaging\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:03:31.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

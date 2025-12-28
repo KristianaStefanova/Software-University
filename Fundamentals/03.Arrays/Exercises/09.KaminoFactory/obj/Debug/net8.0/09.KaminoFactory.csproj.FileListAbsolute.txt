@@ -1,0 +1,14 @@
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.exe
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.deps.json
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.runtimeconfig.json
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\bin\Debug\net8.0\09.KaminoFactory.pdb
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.AssemblyInfo.cs
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\refint\09.KaminoFactory.dll
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.pdb
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\09.KaminoFactory.genruntimeconfig.cache
+C:\Users\umrel\source\repos\03.ExerciseArrays\09.KaminoFactory\obj\Debug\net8.0\ref\09.KaminoFactory.dll

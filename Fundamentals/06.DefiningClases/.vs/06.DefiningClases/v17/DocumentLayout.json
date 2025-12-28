@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.definingclases\\carmanufacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.definingclases\\carmanufacturer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.definingclases\\carmanufacturer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.definingclases\\carmanufacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\umrel\\desktop\\fundamentals\\06.definingclases\\carmanufacturer\\carmanufacturer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE444FCF-6ABD-4408-9E46-9C3AEE0CBC91}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\carmanufacturer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\Car.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Car.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\Car.cs",
+              "RelativeToolTip": "CarManufacturer\\Car.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:56:12.975Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\Tire.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Tire.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\Tire.cs",
+              "RelativeToolTip": "CarManufacturer\\Tire.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:33:10.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\Engine.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Engine.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\Engine.cs",
+              "RelativeToolTip": "CarManufacturer\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:28:57.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarManufacturer.csproj",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\CarManufacturer.csproj",
+              "RelativeDocumentMoniker": "CarManufacturer\\CarManufacturer.csproj",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\CarManufacturer.csproj",
+              "RelativeToolTip": "CarManufacturer\\CarManufacturer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T10:17:34.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\Program.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Program.cs",
+              "ToolTip": "C:\\Users\\umrel\\Desktop\\Fundamentals\\06.DefiningClases\\CarManufacturer\\Program.cs",
+              "RelativeToolTip": "CarManufacturer\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:56:00.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
