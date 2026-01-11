@@ -1,0 +1,41 @@
+section p,
+article.highlighted p,
+article.highlighted + article p {
+    color: #006400; 
+}
+
+article.highlighted + article p{
+    background-color: rgba(201, 106, 33, 0.667)
+}
+
+.special-list,
+.special-list li,
+.special-list ul {
+    list-style: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.special-list a {
+    text-decoration: none;
+}
+
+
+.special-list > li:nth-child(2) {
+    color: red;
+}
+
+.special-list ul > li:nth-child(3) a {
+    color: green;
+}
+
+.styled-h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.styled-h2 ~ p {
+    color: blue;
+}
+

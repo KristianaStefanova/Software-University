@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+    color: green;
+}
+
+.highlight {
+    background-color: rgb(217, 255, 0);
+}
+
+#special-paragraph {
+    font-weight: bold;
+    font-style: italic;
+}
+
+div {
+    background-color: rgb(120, 35, 35);
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul li {
+    color: darkblue;
+}
+

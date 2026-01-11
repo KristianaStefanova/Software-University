@@ -1,0 +1,48 @@
+a {
+    display: block;
+    line-height: 2;
+}
+
+p.highlighted {
+    color: dodgerblue;
+    font-size: 18px;
+}
+
+div.special-box {
+    background-color: orange;
+}
+
+#important-item1 {
+    color: rgb(26, 156, 113);
+    font-weight: bold;
+}
+
+#important-item3 {
+    font-style: italic;
+    color: crimson;
+    font-weight: bold;
+}
+
+#fancy-link {
+    color: blue;
+    text-decoration: underline;
+    display: block;
+    margin-bottom: -7px;
+}
+
+#fancy-softuni-link {
+    color: rgb(202, 202, 43); 
+    text-decoration: double underline;
+    display: block;
+    margin-bottom: -7px;
+}
+
+.mult-cases-paragraph {
+    color: blue;
+    display: block;
+    margin-bottom: -7px;
+}
+
+
+
+

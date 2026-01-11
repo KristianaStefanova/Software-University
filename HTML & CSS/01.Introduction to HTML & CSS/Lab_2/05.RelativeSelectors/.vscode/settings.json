@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.wait": 200,
+  "liveServer.settings.ignoreFiles": [
+    "**/.vscode/**",
+    "**/.git/**",
+    "**/*.scss",
+    "**/*.sass"
+  ]
+}
