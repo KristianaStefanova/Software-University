@@ -1,0 +1,27 @@
+.fixed-width {
+    width: 300px;
+}
+
+.percentage-width {
+    width: 50%;
+}
+
+.viewport-width {
+    width: 50vw;
+}
+
+.min-max-width {
+    min-width: 100px;
+    max-width: 300px;
+}
+
+div {
+    border: 3px solid black;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.algo {
+    border: 2px solid blue;
+    width: 200px;
+}
