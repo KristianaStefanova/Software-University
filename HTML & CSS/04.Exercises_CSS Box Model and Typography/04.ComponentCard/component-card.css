@@ -1,0 +1,16 @@
+.card-container {
+    border : 1px solid #ccc;
+    border-radius : 10px;
+    width : 30%;
+    position: absolute;
+    left: 35%;
+}
+
+img {
+    width: 100%;
+}
+
+.text-container {
+    padding : 0px 20px 20px 20px;
+}
+

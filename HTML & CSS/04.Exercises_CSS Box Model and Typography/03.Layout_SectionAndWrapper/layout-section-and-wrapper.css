@@ -1,0 +1,18 @@
+main {
+    border: 2px solid green;
+    padding: 20px;
+}
+
+section {
+    border: 2px solid black;
+    padding: 20px 80px;
+    margin: 20px;
+}
+
+article {
+    border: 2px solid blue;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+

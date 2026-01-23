@@ -1,0 +1,21 @@
+section {
+    border : 2px dashed black;
+    padding : 45px 55px 55px 55px;
+}
+
+.margin {
+    background-color: red;
+}
+
+.border {
+    background-color: blue;
+}
+
+.padding {
+    background-color: green;
+}
+
+.content {
+    background-color: yellow;
+    text-align: center;
+}

@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  padding: 40px;
+}
+
+.accordion {
+  max-width: 800px;
+  margin: auto;
+  border: 1px solid #e0e0e0;
+}
+
+details {
+  border-bottom: 1px solid #e0e0e0;
+  padding: 16px;
+}
+
+details:last-child {
+  border-bottom: none;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+  list-style: none;
+}
+
+summary::before {
+  content: "▶";
+  display: inline-block;
+  margin-right: 8px;
+  transition: transform 0.2s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details p {
+  margin-top: 12px;
+  line-height: 1.6;
+  color: #333;
+}

@@ -1,0 +1,23 @@
+section {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 0 20px 40px 20px;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    font-family: Lato, sans-serif;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.second-article {
+    margin-top: 45px;
+}
+
