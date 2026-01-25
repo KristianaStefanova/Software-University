@@ -1,0 +1,43 @@
+.flex-item {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid blue;
+    width: 40%;
+    padding: 10px;
+}
+
+.flex-item > div {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(246, 241, 241);
+    width: 50px;
+    height: 35px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-order > div:nth-child(1) {
+    order: 5;
+}
+
+.custom-order > div:nth-child(2) {
+    order: 3;
+}
+
+.custom-order > div:nth-child(3) {
+    order: 1;
+}
+
+.custom-order > div:nth-child(4) {
+    order: 6;
+}
+
+.custom-order > div:nth-child(5) {
+    order: 2;
+}
+
+.custom-order > div:nth-child(6) {
+    order: 4;
+}

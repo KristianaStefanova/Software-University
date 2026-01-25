@@ -1,0 +1,41 @@
+.flex-item {
+    display: flex;
+    border: 1px solid blue;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.flex-item > div {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(246, 241, 241);
+    text-align: center;
+    min-width: 0;
+}
+
+.flex-basis-5em {
+    width: fit-content;
+}
+
+.flex-basis-5em > div {
+    flex-basis: 5em;
+}
+
+.flex-shrink-zero {
+    width: 22em;
+}
+
+.flex-shrink-zero > div {
+    flex-basis: 5em;
+    flex-shrink: 0;
+}
+
+.flex-grow-one {
+    width: 60em;
+}
+
+.flex-grow-one > div {
+    flex-basis: 5em;
+    flex-grow: 1;
+    min-width: 5em;
+}

@@ -1,0 +1,11 @@
+section {
+    border: 1px solid blue;
+    display: flex;
+    padding: 20px;
+}
+
+article {
+    border: 2px solid black;
+    padding: 20px;
+    background: rgb(240, 237, 237);
+}

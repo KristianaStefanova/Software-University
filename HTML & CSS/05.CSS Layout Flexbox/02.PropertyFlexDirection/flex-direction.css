@@ -1,0 +1,24 @@
+.flex-item {
+    display: flex;
+    border: 1px solid blue;
+    width: 35%;
+    padding: 10px;
+}
+
+.flex-item > div {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(246, 241, 241);
+}
+
+.flex-direction-row-reverse {
+    flex-direction: row-reverse;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
+.flex-direction-column-reverse {
+    flex-direction: column-reverse;
+}

@@ -1,0 +1,29 @@
+.flex-item {
+    display: flex;
+    border: 2px solid blue;
+    width: 35%;
+    padding: 10px;
+    height: 150px;
+}
+
+.flex-item > div {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(246, 241, 241);
+}
+
+.align-items-flex-start {
+    align-items: flex-start;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-flex-end {
+    align-items: flex-end;
+}
+
+.align-items-baseline {
+    align-items: baseline;
+}
