@@ -1,0 +1,49 @@
+@media all {
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        padding: 2em;
+        font: 14px/1.5 Lato, sans-serif;
+    }
+
+    p {
+        padding-bottom: 1.5em;
+    }
+
+    pre {
+        padding-bottom: 1.5em;
+    }
+
+    code {
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+
+body::before {
+    background-color: #369;
+    color: #fff;
+    padding: 1em 1.5em;
+    margin: 0 -2em 2em -2em;
+    display: block;
+    content: 'The device does NOT support hover';
+}
+
+
+@media (hover: none) {
+    body::before {
+        display: block;
+        content: 'The device does NOT support hover';
+    }
+}
+
+@media (hover: hover) {
+    body::before {
+        display: block;
+        content: 'The device does support hover';
+    }
+
+}
