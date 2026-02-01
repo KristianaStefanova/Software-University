@@ -1,0 +1,47 @@
+div {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    margin: auto;
+    background-color: white;
+}
+
+body {
+    padding: 30px;
+    background-color: rgba(128, 128, 128, 0.288);
+}
+
+section {
+    display: flex;
+}
+
+article {
+    border: 1px solid lightgray;
+    padding: 20px;
+    text-align: center;
+}
+
+.big-ctr {
+    flex-grow: 1;
+}
+
+.smaller-ctr, .empty {
+    width: 200px;
+}
+
+.weekend-days, .workday {
+    flex-grow: 1;
+}
+
+.empty {
+    border-top: none;
+}
+
+.noborderbottom {
+    border-bottom: none;
+}
+
+.border-radius {
+    border-radius: 5px;
+}

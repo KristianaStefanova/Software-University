@@ -1,0 +1,169 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(241, 238, 238);
+    padding: 1em 3em;
+    font: 14px/1.5 Lato, sans-serif;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #d6d6d6;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.table thead {
+    background-color: #e0e0e0;
+    font-weight: bold;
+}
+
+.table th,
+.table td {
+    padding: 0.5em 0.7em;
+    text-align: left;
+    border-top: 2px solid #d6d6d6;
+    border-bottom: 2px solid #d6d6d6;
+}
+
+.table tbody tr:hover {
+    background-color: #adb4d1;
+}
+
+h2 {
+    background-color: white;
+    border: 1px solid #d6d6d6;
+    border-bottom: none;
+    padding: 0.7em;
+    border-radius: 5px 5px 0 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.table.first {
+    margin-bottom: 2em;
+}
+
+.table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.table.second {
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+@media (max-width: 600px) {
+
+    .table {
+        display: block;
+    }
+
+    body {
+        padding: 1em;
+    }
+
+    h2 {
+        padding-top: 1em;
+        padding-right: 1em;
+        padding-bottom: 0.8em;
+        padding-left: 1em;
+        border: none;
+        position: relative;
+    }
+
+    h2::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 2px;
+        background: #000;
+    }
+
+    .table thead {
+        display: none;
+    }
+
+    .table tbody {
+        display: block;
+    }
+
+    .table tbody tr {
+        display: block;
+        position: relative;
+    }
+
+    .table tbody tr:not(:last-child)::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 2px;
+        background: #000;
+    }
+
+    .table tbody td {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.7em 1em;
+        border: none;
+        border-bottom: 1px solid #e0e0e0;
+        color: #666;
+    }
+
+    .table tbody td::before {
+        font-weight: bold;
+        color: #333;
+        margin-right: 0.5em;
+    }
+
+    .table tbody tr:not(:last-child) td:last-child {
+        border-bottom: none;
+    }
+
+    .table tbody tr:hover {
+        background-color: transparent;
+    }
+
+    .table.first {
+        border: none;
+        overflow: hidden;
+    }
+
+    .table.first tbody td:nth-child(1)::before {
+        content: "Title 1";
+    }
+
+    .table.first tbody td:nth-child(2)::before {
+        content: "Title 2 is fairly very long";
+    }
+
+    .table.first tbody td:nth-child(3)::before {
+        content: "Title 3";
+    }
+
+    .table.second {
+        border: none;    
+    }
+
+    .table.second tbody td:nth-child(1)::before {
+        content: "Header 1";
+    }
+
+    .table.second tbody td:nth-child(2)::before {
+        content: "Header 2";
+    }
+
+    .table.second tbody td:nth-child(3)::before {
+        content: "Header 3";
+    }
+}
