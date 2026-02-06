@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.site {
+    font: 14px/1.5 Lato, sans-serif;
+    padding: 2em;
+}
+
+
+section {
+    border: 1px solid rgb(211, 204, 204);
+    border-radius: 5px;
+    background-color: rgb(229, 229, 229);
+    margin-bottom: 2em;
+    margin-top: 2em;
+    font-weight: bold;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+legend {
+    padding: 0.6em;
+    font-weight: bold;
+}
+
+fieldset {
+    width: 30%;
+    padding: 2em;
+    border: 2px solid rgb(211, 204, 204);
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+fieldset .field input[type="submit"]{
+    margin-top: 1em;
+}
+
+input {
+    padding: 0.7em;
+    border: 2px solid rgb(211, 204, 204);
+    border-radius: 5px;
+
+}
+
+
