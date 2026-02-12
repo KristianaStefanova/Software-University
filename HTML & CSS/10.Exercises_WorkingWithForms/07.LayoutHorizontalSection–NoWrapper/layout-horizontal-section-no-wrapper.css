@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    border: 2px solid green;
+    padding: 1.5rem;
+}
+
+.section {
+    padding-left: max(0px, calc((100vw - 37.5rem) / 2));
+    padding-right: max(0px, calc((100vw - 37.5rem) / 2));
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1.25rem;
+    border: 2px solid blue;
+}
+
+.section.footer {
+    margin-bottom: 0;
+}
+
+.section p {
+    margin-top: 0.5rem;
+}
+
+@media (max-width: 37.5rem) {
+    .section {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .section > p {
+        font-size: 14px;
+    }
+}

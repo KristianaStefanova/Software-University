@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 14px/1.5 Lato, sans-serif;
+}
+
+body {
+    padding: 2em;
+    background-color: #eee;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    flex: 0 0 35em;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #ffff;
+    border-radius: 0.3em;
+    padding: 2em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+}
+
+.login fieldset {
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 1em;
+}
+
+legend {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    padding-bottom: 1.5rem;
+} 
+
+.login label {
+    display: block;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.login input {
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    padding: 1em;
+}
+
+.login input[type="submit"] {
+    border: none;
+    border-radius: 0.3rem;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 2em;
+    cursor: pointer;
+}
+
+.login .field {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5em;
+
+}
+
+.login .field label {
+    order: -1;
+}  
+
+.login fieldset .field span {
+    font-style: italic;
+    color: #807f7f;
+    font-weight: bold;
+    opacity: 0.7;
+}
+
+@media (max-width: 800px) {
+    body {
+        padding: 1.5em;
+    }
+
+    .login {
+        padding: 1.5em;
+    }
+
+    legend {
+        font-size: 1.75em;
+        padding-bottom: 1.25rem;
+    }
+}
+
+@media (max-width: 600px) {
+    html {
+        font-size: 12px;
+    }
+
+    body {
+        padding: 1em;
+    }
+
+    .login {
+        flex: 1 1 auto;
+        width: 100%;
+        max-width: 35em;
+        padding: 1.5em;
+    }
+
+    legend {
+        font-size: 1.5em;
+        padding-bottom: 1rem;
+    }
+
+    .login label {
+        font-size: 1.1em;
+    }
+
+    .login input {
+        padding: 0.75em;
+    }
+
+    .login input[type="submit"] {
+        font-size: 1.1em;
+        margin-top: 1.5em;
+    }
+
+    .login .field {
+        margin-top: 1.25em;
+    }
+}
+

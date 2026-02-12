@@ -1,0 +1,112 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 14px/1.5 Lato, sans-serif;
+}
+
+body {
+    padding: 2em;
+    background-color: #eee;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    flex: 0 0 35em;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #ffff;
+    border-radius: 0.3em;
+    padding: 2.5em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+}
+
+.login fieldset {
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 1em;
+}
+
+legend {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    border-bottom: 2px solid rgb(195, 193, 193);
+    padding-bottom: 1.5rem;
+} 
+
+.login label {
+    display: block;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.login input {
+    display: block;
+    width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 0.3em;
+    padding: 1em;
+}
+
+.login .field input[type="email"],
+.login .field input[type="password"] {
+    padding-right: 0.5em;
+}
+
+.login input[type="submit"] {
+    border: none;
+    background-color: darkorange;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 2em;
+} 
+
+.login .field {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5em;
+    position: relative;
+}
+
+.login .field:has(input:required) label::after {
+    content: '*';
+    color: red;
+    padding-left: 0.3em;
+    display: inline-block;
+}
+
+.login .field label::before {
+    display: block;
+    position: absolute;
+    font-family: "Font Awesome 7 Free";
+    font-weight: 900;
+    right: 0.5em;
+    top: 0;
+}
+
+.login .field:has(input[type="email"]) label::before {
+    content: '\f0e0';
+}
+
+.login .field:has(input[type="password"]) label::before {
+    content: '\f084';
+}
+
+span {
+    color: gray;
+    font-style: italic;
+    font-weight: bold;
+    opacity: 0.6;
+}
