@@ -1,0 +1,381 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    width: 100%;
+}
+
+.mission i {
+    font-size: 6.25rem;
+    color: #7ed2f6;
+    margin-bottom: 2rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 3rem 1rem 4rem;
+}
+
+nav ul {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: black;
+    opacity: 0.8;
+}
+
+.newstletter {
+    background-color: #7ed2f6;
+    display: flex;
+    align-items: stretch;
+    min-height: 23.75rem;
+    border-top: 0.1rem solid lightgray;
+    box-shadow: 0 0.375rem 0.75rem rgba(0, 0, 0, 5);
+}
+
+.content-ctr {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    padding: 0 8rem 0 6rem;
+    gap: 1rem;
+}
+
+.content-ctr p {
+    font-size: 0.8rem;
+    opacity: 0.8;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+.buttons-ctr {
+    display: flex;
+    gap: 1rem;
+}
+
+.donate-btn {
+    background-color: white;
+    color: black;
+    padding: 0.7rem 3rem;
+    border: black solid 0.0625rem;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    font-weight: bold;
+}
+
+.join-btn {
+    background-color: black;
+    color: white;
+    padding: 0.7rem 4rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    font-weight: bold;
+}
+
+.newstletter .image-wrapper {
+    flex: 1;
+    min-width: 0;
+    max-width: 50%;
+    display: flex;
+}
+
+.newstletter .image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.image-wrapper {
+    margin-right: 3rem;
+}
+
+.mission {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    ;
+}
+
+.mission h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.mission .letter-space {
+    font-size: small;
+    line-height: 1.6;
+    text-align: center;
+    width: 45%;
+    letter-spacing: 0.1rem;
+    font-weight: bold;
+}
+
+.icons-ctr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin: 3rem;
+}
+
+.icons-ctr div h4 {
+    margin-bottom: 1rem
+}
+
+.icons-ctr div p {
+    text-align: center;
+    font-size: 0.8rem;
+    opacity: 0.8;
+    width: 75%;
+}
+
+
+.icons-ctr div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.6;
+}
+
+.purpose {
+    background-color: #7ed2f6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    padding: 3rem;
+}
+
+.purpose .content-ctr {
+    padding: 4rem 8rem;
+}
+
+.purpose .list {
+    display: flex;
+    gap: 5rem;
+    width: 60%;
+}
+
+.purpose ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.purpose .list .left {
+    width: 100%;
+}
+
+.purpose ul li {
+    position: relative;
+    padding-left: 1.125rem;
+    margin-bottom: 1.125rem;
+    line-height: 1.6;
+    font-size: 0.875rem;
+}
+
+.purpose ul li::before {
+    content: "";
+    width: 0.75rem;
+    height: 0.75rem;
+    background: #000;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0.385rem;
+}
+
+.purpose .list .left li {
+    margin-bottom: 2.6rem;
+}
+
+.purpose button {
+    padding: 0.8rem 4rem;
+    color: white;
+    background: black;
+    border-radius: 0.4rem;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s transform 0.5s;
+}
+
+.purpose button:hover {
+    background: #333;
+    transform: translateY(-0.3125rem) scale(1.05);
+}
+
+.animals-ctr {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.animals-ctr h1 {
+    font-weight: 800;
+    margin-bottom: 1rem;
+}
+
+.animals-ctr p {
+    font-size: 0.875rem;
+    margin-bottom: 1.5rem;
+}
+
+.images-ctr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    width: 100%;
+    max-width: 56.25rem;
+}
+
+.images-ctr img {
+    width: 100%;
+    max-width: 13.75rem;
+    height: 13.75rem;
+    object-fit: cover;
+}
+
+.how-we-work {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    gap: 1rem;
+}
+
+.how-we-work h3 {
+    margin-bottom: 1rem;
+}
+
+.how-we-work article h5 {
+    background: #7ed2f6;
+    padding: 1.1rem;
+    border-radius: 0.3rem 0.3rem 0 0;
+}
+
+.how-we-work article p {
+    padding: 1.1rem;
+    font-size: small;
+    font-weight: bold;
+    border: 0.0625rem solid lightgray;
+    border-radius: 0 0 0.3rem 0.3rem;
+}
+
+.how-we-work article {
+    width: 70%;
+}
+
+.news {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+}
+
+.news .image-wrapper {
+    flex: 1;
+    min-width: 0;
+    min-height: 20rem;
+}
+
+.news .image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.news > div:last-child {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: 2rem 4rem;
+}
+
+.image-wrapper img {
+    width: 100%;
+    height: auto;
+}
+
+.news .email {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 2rem;
+}
+
+.news .email input[type="email"] {
+    padding: 1rem;
+    border: 0.0625rem solid lightgray;
+    width: 70%;
+    border-radius: 0.3rem;
+    font-size: 1.2rem;
+}
+
+.news .email input[type="email"]::placeholder {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.news .email input[type="email"]:hover,
+.news .email input[type="email"]:focus,
+.news .email input[type="email"]:focus-visible {
+    outline: none;
+}
+
+.news .email input[type="submit"] {
+    padding: 1rem 4rem;
+    background-color: black;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 0.3rem;
+}
+
+.news .email p {
+    width: 90%;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 3rem;
+}
+
+footer .social-icons {
+    display: flex;
+    gap: 1rem;
+    font-size: 1.2rem;
+}
+
+footer .footer-bottom > div:last-child p {
+    font-weight: bold;
+    font-size: 0.9rem;
+}
