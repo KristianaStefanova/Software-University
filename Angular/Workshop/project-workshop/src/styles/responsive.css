@@ -1,0 +1,46 @@
+@media (max-width: 960px) {
+    .container {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    main {
+        width: 100% !important;
+    }
+
+    aside {
+        width: 100% !important;
+        margin-top: 0;
+    }
+
+    .mini-navbar-wrap {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: stretch !important;
+    }
+
+    .mini-navbar ul {
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-bottom: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    header nav ul {
+        flex-wrap: wrap;
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 640px) {
+    form.login,
+    form.register {
+        width: min(100%, 100%) !important;
+        margin-inline: auto;
+    }
+
+    .theme-content {
+        width: 100% !important;
+        margin-inline: auto;
+    }
+}

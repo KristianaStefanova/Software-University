@@ -1,0 +1,184 @@
+.theme-content .error {
+    color: #b91c1c;
+    font-weight: 500;
+    font-size: 0.8125rem;
+}
+
+.theme-content {
+    width: min(100%, 720px);
+    margin: 2rem auto;
+    padding: 1.5rem 1.75rem;
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    font-family: inherit;
+}
+
+.theme-content .theme-name-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.15rem;
+    border-radius: var(--radius-sm);
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--border);
+}
+
+.theme-name h2 {
+    margin-bottom: 0.35rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+.theme-name p {
+    font-size: 0.8125rem;
+    opacity: 1;
+    color: var(--muted);
+}
+
+.subscribers {
+    text-align: right;
+}
+
+.subscribers span {
+    font-weight: 600;
+}
+
+.subscribers button {
+    margin-top: 0.5rem;
+    padding: 0.4rem 0.75rem;
+    border: none;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-size: 0.75rem;
+    font-weight: 500;
+    transition: opacity 0.15s ease;
+}
+
+.subscribe {
+    background-color: var(--blue, #2563eb);
+    color: white;
+}
+
+.unsubscribe {
+    background-color: #64748b;
+    color: white;
+}
+
+.subscribers button:hover:not(:disabled) {
+    transform: none;
+    opacity: 0.9;
+}
+
+.comment {
+    margin-top: 1.25rem;
+    padding: 1rem 1.1rem;
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+}
+
+.comment header p {
+    padding: 0.5rem 0.65rem;
+    background-color: var(--bg);
+    color: var(--text);
+    border-radius: var(--radius-sm);
+    font-size: 0.8125rem;
+    font-weight: 500;
+    border: 1px solid var(--border);
+}
+
+.comment-main {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.userdetails {
+    min-width: 80px;
+    text-align: center;
+}
+
+.userdetails img {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+}
+
+.post-content {
+    flex: 1;
+}
+
+.post-content p {
+    margin-bottom: 0.5rem;
+    color: var(--muted);
+    line-height: 1.6;
+    font-size: 0.9375rem;
+}
+
+.footer {
+    margin-top: 0.75rem;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 0.8125rem;
+    color: var(--muted);
+}
+
+.answer-comment {
+    margin-top: 2rem;
+}
+
+.answer-comment p {
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    font-size: 0.875rem;
+    color: var(--text);
+}
+
+.answer {
+    background-color: var(--surface);
+    padding: 1rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow);
+}
+
+.answer textarea {
+    width: 100%;
+    border-radius: var(--radius-sm);
+    padding: 0.65rem 0.75rem;
+    border: 1px solid var(--border);
+    resize: vertical;
+    margin-bottom: 0.65rem;
+    font-size: 0.9375rem;
+    background: var(--bg);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.answer textarea:focus {
+    outline: none;
+    border-color: var(--border-strong);
+    box-shadow: 0 0 0 3px var(--ring);
+    background: var(--surface);
+}
+
+.answer button {
+    background-color: var(--primary);
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.answer button:hover:not(:disabled) {
+    background-color: var(--primary-hover, #1d4ed8);
+    transform: none;
+}

@@ -1,0 +1,94 @@
+:host {
+    display: block;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: min(72vh, 640px);
+    width: min(92%, 1100px);
+    margin: 0 auto;
+    padding: 2rem 0 4rem;
+}
+
+.welcome {
+    padding: 1.75rem 2rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-size: 0.9375rem;
+    margin: 0;
+    width: 100%;
+    max-width: 560px;
+    background-color: var(--surface);
+    box-shadow: var(--shadow-md);
+    border-top: 3px solid var(--blue, #2563eb);
+}
+
+.welcome h3 {
+    background-color: transparent;
+    color: var(--blue, #2563eb);
+    text-shadow: none;
+    border-radius: 0;
+    width: 100%;
+    padding: 0 0 0.75rem;
+    margin: 0;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    border-bottom: 1px solid var(--border);
+}
+
+.welcome p {
+    padding: 1.1rem 0 0;
+    margin: 0;
+    border-bottom: none;
+    font-style: normal;
+    color: var(--muted);
+    line-height: 1.65;
+    text-align: center;
+}
+
+.welcome .logged ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    padding: 1.15rem 0 0;
+    margin: 0;
+    list-style: none;
+    justify-content: center;
+}
+
+.welcome .logged li {
+    list-style: none;
+    margin: 0;
+    font-size: 0.875rem;
+}
+
+.welcome .logged a {
+    color: var(--blue, #2563eb);
+    text-decoration: none;
+    background-color: var(--blue-soft, #eff6ff);
+    border: 1px solid rgba(37, 99, 235, 0.25);
+    border-radius: var(--radius-sm);
+    padding: 0.5rem 1.1rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-shadow: none;
+    font-weight: 500;
+    transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.welcome .logged a:hover {
+    cursor: pointer;
+    transform: none;
+    background-color: #dbeafe;
+    border-color: var(--blue, #2563eb);
+    color: var(--blue-hover, #1d4ed8);
+}
+
+.welcome .logged a i {
+    opacity: 0.85;
+}

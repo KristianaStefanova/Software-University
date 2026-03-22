@@ -1,0 +1,178 @@
+form.login,
+form.register {
+    width: min(100%, 400px);
+    margin: 2rem auto 0;
+    text-align: left;
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.75rem;
+    box-shadow: var(--shadow);
+}
+
+.login fieldset,
+.register fieldset {
+    border: none;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.login h2,
+.register h2 {
+    padding-top: 0;
+    margin: 0 0 1.25rem;
+    border-bottom: none;
+    color: var(--text);
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    text-align: center;
+}
+
+.login p,
+.register p {
+    padding-bottom: 0;
+    padding-top: 0;
+    color: var(--muted);
+    font-size: 0.875rem;
+}
+
+.login input,
+.register input {
+    flex: 0 1 100%;
+    border: 1px solid var(--border);
+    padding: 0.55rem 0.75rem;
+    border-left: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    font-size: 0.9375rem;
+    background: var(--surface);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.login input:focus,
+.register input:focus {
+    outline: none;
+    border-color: var(--border-strong);
+    box-shadow: 0 0 0 3px var(--ring);
+}
+
+.login select,
+.register select {
+    border: 1px solid var(--border);
+    padding: 0.45rem 0.5rem;
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+}
+
+.login button,
+.register button {
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    padding: 0.65rem 1.25rem;
+    margin-top: 1.25rem;
+    width: 100%;
+    max-width: 100%;
+    outline: none;
+    box-shadow: none;
+    font-weight: 500;
+    font-size: 0.875rem;
+    transition: background-color 0.15s ease;
+}
+
+.login button:hover:not(:disabled),
+.register button:hover:not(:disabled) {
+    transform: none;
+    filter: none;
+    background-color: var(--primary-hover);
+}
+
+.login .field-icon label span,
+.register .field-icon label span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.login .field-icon i,
+.register .field-icon i {
+    border: 1px solid var(--border);
+    border-right: none;
+    padding: 0.75rem 0.95rem;
+    min-width: 3.25rem;
+    min-height: 2.85rem;
+    box-sizing: border-box;
+    border-top-left-radius: var(--radius-sm);
+    border-bottom-left-radius: var(--radius-sm);
+    background-color: var(--bg);
+    color: var(--muted);
+    font-size: 1.35rem;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login a,
+.register a {
+    color: var(--text);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-size: 0.875rem;
+}
+
+.login a:hover,
+.register a:hover {
+    cursor: pointer;
+    color: var(--muted);
+}
+
+.register .tel {
+    padding-right: 0.8em;
+}
+
+.login .field,
+.register .field {
+    display: flex;
+    padding-bottom: 0.75rem;
+    align-items: stretch;
+}
+
+.login .field input,
+.register .field input {
+    margin-left: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    min-height: 2.85rem;
+}
+
+.register .field-icon select.tel {
+    min-height: 2.85rem;
+    align-self: stretch;
+    border: 1px solid var(--border);
+    border-left: none;
+    border-radius: 0;
+    padding: 0 0.5rem;
+    background: var(--surface);
+    color: var(--text);
+    font-size: 0.875rem;
+}
+
+p.error {
+    text-align: left;
+    border-radius: var(--radius-sm);
+    color: #b91c1c;
+    padding-top: 0.35rem;
+    font-weight: 500;
+    font-size: 0.8125rem;
+}
+
+.input-error {
+    border-color: #dc2626 !important;
+    box-shadow: 0 0 0 1px rgba(220, 38, 38, 0.2);
+}

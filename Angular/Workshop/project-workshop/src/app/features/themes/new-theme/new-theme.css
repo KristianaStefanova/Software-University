@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+}
+
+.new-theme-border {
+    width: 100%;
+    max-width: 560px;
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.75rem 2rem;
+    box-shadow: var(--shadow);
+}
+
+.header-background {
+    text-align: left;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.header-background span {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--text);
+    letter-spacing: -0.02em;
+}
+
+.new-theme-title,
+.new-theme-content {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+label {
+    margin-bottom: 0.35rem;
+    font-weight: 500;
+    font-size: 0.8125rem;
+    color: var(--muted);
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 0.55rem 0.75rem;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+    font-size: 0.9375rem;
+    background: var(--surface);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+    border-color: var(--border-strong);
+    box-shadow: 0 0 0 3px var(--ring);
+}
+
+textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+.new-theme-buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.65rem;
+    margin-top: 1.25rem;
+    flex-wrap: wrap;
+}
+
+.new-theme-buttons button {
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-sm);
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.875rem;
+    transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+button.cancel {
+    background-color: var(--surface);
+    color: var(--text);
+    border-color: var(--border);
+}
+
+button.cancel:hover {
+    background-color: var(--bg);
+}
+
+button.public {
+    background-color: var(--primary);
+    color: white;
+}
+
+button.public:hover {
+    background-color: var(--primary-hover);
+}
+
+p.error {
+    margin-top: 0.35rem;
+    font-size: 0.8125rem;
+    color: #b91c1c;
+    font-weight: 500;
+}
+
+.input-error {
+    border-color: #dc2626 !important;
+}
