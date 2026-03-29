@@ -34,7 +34,7 @@ A collection of labs, exercises, and exam preparations from my studies at [Softw
 - **C#:** Open any `.sln` file in Visual Studio or run `dotnet run` from the project folder. Topics are organized in **Lab**, **Exercise**, and **More exercises** folders.
 - **HTML & CSS:** Open any `.html` file in a browser or use a local server. Exercises cover layout, responsive design, and forms.
 - **MS SQL:** Run `.sql` scripts in SQL Server Management Studio or Azure Data Studio against a SQL Server instance.
-- **ASP.NET:** Open the solution (e.g. `RecipeSharingPlatform.sln`, `Horizons.sln`) in Visual Studio, set the Web project as startup, and run. Configure connection string in `appsettings.json` if using SQL Server.
+- **ASP.NET:** Open the solution in Visual Studio, set the Web project as startup, and run. Configure connection string in `appsettings.json` if using SQL Server.
 
 ---
 
