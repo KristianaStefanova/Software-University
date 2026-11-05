@@ -1,0 +1,25 @@
+function calculate(x, y, operator) {
+
+    let multiply = (x, y) => (x * y);
+    let divide = (x, y) => (x / y);
+    let add = (x, y) => (x + y);
+    let subtract = (x, y) => (x - y);
+
+    switch (operator) {
+        case 'multiply':
+            console.log(multiply(x, y));
+            break;
+        case 'divide':
+            console.log(divide(x, y));
+            break;
+        case 'add':
+            console.log(add(x, y));
+            break;
+        case 'subtract':
+            console.log(subtract(x, y));
+            break;
+    }
+}
+
+calculate(5, 5, 'multiply');
+
