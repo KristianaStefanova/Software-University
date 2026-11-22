@@ -1,13 +1,28 @@
 function solve() {
-    const headersRef = document.querySelectorAll("th");
 
-    headersRef.forEach(header => {
-        const checkbox = header.querySelector("input");
+    const headers = document.querySelectorAll("th");
+    const rows = document.querySelectorAll("tbody tr");
+    const result = [];
 
-        if (checkbox.checked) {
-            console.log(checkbox.name);
-        }
-    })
+    rows.forEach(row => {
 
-    const rowsRef = document.querySelectorAll("tbody td");
+        const obj = {};
+
+        headers.forEach((header, index) => {
+
+            const checkbox = header.querySelector("input");
+
+            if (checkbox.checked) {
+
+                obj[checkbox.name] = row.cells[index].textContent.trim();
+
+            }
+
+        });
+
+        result.push(obj);
+    });
+
+    document.getElementById("output").value =
+        JSON.stringify(result, null, 2);
 }
